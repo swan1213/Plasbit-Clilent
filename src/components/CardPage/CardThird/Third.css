@@ -1,0 +1,249 @@
+.card_third {
+    margin-top: -250px;
+    padding-top: 310px;
+    background-color: #e9f0f5;
+    padding-bottom: 200px;
+}
+
+.card_third .btn_toggle {
+    width: 224px;
+    height: 40px;
+    background-color: #dde3ea;
+    border-radius: 5px;
+    display: flex;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0 auto 50px;
+}
+
+.card_third .btn_toggle .button {
+    width: 50%;
+    height: 100%;
+    padding: 12px 0;
+    align-self: center;
+    color: #97abbd;
+    cursor: pointer;
+}
+
+.card_third .btn_toggle .active {
+    background-color: white;
+    color: var(--lightBlue);
+    border-radius: 5px;
+    box-shadow: 2px 4px 10px #d3d0d0;
+}
+
+.card_third .policy_title {
+    margin: 70px 0 20px;
+    font-size: 15px;
+}
+
+.card_third .policy_title a {
+    margin: 0 20px;
+}
+
+.card_third .plicy_content {
+    line-height: 22px;
+    font-size: 13px;
+    max-width: 990px;
+    margin: 0 auto;
+}
+
+.card_third .step_container {
+    width: 60%;
+    margin: 200px auto 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.card_third .step_container p {
+    margin-top: 50px;
+}
+
+.card_third .step_container .step {
+    text-align: center;
+}
+
+.card_third .step_container .dot {
+    display: flex;
+    align-items: center;
+}
+
+.card_third .step_container .dot img {
+    margin-bottom: 60px;
+}
+
+.card_third .step_container img {
+    width: min-content;
+    height: min-content;
+}
+
+
+
+.card_third .card_container {
+    display: flex;
+    width: 75%;
+    padding: 41px 47px;
+    background-color: #133569;
+    border-radius: 10px;
+    margin: 10px auto;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.card_third .card_container img {
+    width: 199px;
+    height: 124px;
+}
+
+.card_third .card_container .right_container {
+    width: 71%;
+}
+
+.card_third .card_container .card_title {
+    font-size: 24px;
+}
+
+.card_third .card_container .detail_container {
+    display: flex;
+}
+
+.card_third .card_container .details {
+    font-size: 15px;
+    margin-top: 20px;
+    margin-right: 30px;
+    width: 60%;
+}
+
+.card_third .card_container .detail {
+    padding: 11px;
+    border-bottom: 1px solid #1f3f71;
+    display: flex;
+}
+
+.card_third .card_container .detail_content {
+    transition: max-height 0.6s ease;
+    overflow: hidden;
+    color: white;
+    display: block;
+}
+
+.card_third .card_container .detail span:first-child {
+    width: 75%;
+}
+
+.card_third .card_container .actions .btn:first-child {
+    margin-bottom: 30px;
+}
+
+@media (max-width: 1200px) {
+    .card_third .card_container .actions .btn {
+        min-width: 160px;
+    }
+}
+
+@media (max-width: 768px) {
+    .card_third .step_container {
+        display: block;
+    }
+
+    .card_third .step_container .dot {
+        justify-content: center;
+        margin-top: 65px;
+    }
+}
+
+
+.card_third .slideshow-container {
+    max-width: 1000px;
+    position: relative;
+    margin: auto;
+    background-color: #0c2957;
+    padding: 20px;
+}
+
+.card_third .slideshow-container .dots {
+    padding-bottom: 25px;
+}
+
+.card_third .slideshow-container .mySlides {
+    display: none;
+}
+
+.card_third .slideshow-container .mySlides .card_title {
+    font-size: 25px;
+    margin: 20px;
+}
+
+.card_third .slideshow-container .mySlides .details {
+    font-size: 17px;
+    line-height: 45px;
+    color: white;
+}
+
+.card_third .slideshow-container .mySlides .detail {
+    margin: 10px auto;
+    border-bottom: 1px solid #484848;
+    width: 90%;
+}
+
+.card_third .slideshow-container .mySlides img {
+    width: 80%;
+}
+
+.card_third .slideshow-container .prev,
+.card_third .slideshow-container .next {
+    cursor: pointer;
+    position: absolute;
+    top: 23%;
+    width: auto;
+    margin-top: -22px;
+    padding: 16px;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+    background: transparent;
+    border: 0;
+}
+
+.card_third .slideshow-container .prev {
+    left: 2px;
+}
+
+.card_third .slideshow-container .next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+}
+
+.card_third .dot_cardmobile {
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    border: 2px solid #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+}
+
+.card_third .active,
+.card_third .dot_cardmobile:hover {
+    background-color: #fff;
+}
+
+.card_third .slideshow-container .fade {
+    animation-name: fade;
+    animation-duration: 3.5s;
+}
+
+@keyframes fade {
+    from {
+        opacity: 0
+    }
+
+    to {
+        opacity: 1
+    }
+}

@@ -1,0 +1,39 @@
+.wallet_third {
+    padding: 200px 0;
+}
+
+.wallet_third .wallet_container {
+    justify-content: space-around;
+    display: flex;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.wallet_third .left_side img {
+    max-width: 500px;
+    width: 100%;
+    height: min-content !important;
+}
+
+.wallet_third .text {
+    margin-top: 32px;
+}
+
+@media (max-width: 768px) {
+    .wallet_third {
+        padding: 100px 0;
+    }
+
+    .wallet_third .wallet_container {
+        display: block;
+    }
+
+    .wallet_third .mobile {
+        margin-top: 30px;
+    }
+
+    .wallet_third .left_side,
+    .wallet_third .right_side {
+        text-align: center;
+    }
+}

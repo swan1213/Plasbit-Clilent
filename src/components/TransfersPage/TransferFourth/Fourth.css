@@ -1,0 +1,85 @@
+.transfer_fourth .steps {
+    display: flex;
+    width: 75%;
+    margin: 0 auto;
+    justify-content: space-around;
+}
+
+.transfer_fourth .step {
+    width: 300px;
+}
+
+.transfer_fourth .step img {
+    height: 136px;
+    width: min-content;
+}
+
+.transfer_fourth .font_15 {
+    letter-spacing: -0.5px;
+}
+
+.transfer_fourth .myarrow {
+    transform: rotate(90deg);
+}
+
+.transfer_fourth .line {
+    border-right: 3px dashed var(--lightBlue);
+    display: inline-block;
+    height: 100px;
+}
+
+.transfer_fourth .arrow {
+    position: absolute;
+    top: -10px;
+    bottom: 0;
+    height: 10px;
+    border-right: 3px solid var(--lightBlue);
+    display: inline-block;
+}
+
+.transfer_fourth .right {
+    left: 3px;
+    transform: rotate(-45deg);
+}
+
+.transfer_fourth .left {
+    right: 3px;
+    transform: rotate(45deg);
+}
+
+@media (max-width: 768px) {
+
+    .transfer_fourth .title {
+        width: 222px;
+        margin: 0 auto;
+    }
+
+    .transfer_fourth .steps {
+        flex-direction: column;
+    }
+
+    
+
+    .transfer_fourth .myarrow {
+        transform: rotate(180deg);
+    }
+
+    .transfer_fourth .myarrow .left {
+        right: auto;
+        margin-left: -3px;
+    }
+
+    .transfer_fourth .myarrow .right {
+        left: auto;
+        margin-right: 5px;
+    }
+
+    .transfer_fourth .myarrow .line {
+        height: 80px;
+    }
+
+    .transfer_fourth .step {
+        margin-top: 50px;
+        width: 100%;
+    }
+}

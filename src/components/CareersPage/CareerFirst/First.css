@@ -1,0 +1,17 @@
+.career_first .main_title {
+    margin: 70px 0 0;
+}
+
+.main_title_h1{
+    display: none;
+}
+
+.career_first button {
+    margin: 30px auto 0;
+}
+
+@media (max-width: 768px) {
+    .career_first button {
+        margin-top: 50px;
+    }
+}

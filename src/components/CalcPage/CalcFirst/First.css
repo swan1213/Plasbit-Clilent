@@ -1,0 +1,159 @@
+.calculator_first {
+    background-size: cover;
+}
+
+.calculator_first img {
+    z-index: -1;
+    position: relative;
+    width: 103%;
+    min-width: 1800px;
+    height: 1030px;
+    margin-top: -135px;
+    left: 50%;
+}
+
+.calculator_first .calculator_container {
+    width: 80%;
+    max-width: 1400px;
+    margin: -875px auto 0;
+}
+
+.calculator_first .main_title {
+    padding: 35px 0 0;
+    margin-bottom: 0;
+}
+
+.calculator_first .card {
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 30px;
+    border: 2px solid #1a4f87;
+    border-radius: 5px;
+    background: rgba(0, 0, 0, .2);
+    margin-top: 50px;
+}
+
+.calculator_first .label {
+    font-weight: 600;
+}
+
+.calculator_first .bitcoin,
+.calculator_first .currency {
+    width: 47%;
+}
+
+.calculator_first .card .text_white {
+    font-size: 30px;
+    font-weight: bold;
+    align-self: center;
+}
+
+.calculator_first .input {
+    display: flex;
+}
+
+
+.calculator_first input {
+    width: 100%;
+    height: 50px;
+    font-size: 20px;
+    line-height: 36px;
+    color: var(--textBlue);
+    font-weight: bold;
+    padding-left: 20px;
+    background-color: white;
+    border: none;
+}
+
+.calculator_first input:focus,
+select:focus {
+    outline: var(--lightBlue) !important;
+}
+
+.calculator_first .suffix {
+    margin-left: -60px;
+    align-self: center;
+}
+
+.calculator_first .currency .suffix {
+    border: none;
+    color: white;
+    background: var(--lightBlue);
+    height: 50px;
+    margin-left: -100px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.calculator_first .currency .suffix span {
+    align-self: center;
+}
+
+.calculator_first .currency_container {
+    width: 100%;
+}
+
+.calculator_first .bottom {
+    font-weight: 500;
+}
+
+.calculator_first .bottom span {
+    margin-right: 20px;
+    color: white;
+    cursor: pointer;
+}
+
+.calculator_first .bottom span.active {
+    color: var(--lightBlue);
+}
+
+@media (max-width: 768px) {
+    .calculator_first .calculator_container {
+        text-align: center;
+        margin-top: -753px;
+    }
+
+    .calculator_first img {
+        height: 900px;
+    }
+
+    .calculator_first .main_title {
+        margin-bottom: 20px;
+        padding: 0;
+    }
+
+    .calculator_first .card {
+        display: block;
+        padding: 30px 20px;
+        margin-top: 40px;
+    }
+
+    .calculator_first .bitcoin,
+    .calculator_first .currency {
+        width: 100%;
+    }
+
+    .calculator_first .currency {
+        margin-top: 20px;
+    }
+
+    .calculator_first .card .text_white {
+        margin-left: 30px;
+    }
+
+    .calculator_first .bottom span {
+        margin-right: 12px;
+    }
+
+    .calculator_first .suffix {
+        margin-left: -40px;
+        align-self: center;
+    }
+
+    .calculator_first .currency .suffix {
+        width: 85px;
+        margin-left: -85px;
+    }
+}

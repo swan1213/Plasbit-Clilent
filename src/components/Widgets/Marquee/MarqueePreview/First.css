@@ -1,0 +1,86 @@
+.price_first_marquee {
+    width: 90%;
+    margin: 10px auto 0px auto;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.price_first_marquee .slick-slide {
+    padding: 10px;
+}
+
+.price_first_marquee button {
+    display: none !important;
+}
+
+.marquee_slider {
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-bottom: 30px;
+}
+
+.empty-text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70px;
+}
+
+.crypto-join-plasbit {
+    font-size: 12px;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+    margin-bottom: 15px;
+}
+
+.marquee-join-plasbit {
+    margin-bottom: 0px !important
+}
+
+.crypto-join-plasbit div {
+    width: 25px;
+    height: 25px;
+    margin: 0 5px;
+    background: url('https://img.plasbit.com/calc/widget_logo.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.price_first_marquee .slick-list {
+    width: 626px !important;
+}
+
+
+@media (max-width: 768px) {
+    .price_first_marquee .slick-slide {
+        width: 204px !important;
+    }
+
+    .price_first_marquee .slick-list {
+        height: 85px !important;
+        width: 100% !important;
+    }
+
+    .price_first_marquee .coin-value {
+        font-size: 12px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .price_first_marquee .coin-info div:last-child {
+        font-size: 12px;
+    }
+
+    .price_first_marquee .coin-info .icon {
+        margin-right: 10px;
+    }
+}
+
+@media (max-width: 1750px) {
+    .price_first_marquee .slick-list {
+        height: 85px !important;
+        width: 100% !important;
+    }
+}

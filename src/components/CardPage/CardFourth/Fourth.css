@@ -1,0 +1,32 @@
+.card_fourth {
+    padding: 50px 0 100px;
+}
+
+.card_fourth .contain {
+    background-color: #133569;
+    padding: 70px 40px;
+    width: 70%;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+
+.card_fourth .card_title {
+    margin-bottom: 20px;
+}
+
+.card_fourth .fourth_title {
+    margin: 0 auto;
+    padding-bottom: 30px;
+    border-bottom: 1px solid white;
+}
+
+@media (max-width: 767px) {
+    .card_fourth {
+        padding: 0;
+    }
+
+    .card_fourth .contain {
+        width: 100%;
+        border-radius: 0;
+    }
+}

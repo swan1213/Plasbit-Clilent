@@ -1,0 +1,73 @@
+.coin_card {
+    height: 180.5px;
+    padding: 20px;
+    background: white;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.coin_card .top {
+    display: flex;
+    justify-content: space-between;
+}
+
+.coin_card .icon {
+    display: flex;
+    align-items: center;
+}
+
+.coin_card .icon .font_20 {
+    margin-left: 10px;
+}
+
+.coin_card .icon img {
+    width: 31px;
+    height: min-content;
+}
+
+.coin_card .item_img>div>div {
+    text-align: center;
+}
+
+.coin_card .info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.coin_card .info .up_down {
+    display: flex;
+    align-items: center;
+}
+
+.coin_card .info .up_down img {
+    height: min-content;
+    width: min-content;
+}
+
+.coin_card .info .font_20 .up {
+    color: var(--textGreen);
+}
+
+.coin_card .info .font_20 .down {
+    color: var(--textRed);
+}
+
+.coin_card .info .font_15 {
+    padding: 3px 10px;
+    background: #e5ecf4;
+    border-radius: 20px;
+}
+
+@media (max-width: 768px) {
+    .coin_card {
+        padding: 0 !important;
+        margin: 0 !important;
+    }
+
+    .coin_card .item_img>div>div>canvas {
+        width: 100% !important;
+    }
+}

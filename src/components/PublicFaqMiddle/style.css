@@ -1,0 +1,62 @@
+.PublicFaq_middle_container {
+    width: 100%;
+    border-radius: 10px;
+    background-color: #ffffff;
+    margin: 0 auto 80px;
+    box-shadow: 0 1px 20px rgb(183 183 183 / 69%);
+    padding-bottom: 20px;
+  }
+  .PublicFaq_middle_content{
+    padding: 0 7%;
+    cursor: pointer;
+  }
+  .PublicFaq_middle {
+    max-width: 1200px;
+    margin: 0 auto 40px auto;
+    padding: 0 29px;
+    position: relative;
+  }
+  .card_title {
+    font-size: 18px;
+    color: #58657a;
+    font-weight: 600;
+    font-family: "Proxima Nova";
+    margin-bottom: 24px;
+  }
+  .middle_button_back{
+    position: absolute;
+    top: -40px;
+  }
+
+  .card_Description{
+    color: rgba(40, 57, 137, 1);
+    font-family:'Segoe UI';
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 1.5;
+    margin: 0 0 30px 0
+  }
+
+  .h2_container{
+    word-wrap: break-word;
+    white-space: pre-wrap;
+    color: #58657a !important;
+    font-size: 14px;
+  }
+
+  .PublicFaq_middle_container_title .middle_container_desc{
+    margin-bottom: 30px !important
+  }
+  
+  @media only screen and (min-width: 768px) {
+    .PublicFaq_middle_container {
+      width: calc(100% - 30px);
+    }
+  
+  }
+  
+  @media only screen and (max-width: 600px) {
+    .PublicFaq_middle_container {
+      text-align: center;
+    }
+}

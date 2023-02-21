@@ -1,0 +1,232 @@
+.payment_sixth {
+    padding: 250px 0 200px;
+    font-family: "Proxima Nova";
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.payment_sixth_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.payment_sixth_basecircle {
+    width: 520px;
+    height: 520px;
+    border-radius: 266px;
+    border: 5px dashed #0b3259;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.payment_sixth_font65 {
+    width: 390px;
+    height: 390px;
+    border-radius: 212.5px;
+    background-color: #ffffff;
+
+    font-size: 65px;
+    line-height: 70px;
+    color: #1890ff;
+    font-weight: 800;
+    text-align: center;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    position: absolute;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 30px 90px;
+}
+
+.payment_sixth_font65 p {
+    color: #0f2355;
+}
+
+.payment_sixth_circle_left {
+    margin-right:95px;
+}
+
+.payment_sixth_circle_right {
+    margin-left: 205px;
+}
+
+.spin{
+position: absolute;
+    animation: rotate 30s linear infinite;
+}
+@keyframes rotate {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+}
+
+.payment_sixth_child {
+    width: 384px;
+    height: 136px;
+    border-radius: 68px;
+    border: 2px solid #102356;
+    z-index: 1;
+
+    display: flex;
+    align-items: center;
+    padding: 15px;
+    margin: 0 auto;
+}
+
+.payment_sixth_mt_5 {
+    margin-top: 150px;
+}
+
+.payment_sixth_child img {
+    width: 114px;
+    height: 114px;
+    border-radius: 57px;
+    background-color: #1890ff;
+}
+
+.payment_sixth_float {
+    justify-content: end;
+}
+
+.payment_sixth_child span {
+    font-size: 30px;
+    line-height: 34px;
+    color: #062e49;
+    font-weight: bold;
+    margin: auto;
+    text-align: center;
+}
+
+.payment_sixth_line1 {
+    width: 65px;
+    height: 2px;
+    border-bottom: 2px solid black;
+}
+
+.payment_sixth_line2 {
+    width: 40px;
+    height: 2px;
+    border-bottom: 2px solid black;
+    transform: skewY(45deg);
+}
+
+.payment_sixth_linegroup {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.payment_sixth_group {
+    display: flex;
+}
+
+.payment_sixth_ml3 {
+    margin-right: -20px;
+}
+
+.payment_sixth_mr3 {
+    margin-left: -20px;
+}
+
+@media (max-width: 1600px) {
+    .payment_sixth_container {
+        display: block;
+    }
+
+    .payment_sixth_group {
+        display: block;
+    }
+
+    .payment_sixth_mt_5 {
+        margin-top: 0;
+    }
+    .personal {
+    font-size: x-small ;
+    }
+    .payment_sixth_line1 {
+        transform: rotate(90deg);
+        margin: 30px;
+    }
+
+    .payment_sixth_child {
+        width: 330px;
+        height: 115px;
+    }
+    
+    .payment_sixth_child img {
+        width: 98px;
+        height: 98px;
+    }
+
+    .payment_sixth_child span {
+        font-size: 28px;
+    }
+
+    .payment_sixth_basecircle {
+        width: 334px;
+        height: 334px;
+        border-radius: 167px;
+    }
+
+    .payment_sixth_font65 {
+        width: 266px;
+        height: 266px;
+        border-radius: 133px;
+
+        font-size: 46px;
+    }
+
+    .payment_sixth_circle_left {
+        width: 80px;
+        height: 280px;
+        margin-right: 90px;
+    }
+    
+    .payment_sixth_circle_right {
+        width: 70px;
+        height: 265px;
+        margin-left: 100px;
+    }
+    
+    .spin{
+    position: absolute;
+        animation: rotate 30s linear infinite;
+    }
+    @keyframes rotate {
+        from {
+          transform: rotate(0deg);
+        }
+        to {
+          transform: rotate(360deg);
+        }
+    }
+
+    .payment_sixth_line2 {
+        display: none;
+    }
+
+
+    .payment_sixth {
+        padding: 150px 0 100px;
+    }
+
+    .payment_sixth_child {
+        justify-content: space-between;
+    }
+
+    .payment_sixth_ml3 {
+        margin-right: 0;
+    }
+
+    .payment_sixth_mr3 {
+        margin-left: 0;
+    }
+}

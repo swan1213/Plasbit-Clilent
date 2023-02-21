@@ -1,0 +1,37 @@
+.career_third {
+    width: 90%;
+    max-width: 1250px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.career_third .card {
+    width: 28%;
+    box-shadow: 0px 0px 18px rgba(0, 0, 0, .26);
+    text-align: center;
+    border-radius: 15px;
+    padding: 50px 0;
+    cursor: pointer;
+}
+
+.career_third .card:hover {
+    transform: translate(0, -5px);
+    transition-duration: 0.5s;
+    box-shadow: -1px 5px 10px rgba(0, 0, 0, .26);
+}
+
+@media (max-width: 768px) {
+    .career_third {
+        flex-direction: column;
+    }
+
+    .career_third .card {
+        width: 100%;
+        margin: 10px 0;
+    }
+
+    .career_third .card .title {
+        min-height: auto;
+    }
+}

@@ -1,0 +1,95 @@
+.calculator_second {
+    width: 90%;
+    max-width: 1800px;
+    margin: 190px auto 100px;
+}
+
+.calculator_second .sub_title {
+    text-align: center;
+    background: #eee;
+    padding: 10px;
+    width: 350px;
+    border-radius: 5px;
+    margin: 0 auto;
+}
+
+.calculator_second .percent span {
+    border: 1px solid;
+    border-radius: 5px;
+    padding: 2px 20px;
+}
+
+.calculator_second .help_title {
+    color: var(--textBlue);
+}
+
+.calculator_second .chart {
+    margin-top: 80px;
+}
+
+.calculator_second .chart_title {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+.calculator_second .chart_title .time span {
+    padding: 10px 40px;
+    border-radius: 30px;
+    border: 2px solid lightgrey;
+    margin-right: 20px;
+    cursor: pointer;
+}
+
+.calculator_second .chart_title span.active {
+    color: var(--lightBlue);
+    border-color: var(--lightBlue);
+}
+
+.calculator_second .arrow {
+    border: solid black;
+    border-width: 0 2px 2px 0;
+    display: inline-block;
+    padding: 3px;
+    transform: rotate(45deg);
+    position: relative;
+}
+
+@media (max-width: 1350px) {
+    .calculator_second {
+        margin-top: 200px;
+    }
+}
+
+@media (max-width: 768px) {
+    .calculator_second {
+        margin: 200px auto 20px;
+    }
+
+    .calculator_second .sub_title {
+        width: 300px;
+    }
+
+    .calculator_second .chart {
+        margin-top: 30px;
+        text-align: center;
+    }
+
+    .calculator_second .chart_title {
+        display: block;
+    }
+
+    .calculator_second select.time {
+        width: 80%;
+        height: 45px;
+        margin-top: 20px;
+        padding: 5px 20px;
+        border-radius: 8px;
+        appearance: none;
+    }
+
+    .calculator_second .chart .right {
+        left: -30px;
+        top: -3px;
+    }
+}

@@ -1,0 +1,27 @@
+.apply {
+    width: 90%;
+    max-width: 980px;
+    margin: 50px auto;
+}
+
+.apply ul li {
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 35px;
+    list-style: disc;
+}
+
+.apply .description,
+.apply .appy_form {
+    display: none;
+}
+
+.apply .active {
+    display: block;
+}
+
+.appy_form {
+    margin-top: 20px;
+    padding: 20px;
+    background: var(--bgDashboard);
+}

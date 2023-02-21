@@ -1,0 +1,224 @@
+.cardSection {
+  width: 100%;
+  border-radius: 10px;
+  background-color: #ffffff;
+  margin: 0 auto 80px;
+  box-shadow: 0 1px 20px rgb(183 183 183 / 69%);
+}
+.Button_back{
+  width: 10% !important;
+}
+.cardContent {
+  display: flex;
+  flex-direction: column;
+  padding: 56px;
+  border-bottom: 2px solid rgb(0 0 0 / 7%);
+}
+
+.cardTitle {
+  font-size: 35px;
+  color: #082848;
+  font-weight: bold;
+  font-family: "Proxima Nova";
+  margin-bottom: 24px;
+}
+
+.cardInfoWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 24px;
+}
+
+.cardInfo {
+  display: flex;
+  align-items: center;
+}
+
+.cardUserIconWrapper {
+  border: 2px solid #124a8d;
+  border-radius: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cardUserIcon {
+  font-size: 22px;
+  color: #124a8d !important;
+}
+
+.cardUsername {
+  font-size: 20px;
+  line-height: 36px;
+  color: #8e8f90;
+  font-weight: bold;
+  font-family: "Proxima Nova";
+  padding: 0 16px;
+}
+
+
+.lastVisited {
+  font-size: 20px;
+  color: #8e8f90;
+  font-weight: bold;
+  font-family: "Proxima Nova";
+  padding: 0 16px;
+  border-left: 3px solid #283957;
+}
+
+.cardDescription {
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+
+.cardDescription span,p {
+  font-size: 14px;
+  line-height: 1.5 !important;
+  font-family: "Proxima Nova" !important;
+}
+
+.cardDescription a>span {
+  color: rgb(97, 170, 255) !important;
+}
+
+.cardDescription a>span:active {
+  color: rgb(89,0,138) !important;
+}
+
+.socialIconsWrapper {
+  margin-top: 56px;
+}
+
+.socialIconList {
+  list-style-type: none;
+  margin-bottom: 0;
+}
+
+.socialIconItem {
+  float: left;
+  margin-right: 16px;
+}
+
+.socialIconItem img {
+  width: 36px;
+  height: 36px;
+}
+
+.helpfulWrapper {
+  padding: 56px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.helpfulLabel {
+  font-size: 25px;
+  color: #082848;
+  font-family: "Proxima Nova";
+}
+
+.helpfulButtonGroupWrapper {
+  width: 265px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 25px;
+  margin-bottom: 20px;
+}
+
+.helpfulButtonWrapper {
+  width: 120px;
+}
+
+.helpfulButton {
+  width: 100% !important;
+  height: 50px !important;
+  border-radius: 5px !important;
+  border: 1px solid #727272 !important;
+  font-size: 20px !important;
+  color: #283957 !important;
+  font-weight: bold !important;
+  font-family: "Proxima Nova";
+}
+
+.helpfulComment {
+  font-size: 20px;
+  line-height: 72px;
+  color: #283957;
+  font-family: "Myriad Pro";
+  margin-bottom: 25px;
+}
+
+.helpfulSubmitLink {
+  margin-left: 10px;
+}
+
+@media only screen and (min-width: 768px) {
+  .cardSection {
+    width: calc(100% - 30px);
+  }
+
+}
+
+@media only screen and (max-width: 600px) {
+  .cardSection {
+    text-align: center;
+  }
+
+  .cardContent {
+    padding: 30px 25px 20px;
+  }
+
+  .cardInfoWrapper {
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .cardInfo {
+    margin-bottom: 30px;
+  }
+
+  .socialIconList {
+    display: inline-block;
+  }
+
+  .helpfulWrapper {
+    padding: 50px 32px 74px;
+  }
+}
+
+@media only screen and (max-width: 425px) {
+  .cardInfo {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .helpfulButtonGroupWrapper {
+    width: 100%;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .helpfulButtonWrapper {
+    width: 100%;
+  }
+
+  .helpfulButtonWrapper:first-child {
+    margin-bottom: 16px;
+  }
+
+  .lastVisited {
+    border-top: 3px solid #283957;
+    width: 100%;
+    padding-top: 8px;
+    border-left: #fff;
+  }
+
+  .helpfulComment {
+    line-height: 25px;
+  }
+}

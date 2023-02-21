@@ -1,0 +1,42 @@
+.contact_first {
+    background-size: cover;
+}
+
+.contact_first .contact_container {
+    width: 80%;
+    margin: -135px auto 0;
+    max-width: 1100px;
+    padding: 190px 0 360px;
+}
+
+.contact_first .text {
+    color: white;
+}
+
+.contact_first .main_title {
+    padding: 35px 0 0;
+}
+
+.contact_first .text {
+    margin-bottom: 40px;
+}
+
+@media (max-width: 768px) {
+    .contact_first {
+        
+    }
+    .contact_first .contact_container {
+        margin-top: -210px;
+        text-align: center;
+        width: 100%;
+    }
+    .contact_first .contact_container .content_texts{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .contact_first .text {
+        margin-bottom: 25px;
+    }
+}

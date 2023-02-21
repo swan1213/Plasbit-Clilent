@@ -1,0 +1,42 @@
+.transfer_second {
+    width: 75%;
+    margin: 0 auto;
+}
+
+.transfer_second .cards {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.transfer_second .transfer_card {
+    width: 47%;
+    margin: 12.5px;
+}
+
+.transfer_second .btn {
+    margin: 20px auto;
+}
+
+@media (max-width: 768px) {
+    .transfer_second {
+        margin-top: 50px;
+        width: 90%;
+    }
+
+    .transfer_second .title {
+        margin: 0 20px 10px;
+    }
+
+    .transfer_second .transfer_card {
+        width: 100%;
+        margin: 12.5px 0;
+    }
+
+    .transfer_second>.font_25 {
+        font-size: 20px;
+    }
+
+    .transfer_second .btn {
+        width: 100%;
+    }
+}

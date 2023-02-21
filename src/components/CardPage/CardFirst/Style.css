@@ -1,0 +1,88 @@
+:root {
+  --card-width: 370px;
+  --card-height: 230px;
+  --card-transition-duration: 1600ms;
+  --card-transition-easing: ease;
+}
+
+@media (max-width: 767px) {
+  :root {
+    --card-width: 200px;
+    --card-height: 125px;
+  }
+}
+
+.card_first {
+  padding: 190px 0 360px;
+  margin-top: -135px;
+  background-size: cover;
+}
+
+.card_first .main_title {
+  margin-bottom: 60px;
+}
+
+.card_first .main_title div {
+  margin-top: 30px;
+}
+
+.card_first .order_card {
+  margin-top: 45px;
+}
+
+.card_first .card_btns {
+  display: flex;
+  width: 44%;
+  margin: 0 auto;
+}
+
+.card_first .card_btns .btn {
+  margin: 0 auto;
+}
+
+.card_first .card-detail-panel {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1300px;
+  margin: 50px auto 0;
+  color: white;
+}
+
+.card_first .card-detail-panel img {
+  width: min-content !important;
+  height: min-content !important;
+}
+
+.card_first .card-list {
+  width: 85%;
+  height: 410px;
+  margin: 0 auto;
+  display: flex;
+}
+
+@media (max-width: 767px) {
+
+  .card_first {
+    padding: 150px 0 250px;
+  }
+
+  .card_first .main_title {
+    margin-bottom: 0;
+  }
+
+  .card_first .mobile_detail {
+    margin: 0 auto;
+  }
+
+  .card_first .card-list {
+    height: 250px;
+  }
+
+  .card_first .card-detail-panel {
+    margin: 20px auto 70px;
+  }
+
+  .card_first .card_btns {
+    width: 70%;
+  }
+}

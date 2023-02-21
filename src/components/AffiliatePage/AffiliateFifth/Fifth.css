@@ -1,0 +1,19 @@
+.affiliate_fifth .faqs {
+  width: 70%;
+  margin: 50px auto 100px;
+}
+
+.affiliate_fifth .transfer_accordion {
+  margin: 10px 0;
+}
+
+@media (max-width: 768px) {
+  .affiliate_fifth .title {
+      margin: 30px auto 0;
+  }
+
+  .affiliate_fifth .faqs {
+      width: 90%;
+      margin: 0 auto 100px;
+  }
+}

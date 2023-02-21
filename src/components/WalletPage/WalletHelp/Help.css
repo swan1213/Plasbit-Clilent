@@ -1,0 +1,49 @@
+.wallet_help {
+    padding: 56px 0;
+    background-color: #0f5db7;
+    position: relative;
+    overflow: hidden;
+}
+
+.wallet_help img {
+    position: absolute;
+    left: 50%;
+    margin-left: -250px;
+    top: 35px;
+    z-index: 1;
+}
+
+.wallet_help .help_inner .link{
+    background-color: transparent;
+    color: #5ac4f5 !important;
+
+}
+
+.wallet_help .help_inner .link:hover{
+    color: white !important;
+
+}
+
+.wallet_help .help_inner {
+    width: 90%;
+    justify-content: space-around;
+    margin: 0 auto;
+    z-index: 2;
+    align-items: center;
+}
+
+@media (max-width: 768px) {
+    .wallet_help .help_inner {
+        display: block;
+        text-align: center;
+        width: 70% 
+    }
+
+    .wallet_help .btn_mobile {
+        margin-bottom: 25px;
+    }
+
+    .text {
+        max-width: 500px !important;
+    }
+}

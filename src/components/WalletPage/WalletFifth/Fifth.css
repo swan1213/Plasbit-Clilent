@@ -1,0 +1,63 @@
+.wallet_fifth {
+    padding: 120px 0;
+}
+
+.wallet_fifth .content {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 40px;
+}
+
+.wallet_fifth .step_container {
+    width: 80%;
+    margin: 100px auto 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.wallet_fifth .step_container .step {
+    text-align: center;
+}
+
+.wallet_fifth .step_container .dot {
+    display: flex;
+    align-items: center;
+}
+
+.wallet_fifth .step_container .dot img {
+    margin-bottom: 60px;
+}
+
+.wallet_fifth .step_container .dot img,
+.wallet_fifth .step_container .step img{
+    width: min-content !important;
+    height: min-content !important;
+}
+
+.wallet_fifth a {
+    margin: 80px auto 0;
+}
+
+@media (max-width: 768px) {
+    .wallet_fifth {
+        padding: 80px 0 120px;
+    }
+
+    .wallet_fifth .step_container {
+        display: block;
+        margin: 0 auto;
+    }
+
+    .wallet_fifth .step_container .dot {
+        justify-content: center;
+
+    }
+
+    .wallet_fifth .step_container .dot img {
+        margin: 50px 0 0 0;
+    }
+
+    .wallet_fifth .step_container .step img {
+        width: 100%;
+    }
+}

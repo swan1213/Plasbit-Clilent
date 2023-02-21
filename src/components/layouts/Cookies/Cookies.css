@@ -1,0 +1,75 @@
+.cookie-container {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: #0e204e;
+    color: #fff;
+    padding: 20px 32px;
+    /* box-shadow: 0 -2px 16px rgba(47, 54, 64, 0.39); */
+    z-index: 10;
+    font-size: 100%;
+    transition: 400ms;
+    animation: fadeIn 1s ease-in-out;
+    line-height: 1.575;
+}
+
+@keyframes fadeIn {
+    from {
+      position: fixed;
+      bottom: -220px;
+    }
+    to {
+      position: fixed;
+      bottom: 0;
+    }
+  }
+
+.cookie-btn {
+    background: #0e204e;
+    color: #eeeeee;
+    border-color: #eeeeee;
+    padding: 12px 48px;
+    font-size: 100%;
+    margin-bottom: 16px;
+    cursor: pointer;
+    border-radius: 14px;
+}
+
+.cookie-manage-button {
+    background: #0e204e;
+    color: #eeeeee;
+    border: 0;
+    font-size: 100%;
+    cursor: pointer;
+    padding: 12px 24px;
+}
+
+.ant-tabs-left>.ant-tabs-nav .ant-tabs-tab {
+    border-bottom: 1px solid #eee;
+    height: 25%;
+    font-weight: bold;
+}
+
+.ant-modal-title {
+    font-size: 20px !important;
+    font-weight: bold !important;
+    padding: 10px 21px !important;
+}
+
+.ant-modal-content,
+.ant-modal-header {
+    border-radius: 8px !important;
+}
+
+.ant-modal-body {
+    padding: 0 24px !important;
+}
+
+.ant-modal-footer {
+    padding: 15px 23px !important;
+}
+
+.cookie-container a {
+    color: #68a7e3 !important;
+}

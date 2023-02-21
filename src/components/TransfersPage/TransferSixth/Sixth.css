@@ -1,0 +1,56 @@
+.transfer_sixth {
+    margin-top: -182px;
+    padding: 200px 0;
+    clip-path: polygon(0% 0%, 100% 15%, 100% 100%, 0% 85%);
+    background-size: cover;
+}
+
+.transfer_sixth .tansfer_container {
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+}
+
+.transfer_sixth .tansfer_container img {
+    width: 741px;
+    height: 565px;
+}
+
+.transfer_sixth .faqs {
+    display: block;
+}
+
+.transfer_sixth .transfer_accordion {
+    margin: 10px auto;
+}
+
+@media (max-width: 768px) {
+    .transfer_sixth {
+        clip-path: polygon(0% 0%, 100% 4%, 100% 100%, 0% 96%);
+        padding: 50px 0 120px;
+        margin-top: 0;
+    }
+
+    .transfer_sixth .title {
+        width: 250px;
+        margin: 0 auto;
+    }
+
+    .transfer_sixth .tansfer_container {
+        flex-direction: column;
+    }
+
+    .transfer_sixth img {
+        width: 100% !important;
+        height: auto !important;
+    }
+
+    .transfer_sixth .faqs {
+        margin: 40px auto;
+    }
+
+    .transfer_sixth .btn {
+        width: 100%;
+    }
+}

@@ -1,0 +1,53 @@
+.PublicFaq_title_container {
+    max-width: 1103px;
+    height: 131px;
+    margin: 0 auto;
+}
+
+.PublicFaq_title_text_inner {
+    text-align: center;
+}
+
+.PublicFaq_title_text {
+    font-size: 38px;
+    line-height: 45px;
+    color: #082848;
+    font-weight: 800;
+    font-family: "Proxima Nova";
+    text-align: center;
+    filter: drop-shadow(0px 23px 13.5px rgba(40,57,87,0.2));
+}
+
+.PublicFaq_title_span{
+    color:#1890FF;
+}
+
+.PublicFaq_secondary_title_container {
+    margin: 43px 9px 0px 5px;
+}
+
+.PublicFaq_secondary_title_text_inner {
+    max-width: 1089px;
+    margin: 0 auto;
+}
+
+.PublicFaq_secondary_title_text {
+    font-size: 20px;
+    line-height: 36px;
+    color: #283957;
+    font-weight: bold;
+    font-family: "Proxima Nova";
+    text-align: center;
+}
+
+
+@media screen and (max-width: 1100px) {
+    .PublicFaq_title_container {
+      max-width: 334px;
+      height: 216px;
+    }
+    .PublicFaq_secondary_title_text_inner{
+        max-width: 334px;
+        height: 169px;
+    }
+}

@@ -1,0 +1,163 @@
+.privacy {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.privacy .tabs {
+    display: flex;
+    margin-top: 50px;
+}
+
+.privacy .tab {
+    cursor: pointer;
+    margin: 0 15px;
+}
+
+.privacy a:hover {
+    color: var(--textBlue);
+}
+
+.privacy .tab.active {
+    border-bottom: 1px solid var(--lightBlue);
+}
+
+.privacy .tab_content {
+    display: none;
+    padding: 90px 20px;
+}
+
+.privacy .tab_content.active {
+    display: block;
+}
+
+.privacy .tab_title {
+    margin: 0;
+    font-size: 40px;
+    line-height: 50px;
+}
+
+.privacy .tab_text {
+    font-size: 23px;
+    padding-bottom: 30px;
+    border-bottom: 1px solid #eee;
+}
+
+.privacy .index_content {
+    display: flex;
+}
+
+.privacy .index {
+    width: 300px;
+    padding: 30px 0;
+}
+
+.privacy .index a {
+    display: block;
+    width: 300px;
+    line-height: 25px;
+    margin: 15px 0;
+    top: 100px;
+}
+
+.privacy .content {
+    padding: 30px;
+    margin-top: 0px;
+}
+
+.privacy .content_title {
+    font-size: 40px;
+    line-height: 55px;
+    margin: 10px 0;
+}
+
+.privacy .content_subtitle {
+    font-size: 25px;
+    line-height: 35px;
+    margin: 15px 0;
+}
+
+.privacy .content_text {
+    margin: 15px 0;
+    font-size: 20px;
+    line-height: 28px;
+}
+
+.privacy ol,
+.privacy ul {
+    margin-left: 40px;
+}
+
+.privacy ol li {
+    list-style: auto;
+}
+
+.privacy ul li {
+    list-style: disc;
+}
+
+.privacy .btn_group {
+    display: block;
+    text-align: center;
+}
+
+.privacy .btn_group div {
+    display: flex;
+}
+
+.privacy .btn {
+    margin: 30px auto;
+}
+
+@media (max-width: 768px) {
+    .privacy .tabs {
+        flex-direction: column;
+        margin-top: 0;
+    }
+
+    .privacy .tab {
+        padding: 10px;
+        margin: 5px;
+        background: var(--lightGrey);
+    }
+
+    .privacy .tab.active {
+        background: var(--lightBlue);
+        color: white;
+    }
+
+    .privacy .tab_content {
+        padding: 40px 5px;
+    }
+
+    .privacy .tab_title {
+        font-size: 30px;
+    }
+
+    .privacy .tab_text {
+        border: none;
+        padding: 0;
+    }
+
+    .privacy .index_content {
+        flex-direction: column;
+    }
+
+    .privacy .index {
+        padding: 20px 0;
+    }
+
+    .privacy .index a {
+        border: 1px solid var(--lightGrey);
+        margin: 8px 0;
+        padding: 9px;
+    }
+
+    .privacy .content {
+        padding: 0;
+    }
+
+    .privacy .content_title {
+        font-size: 30px;
+        line-height: 40px;
+    }
+}

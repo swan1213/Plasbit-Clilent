@@ -1,0 +1,23 @@
+.logos {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 4em;
+}
+
+.logo-container {
+  display: flex;
+  width: 60%;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo-container div img {
+  width: min-content;
+  height: min-content;
+}
+
+@media (max-width: 767px) {
+  .logos {
+    display: none;
+  }
+}

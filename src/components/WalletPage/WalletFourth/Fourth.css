@@ -1,0 +1,46 @@
+.wallet_fourth .wallet_container {
+    display: flex;
+    justify-content: space-around;
+    width: 90%;
+    margin: 0 auto;
+    padding: 120px 0;
+}
+
+.wallet_fourth .content_container {
+    display: flex;
+}
+
+.wallet_fourth .content_container img {
+    align-self: flex-start;
+    margin-top: 46px;
+    width: min-content !important;
+    height: min-content !important;
+}
+
+.wallet_fourth .sub_container {
+    margin-left: 20px;
+}
+
+.wallet_fourth .sub_title {
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 34px;
+    margin-top: 40px;
+}
+
+.wallet_fourth .text {
+    margin-top: 16px;
+    color: white;
+}
+
+.wallet_fourth .right_side img {
+    width: 100%;
+    max-width: 600px;
+    height: min-content !important;
+}
+
+@media (max-width: 768px) {
+    .mobile_center {
+        text-align: center;
+    }
+}

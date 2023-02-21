@@ -1,0 +1,10 @@
+.main_blog .inner {
+    margin: 0 auto;
+    max-width: 1040px;
+    width: 100%;
+}
+
+.main_blog .outer {
+    position: relative;
+    padding: 0 4vw;
+}

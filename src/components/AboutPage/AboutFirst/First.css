@@ -1,0 +1,23 @@
+.about_first .main_title {
+    margin: 70px 0 0;
+}
+
+.about_main_container h1{
+    display: none;
+} 
+
+.about_first button {
+    margin: 30px auto 0;
+}
+
+@media (max-width: 768px) {
+    .about_first .main_title {
+        width: 300px;
+        margin: 10px auto 20px;;
+    }
+
+    .about_first .text {
+        padding: 0 20px;
+        margin: 0 auto;
+    }
+}

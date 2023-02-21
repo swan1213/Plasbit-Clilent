@@ -1,0 +1,110 @@
+.about_fifth {
+    max-width: 1200px;
+    margin: 0 auto 150px;
+}
+
+.about_fifth .tab_container {
+    display: flex;
+    padding-top: 50px;
+    border-top: 1px solid var(--lightGrey);
+}
+
+.about_fifth .tabs {
+    font-size: 28px;
+}
+
+.about_fifth .tab {
+    width: 380px;
+    padding: 25px 0;
+    padding-left: 25px;
+    cursor: pointer;
+    background-image: linear-gradient(var(--lightGrey), var(--lightGrey)), linear-gradient(white, white);
+    background-repeat: no-repeat;
+    background-size: 2px 100%, calc(100% - 0px) 0;
+}
+
+.about_fifth .tab.order {
+    background-image: linear-gradient(var(--lightBlue), var(--lightBlue)), linear-gradient(white, white);
+    background-repeat: no-repeat;
+    background-size: 2px 100%, calc(100% - 0px) 0;    
+}
+
+.about_fifth .tab .tab_title{
+    padding-left: 25px;
+}
+
+.about_fifth .ant-radio-group {
+    font-size: inherit;
+}
+
+.about_fifth .tab.active {
+    color: var(--lightBlue);
+    background-image: linear-gradient(var(--lightBlue), var(--lightBlue)), linear-gradient(white, white);
+    background-repeat: no-repeat;
+    background-size: 2px 100%, calc(100% - 0px) 0; 
+}
+
+.about_fifth .tab.half {
+    background-image: linear-gradient(var(--lightBlue) 50%, var(--lightGrey) 50%), linear-gradient(white, white);
+    background-repeat: no-repeat;
+    background-size: 2px 100%, calc(100% - 0px) 0;
+}
+
+.about_fifth .content {
+    display: none;
+    margin-top: 0;
+}
+
+.about_fifth .content.active {
+    display: block;
+}
+
+.about_fifth .content .text {
+    margin-bottom: 50px;
+    font-size: 28px;
+}
+
+@media (max-width: 768px) {
+    .about_fifth .title {
+        text-align: center;
+        margin-bottom: 0;
+    }
+
+    .about_fifth .tab_container {
+        display: block;
+        width: 90%;
+        margin: 0 auto;
+        padding-top: 0;
+        border: none;
+        text-align: center;
+    }
+
+    .about_fifth .accordion_text:first-child {
+        margin-top: 0;
+        border-top: 1px solid var(--lightGrey);
+    }
+
+    .about_fifth .accordion_text .accordion {
+        background: white;
+        border-bottom: 1px solid var(--lightGrey);
+        border-radius: 0;
+        justify-content: center;
+    }
+
+    .about_fifth .accordion_text .accordion.active p {
+        color: var(--lightBlue);
+    }
+
+    .about_fifth .accordion_text .accordion_title,
+    .about_fifth .accordion_text .text {
+        color: var(--textBlue);
+    }
+
+    .about_fifth .accordion_text .text {
+        font-size: 22px;
+        padding: 10px 50px 5px 50px;
+    }
+    .about_fifth {
+        margin: 0px auto 40px;
+    }
+}

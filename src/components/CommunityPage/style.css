@@ -1,0 +1,12 @@
+.community_justify_end {
+    display: flex !important;
+    justify-content: flex-end;
+}
+
+.ant-card-body {
+    overflow: auto !important;
+}
+
+.ant-card-actions {
+    border-top: 1px solid #142f51
+}

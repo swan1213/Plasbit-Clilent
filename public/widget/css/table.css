@@ -1,0 +1,181 @@
+#crypto_table {
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.coin-table-side {
+    overflow: auto hidden;
+}
+
+.coin-table-panel {
+    width: 100%;
+    font-size: 14px;
+    border-collapse: collapse;
+    font-family: "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+.coin-table-head {
+    background: rgba(165, 165, 164, 0.1);
+}
+
+.coin-table-panel th {
+    font-weight: 400;
+}
+
+.table-heading-item {
+    padding: 0 !important;
+}
+
+.coin-table-body td {
+    padding: 0 !important;
+}
+
+.hashtag-number {
+    padding: 0 !important;
+}
+
+.coin-table-panel td>div {
+    padding-left: 15px;
+}
+
+.coin-table-panel tr {
+    border-bottom: 1px solid rgba(165, 165, 164, 0.15);
+}
+
+.coin-table-panel th,
+td>div {
+    text-align: left;
+}
+
+.coin-table-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 8px;
+}
+
+.coin-table-image img {
+    z-index: 1;
+    margin-top: 0px !important;
+    left: 0px !important;
+    min-width: 24px !important;
+    height: 24px;
+    background-repeat: no-repeat;
+}
+
+.table-coin-name {
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.table-coin-symbol {
+    color: #A6B3C0;
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.head-button {
+    border: none;
+    margin-right: 10px;
+    cursor: pointer;
+    background: transparent;
+}
+
+.head-button div {
+    font-size: 16px;
+    height: 10px;
+    display: flex;
+    align-items: center;
+    color: rgba(165, 165, 164, 0.6);
+}
+
+.head-button span:nth-child(0) {
+    padding-bottom: 5px;
+}
+
+.head-button span:nth-child(1) {
+    padding-top: -5px;
+}
+
+.head-item {
+    padding-left: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.hashtag-number {
+    width: 25px;
+}
+
+@media (max-width: 768px) {
+    .coin-table-side {
+        overflow: auto hidden;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+
+    .hide-table-heading {
+        display: none;
+    }
+
+    .hide-table-element {
+        display: none;
+    }
+
+    .head-item-mobile-Name {
+        width: auto !important;
+        justify-content: center;
+    }
+
+    .head-item-mobile-Price {
+        width: 100px !important;
+        justify-content: center;
+    }
+
+    .div-names {
+        justify-content: center !important;
+    }
+}
+
+@media only screen and (max-width: 1000px) {
+
+    .hide-table-heading-7 {
+        display: none;
+    }
+
+    .hide-canvas {
+        display: none;
+    }
+}
+
+
+@media only screen and (max-width: 840px) {
+
+    .hide-table-heading-Market {
+        display: none;
+    }
+
+    .hide-market {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 660px) {
+
+    .hide-table-heading-24 {
+        display: none;
+    }
+
+    .hide-volume {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 520px) {
+
+    .hide-table-heading-24h {
+        display: none;
+    }
+}

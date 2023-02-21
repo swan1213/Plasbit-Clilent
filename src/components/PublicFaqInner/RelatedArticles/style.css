@@ -1,0 +1,40 @@
+.articlesSection {
+  width: 100%;
+}
+
+.articleSectionTitle {
+  font-size: 50px;
+  line-height: 55px;
+  color: #283957;
+  font-family: "Proxima Nova";
+  font-weight: bold;
+}
+
+.articleListWraper {
+  margin-top: 10px;
+}
+
+.articleList {
+  margin-top: 20px;
+  list-style-type: none;
+}
+
+.articleListItem {
+  font-size: 20px;
+  line-height: 72px;
+  color: #283957;
+  font-weight: bold;
+  font-family: "Proxima Nova";
+  padding: 5px 15px 0;
+  border-bottom: 2px solid rgba(0, 0, 0, 0.34901960784313724);
+}
+
+.articleListItem:last-child {
+  border-bottom: 0px solid
+}
+
+@media only screen and (max-width: 425px) {
+  .articleSectionTitle {
+    text-align: center;
+  }
+}
