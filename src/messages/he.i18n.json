@@ -1,0 +1,7 @@
+{
+  "dashboard": {
+    "users": "he-users",
+    "data": "he-data",
+    "test": "he-test"
+  }
+}

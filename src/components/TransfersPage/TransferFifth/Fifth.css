@@ -1,0 +1,213 @@
+.transfer_fifth {
+    background: #0a2f54;
+    clip-path: polygon(0% 7%, 100% 15%, 100% 100%, 0% 85%);
+    padding: 250px 0;
+}
+
+.transfer_fifth .title_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.transfer_fifth .select {
+    width: 440px;
+    color: var(--darkBlue);
+    background: white;
+    border-radius: 9px;
+    font-size: 50px;
+    line-height: 55px;
+    font-weight: 800;
+    margin-bottom: 45px;
+    cursor: pointer;
+}
+
+.transfer_fifth .select_control {
+    text-align: center;
+    background: white;
+    border-radius: 9px;
+    padding: 5px 20px;
+    color: var(--darkBlue);
+}
+
+.transfer_fifth .Dropdown-arrow-wrapper {
+    position: absolute;
+    top: 34%;
+    right: 3%;
+}
+
+.transfer_fifth .select_placeholder {
+    color: var(--darkBlue);
+}
+
+.transfer_fifth .select_menu {
+    width: 100%;
+    background: white;
+    padding: 8px;
+    color: var(--darkBlue);
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 1.5;
+    transition: opacity .2s cubic-bezier(.6,.2,.1,1),transform .2s cubic-bezier(.6,.2,.1,1),visibility 0s linear 0s;
+    transform: none;
+    border: 0 solid #e2e6e8;
+    border-radius: 3px;
+    box-shadow: 0 20px 66px 0 rgb(34 48 73 / 20%);
+    background-clip: padding-box;
+    margin-top: unset;
+    max-height: unset;
+}
+
+.transfer_fifth .Dropdown-option {
+    color: var(--darkBlue);
+    line-height: 1;
+    text-align: left;
+    white-space: nowrap;
+    border-radius: 3px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 1.5;
+    text-decoration: none;
+    outline: 0;
+}
+
+.transfer_fifth .Dropdown-option.is-selected {
+    color: #fff;
+    background-color: var(--darkBlue);
+
+}
+
+.transfer_fifth .select_arrow {
+    border: solid;
+    border-width: 0 5px 5px 0;
+    width: 15px;
+    height: 15px;
+    transform: rotate(45deg);
+    border-color: var(--lightBlue);
+    right: unset;
+    top: unset;
+    position: relative;
+    margin-left: 20px;
+}
+
+.transfer_fifth .info {
+    max-width: 895px;
+    margin: 0 auto;
+}
+
+.transfer_fifth .left {
+    width: 45%;
+    min-width: 45%;
+}
+
+.transfer_fifth .table {
+    width: 68%;
+    margin: 50px auto;
+    text-align: left;
+}
+
+.transfer_fifth .thead {
+    display: flex;
+    padding: 24px 51px;
+    font-size: 22px;
+    font-weight: 600;
+    color: white;
+    background: var(--lightBlue);
+    border-radius: 8px;
+}
+
+.transfer_fifth .row {
+    background: white;
+    border-radius: 8px;
+    padding: 30px 51px;
+    display: flex;
+}
+
+.transfer_fifth .document>div {
+    display: flex;
+    align-items: center;
+}
+
+.transfer_fifth .table img{
+    width: min-content;
+    height: min-content;
+}
+
+.transfer_fifth .infomation>div {
+    display: flex;
+    align-items: center;
+}
+
+.transfer_fifth .btn {
+    margin: 0 auto;
+}
+
+.transfer_fifth .select_text {
+    width: 70%;
+}
+
+@media (max-width: 1024px) { 
+    .transfer_fifth .select {
+        width: 425px;
+        font-size: 40px;
+        line-height: 45px;
+    }
+}
+
+@media (max-width: 768px) {
+    .transfer_fifth {
+        clip-path: polygon(0% 0%, 100% 4%, 100% 100%, 0% 96%);
+        padding: 130px 0;
+    }
+
+    .transfer_fifth .transfer_container {
+        width: 90%;
+        margin: 0 auto;
+    }
+
+    .transfer_fifth .title_container {
+        flex-direction: column;
+    }
+
+    .transfer_fifth .title {
+        width: 200px;
+        line-height: 40px;
+        margin-bottom: 20px;
+    }
+
+    .transfer_fifth .select {
+        font-size: 35px;
+        width: 100%;
+        justify-content: space-between;
+    }
+
+    .transfer_fifth .table {
+        width: 100%;
+    }
+
+    .transfer_fifth .thead {
+        padding: 24px;
+    }
+
+    .transfer_fifth .left {
+        width: 100%;
+        min-width: 100%;
+    }
+
+    .transfer_fifth .row {
+        padding: 30px 24px;
+        flex-direction: column;
+    }
+
+    .transfer_fifth .tbody .left {
+        margin-bottom: 20px;
+    }
+
+    .transfer_fifth .infomation {
+        margin-left: 30px;
+    }
+
+    .transfer_fifth .btn {
+        width: 100%;
+    }
+}

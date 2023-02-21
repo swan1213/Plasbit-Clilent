@@ -1,0 +1,163 @@
+.calc_preview {
+    margin-bottom: 30px;
+}
+
+.widget_preview .calculator {
+    border: 2px solid #1a4f87;
+    border-radius: 5px;
+    background: rgba(0, 0, 0, .2);
+    margin-top: 0px !important;
+}
+
+.widget_preview .card {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: none !important;
+    background: transparent !important;
+    margin-top: 0px !important;
+    padding: 35px 30px 25px !important;
+}
+
+.widget_preview .label {
+    font-weight: 600;
+}
+
+.widget_preview .bitcoin,
+.widget_preview .currency {
+    width: 47%;
+}
+
+.widget_preview .card .text_white {
+    font-size: 30px;
+    font-weight: bold;
+    align-self: center;
+    margin-top: 40px;
+}
+
+.widget_preview .input {
+    display: flex;
+}
+
+
+.widget_preview input {
+    width: 100%;
+    height: 50px;
+    font-size: 20px;
+    line-height: 36px;
+    color: var(--textBlue);
+    font-weight: bold;
+    padding-left: 20px;
+    background-color: white;
+    border: none;
+}
+
+input:focus,
+select:focus {
+    outline: var(--lightBlue) !important;
+}
+
+.widget_preview .suffix {
+    margin-left: -60px;
+    align-self: center;
+}
+
+.widget_preview .currency .suffix {
+    border: none;
+    color: white;
+    background: var(--lightBlue);
+    height: 50px;
+    margin-left: -100px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.widget_preview .currency .suffix span {
+    align-self: center;
+}
+
+.widget_preview .currency_container {
+    width: 100%;
+}
+
+.widget_preview .bottom {
+    font-weight: 500;
+}
+
+.widget_preview .bottom span {
+    margin-right: 20px;
+    color: white;
+    cursor: pointer;
+}
+
+.widget_preview .bottom span.active {
+    color: var(--lightBlue);
+}
+
+.crypto-join-plasbit {
+    font-size: 12px;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+    margin-bottom: 15px;
+}
+
+.crypto-join-plasbit div {
+    width: 25px;
+    height: 25px;
+    margin: 0 5px;
+    background: url('https://img.plasbit.com/calc/widget_logo.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+@media (max-width: 768px) {
+    .widget_preview img {
+        height: 900px;
+    }
+
+    .widget_preview .card {
+        display: block;
+        padding: 30px 20px 10px;
+        margin-top: 40px;
+    }
+
+    .widget_preview .bitcoin,
+    .widget_preview .currency {
+        width: 100%;
+    }
+    .widget_preview .currency {
+        text-align: center;
+    }
+    .widget_preview .card .text_white {
+        margin-left: 30px;
+    }
+
+    .widget_preview .bottom span {
+        margin-right: 12px;
+    }
+
+    .widget_preview .suffix {
+        margin-left: -40px;
+        align-self: center;
+    }
+
+    .widget_preview .currency .suffix {
+        width: 85px;
+        margin-left: -85px;
+    }
+
+    .widget_preview .mobile-equal {
+        margin : 10px 0 0 0 !important;
+        text-align: center;
+    }
+
+    .calc_preview .currency .label{
+        font-size: 18px !important;
+    }
+
+
+}

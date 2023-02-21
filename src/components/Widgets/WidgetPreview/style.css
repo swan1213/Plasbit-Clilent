@@ -1,0 +1,319 @@
+.widget_preview {
+    margin-bottom: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.widget_preview .main_title {
+    padding: 35px 0 0;
+    margin-bottom: 0;
+}
+
+.widget_preview .widget_preview_container {
+    width: 80%;
+    max-width: 1400px;
+    margin-top: 30px;
+}
+
+.widget-preview-example-container{
+    max-width: 100% !important;
+}
+
+.widget_preview .codeviewer-title span {
+    margin-top: 15px;
+}
+
+.widget_preview .codeviewer-text {
+    margin-top: 10px;
+    margin-bottom: 10px !important;
+}
+
+.widget_preview .codeviewer-text span {
+    color: black !important;
+    font-size: 16px !important;
+    font-family: inherit !important;
+    font-weight: 200 !important;
+    line-height: 20px;
+}
+
+.widget-control {
+    width: 80%;
+}
+
+.ant-select-selector {
+    min-height: 50px !important;
+    display: flex;
+    align-items: center;
+}
+
+.widget-button-group {
+    margin: 50px 0;
+}
+
+.slick-card {
+    display: flex !important;
+    justify-content: space-between !important;
+    border-right: 1px solid rgba(119, 119, 119, 0.19);
+    font-size: 14px;
+    padding: 20px;
+    transition-property: background-color,border-color,color,fill,stroke,opacity,box-shadow,transform;
+    transition-duration: 150ms;
+    transition-timing-function: cubic-bezier(0, 0, 0.2, 1);
+    cursor: pointer;
+    text-decoration: none;
+    outline: transparent solid 2px;
+    outline-offset: 2px;
+    display: block;
+}
+
+.slick-image {
+    width: 30px !important;
+    height: 30px !important;
+    margin-right: 15px !important;
+    left: 0 !important;
+    margin-top: 0 !important;
+    min-width: 20px !important;
+}
+
+.slick-text-20 {
+    font-size: 20px !important;
+    color: #7B849B;
+    font-weight: 500;
+    font-family: BlinkMacSystemFont,-apple-system,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    margin-bottom: 10px;
+    text-align: right;
+}
+
+.slick-text-18 {
+    color: #7B849B;
+    font-size: 18px !important;
+    font-weight: 500;
+    font-family: BlinkMacSystemFont,-apple-system,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+.slick-text-18:nth-child(1) {
+    margin-bottom: 10px;
+}
+
+.slick-text-16red {
+    font-size: 18px !important;
+    color: red;
+    font-weight: 500;
+    font-family: BlinkMacSystemFont,-apple-system,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    text-align: right;
+}
+
+.slick-text-16green {
+    font-size: 18px !important;
+    color: green;
+    font-weight: 500;
+    font-family: BlinkMacSystemFont,-apple-system,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    text-align: right;
+}
+
+.slick-panel {
+    border-radius: 4px;
+    border: 1px solid rgba(119, 119, 119, 0.19);
+}
+
+.slick-link {
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    margin-top: 10px;
+}
+
+.slick-link div {
+    width: 25px;
+    height: 25px;
+    margin: 0 5px;
+    background: url('https://img.plasbit.com/calc/widget_logo.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.marquee {
+    border-inline-start: none;
+    border-inline-start-width: initial;
+    border-inline-start-style: none;
+    border-inline-start-color: initial;
+    border-inline-end: 0;
+    padding: 20px;
+    margin-bottom: 50px !important;
+}
+.widget-tab-button {
+    border:0;
+    background:transparent
+}
+.widget-tab-button > h2 {
+    margin-right: 30px;
+    color: #5d667b;
+    font-size: 24px;
+    font-weight: 600;
+    font-family: inherit;
+    padding: 15px 25px;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    background: transparent;
+    outline: none;
+}
+
+.widget-tab-button h2:hover {
+    background: #E7F5FF;
+}
+
+.widget-tab-active h2{
+    color: #FFFFFF;
+    background: #1199FA;
+}
+
+.widget-tab-active h2:hover {
+    color: #FFFFFF;
+    background: #2DA4FB;
+}
+
+.anticon-copy {
+    float: right;
+    margin: 0 5px 5px 0;
+}
+
+.widget_preview .code {
+    background-color: #EEE;
+    border: 1px solid black;
+    padding: 20px 30px;
+    transition: all 0.2s;
+    border-radius: 5px;
+}
+
+.widget_preview .code code {
+    color: var(--chakra-colors-light);
+    display:inline-block;
+    max-width:90%;
+    font-family: inherit;
+    line-height: 20px;
+}
+  
+.widget_preview .code .copybutton {
+    color: black;
+    display:inline;
+    float:right;
+    font-size:12px;
+    margin-right:5px;
+    cursor:pointer;
+}
+
+.control-mt-5 {
+    margin-top: 50px;
+}
+
+.control-mb-5 {
+    margin-bottom: 50px;
+}
+
+.coin-select-image {
+    width: 30px;
+    height: 30px;
+    margin: 5px 10px 5px 0;
+}
+
+.ant-select-selection-item-content img {
+    width: 20px !important;
+    height: 20px !important;
+    left: 0 !important;
+    margin-top: 0 !important;
+    min-width: 20px !important;
+    margin: 5px 10px 5px 0 !important;
+    z-index: 1 !important;
+}
+
+.coin-select-items {
+    font-size: 16px;
+}
+
+.widget_preview_title {
+    color: var(--lightBlue) !important;
+}
+
+.widget_preview .ant-table-cell-row-hover {
+    background: none !important;
+}
+
+.widget_preview .ant-table-row-level-0 td:first-child > div {
+    background: transparent !important;
+}
+
+.widget_preview  .ant-table-footer {
+    background: rgb(26, 28, 27);
+    padding: 0 !important;
+}
+
+.widget_preview .coin-list-mobile-table .ant-table-thead tr th {
+    background: linear-gradient(90deg, rgba(115, 114, 114, 1) 0%, rgba(0, 0, 0, 1) 50%, rgba(115, 114, 114, 1) 100%);
+    color: white;
+}
+
+.widget_preview .coin-list-mobile-table .ant-table-tbody{
+    background: linear-gradient(90deg, rgba(115, 114, 114, 1) 0%, rgba(0, 0, 0, 1) 50%, rgba(115, 114, 114, 1) 100%);
+    color: white;
+}
+
+.widget_preview .coin-list-mobile-table .ant-table-tbody .ant-empty-description{
+    color: white !important;
+}
+
+.widget_preview .anticon-copy {
+    color: #1199FA;
+    font-size: 19px;
+}
+
+.widget_preview .copybutton {
+    color: #1199FA !important;
+    font-size: 15px !important;
+}
+
+.profit-preview-container {
+    margin-bottom: 15px;
+}
+@media (max-width: 768px) {
+    .widget_preview .main_title {
+        text-align: center;
+        margin-bottom: 20px;
+        padding: 0;
+    }
+    .widget_preview .text-description {
+        text-align: center;
+    }
+
+    .widget_preview .widget-button-group {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .widget_preview .widget-button-group button {
+        margin: 0;
+        flex: 25%;
+    }
+    .widget-control {
+        width: 100%;
+    }
+
+    .widget_preview .code {
+        padding: 20px 15px;
+    }
+
+    .widget-color-picker {
+        margin-bottom: 15px;
+    }
+    .widget-preview-main-container {
+        flex-direction: column !important;
+    }
+
+    .copy-text-container h3{
+        margin-bottom: 10px !important;
+    }
+
+    .copy-text-container {
+        overflow: scroll;
+    }
+}

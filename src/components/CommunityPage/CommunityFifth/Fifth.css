@@ -1,0 +1,119 @@
+.community_fifth_container {
+    display: flex;
+    justify-content: center;
+    padding: 0 170px;
+}
+
+.community-fifth-container-row {
+    min-width: auto;
+}
+
+.community_fifth_title {
+    margin: 110px 0 0px 0;
+    font-size: 65px;
+    line-height: 70px;
+    color: #082848;
+    text-align: center;
+    font-weight: 800;
+}
+
+.community_fifth_text {
+    margin: 10px 0 20px 0;
+    font-size: 20px;
+    line-height: 36px;
+    color: #283957;
+    font-weight: 700;
+    text-align: center;
+}
+
+.community_fifth_card {
+    width: 17.5vw;
+    height: 24.2vw;
+    border-radius: 8px;
+    filter: drop-shadow(0px 6px 12px rgba(45,45,45,0.2));
+    background-color: #ffffff;
+    margin: 30px 0;
+}
+
+.community_fifth_card img {
+    width: 16vw;
+    height: 17.8vw;
+}
+
+.community_fifth_btn {
+    margin: 70px 0 100px 0;
+    width: 256px;
+    height: 60px;
+    border-radius: 8px;
+    background-image: linear-gradient(90deg, #1783e7 0%, #00abff 100%);
+    padding: 10px;
+    font-size: 18px;
+    line-height: 36px;
+    color: #ffffff !important;
+    font-weight: bold;
+    text-align: center;
+    border: none;
+    cursor: pointer;
+    transition: all 0.5s ease;
+}
+
+.community_fifth_btn:hover {
+    transform: translate(5px, -5px);
+    transition-duration: 0.5s;
+    box-shadow: -1px 5px 10px rgba(0, 0, 0, .26);
+}
+
+.community_fifth_content {
+    margin-top: 1.8vw;
+    font-size: 27px;
+    font-weight: 700;
+    color: #1890ff;
+}
+
+@media (max-width: 768px) {
+    .community_fifth_container {
+        padding: 0 30px;
+    }
+
+    .community_fifth_btn {
+        height: 50px;
+        margin: 20px 0;
+        width: 315px;
+    }
+
+    .community_fifth_title {
+        font-size: 38px;
+        line-height: 45px;
+    }
+
+    .community_fifth_text{
+        font-size: 15px;
+        line-height: 22px;
+    }
+
+    .community_fifth_card {
+        width: 337px;
+        height: 440px;
+        margin: 15px 0;
+    }
+    
+    .community_fifth_card img {
+        width: 308px;
+        height: 342px;
+    }
+    
+    .community_fifth_content {
+        margin-top: 40px;
+    }
+
+    .community_fifth_title {
+        margin: 110px 0 30px 0;
+    }
+}
+
+@media (min-width: 769px) and (max-width: 990px) {
+    .community_fifth_card {
+        width: 26.5vw !important;
+        height: 29.2vw !important;
+    }
+}

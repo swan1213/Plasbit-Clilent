@@ -1,0 +1,196 @@
+.main {
+	margin-top: -135px;
+	padding: 130px 0 50px;
+	min-height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	position: relative;
+}
+
+.main_left {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 14%;
+	z-index: -1;
+}
+
+.main_right {
+	position: absolute;
+	top: 0;
+	right: -90px;
+	width: 61%;
+	z-index: -1;
+}
+
+.main_inner {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.main_content {
+	width: 52%;
+	position: relative;
+	z-index: 1;
+}
+
+.main_img {
+	position: relative;
+	width: 46%;
+}
+
+.main_img .main_image {
+	width: 100%;
+	pointer-events: none;
+}
+
+.coin_1 {
+	position: absolute;
+	top: 0;
+	left: 0;
+	pointer-events: none;
+}
+
+.coin_2 {
+	position: absolute;
+	top: 7%;
+	right: 7%;
+	pointer-events: none;
+}
+
+.coin_3 {
+	position: absolute;
+	bottom: 15%;
+	right: -15%;
+	pointer-events: none;
+}
+
+.coin_4 {
+	position: absolute;
+	bottom: -5%;
+	left: 20%;
+	pointer-events: none;
+}
+
+.coin_5 {
+	position: absolute;
+	bottom: 18%;
+	left: 0;
+	pointer-events: none;
+}
+
+@media (max-width: 1600px) {
+	.main_left {
+		width: 13%;
+	}
+
+	.main_right {
+		width: 65%;
+	}
+}
+
+@media (max-width: 1500px) {
+	.main_right {
+		width: 70%;
+	}
+
+	.main_inner {
+		padding: 0 50px;
+	}
+}
+
+@media (max-width: 1400px) {
+	.main_inner {
+		padding: 0 100px;
+	}
+}
+
+@media (max-width: 1200px) {
+	.main_inner {
+		padding: 0 120px;
+	}
+}
+
+@media (max-width: 991px) {
+	.main_inner {
+		text-align: center;
+	}
+
+	.main .main_title span.type_writer {
+		display: inline-block;
+		width: 145px;
+		text-align: left;
+	}
+
+	.main_left {
+		display: none;
+	}
+
+	.main_right {
+		display: none;
+	}
+
+	.main_inner {
+		flex-wrap: wrap;
+	}
+
+	.main_content {
+		width: 100%;
+		margin-bottom: 40px;
+	}
+
+	.main_img {
+		margin: 0 auto;
+	}
+
+	.main {
+		background: none !important;
+	}
+}
+
+@media (max-width: 768px) {
+	.main_img {
+		width: 70%;
+	}
+
+	.main_inner {
+		padding: 0 !important;
+	}
+}
+
+@media (max-width: 520px) {
+	.main_img {
+		width: 100%;
+	}
+
+	.coin_1,
+	.coin_2 {
+		width: 50px;
+	}
+
+	.coin_3 {
+		width: 70px;
+	}
+
+	.coin_4 {
+		width: 60px;
+	}
+
+	.coin_5 {
+		width: 30px;
+	}
+
+	.main_btns {
+		display: block;
+	}
+
+	.main_btns a:first-child {
+		margin: 0 auto 20px;
+	}
+
+	.main_btns .main_btns_btn {
+		margin: 0 auto 20px;
+	}
+}

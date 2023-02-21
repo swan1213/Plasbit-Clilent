@@ -1,0 +1,43 @@
+.career_second {
+    display: flex;
+    max-width: 1250px;
+    margin: 180px auto;
+}
+
+.career_second .left {
+    display: flex;
+    align-items: center;
+}
+.career_second .left img {
+    width: min-content;
+    height: min-content;
+}
+
+.career_second .right {
+    padding: 20px 60px;
+}
+
+.career_second .text {
+    margin: 15px 0;
+}
+
+@media (max-width: 768px) {
+    .career_second {
+        flex-direction: column;
+        margin: 130px auto 0;
+    }
+
+    .career_second .left img {
+        width: 80%;
+        margin: 0 auto;
+    }
+
+    .career_second .right {
+        text-align: center;
+        padding: 80px 20px;
+    }
+
+    .career_second .right .text {
+        margin-top: -10px;
+    }
+}

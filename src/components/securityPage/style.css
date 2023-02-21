@@ -1,0 +1,12 @@
+.security-page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 3em;
+}
+
+@media (max-width: 767px) {
+  .security-cards {
+    margin-top: -200px;
+  }
+}

@@ -1,0 +1,54 @@
+.home_help {
+    padding: 65px 0;
+    background-color: #0f5db7;
+    position: relative;
+    overflow: hidden;
+}
+
+.home_help::before {
+    position: absolute;
+    content: "";
+    top: 50%;
+    left: 0;
+    width: 670px;
+    height: 670px;
+    border-radius: 0 50% 50% 0;
+    background-color: #1968c4;
+    transform: translateY(-50%);
+}
+
+.home_help .help_inner .help_text {
+    width: 40%;
+}
+
+.home_help .help_inner .link{
+    background-color: transparent;
+    color: #5ac4f5 !important;
+
+}
+
+.home_help .help_inner .link:hover{
+    color: white !important;
+
+}
+
+.home_help .library {
+    color: white;
+}
+
+@media (max-width: 991px) {
+    .home_help .help_inner {
+        display: block;
+        text-align: center;
+    }
+
+    .home_help .help_inner .help_text {
+        order: 3;
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .home_help .help_inner a {
+        margin-top: 10px;
+    }
+}

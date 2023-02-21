@@ -1,0 +1,45 @@
+.manage {
+	padding: 300px 0 200px;
+	background-position: center !important;
+	clip-path: polygon(0 15%, 100% 0%, 100% 85%, 0 100%);
+}
+
+.manage_title span {
+	color: var(--lightBlue);
+}
+
+.manage_inner {
+	display: flex;
+	justify-content: space-between;
+}
+
+.manage_content {
+	width: 54%;
+
+}
+.manage_content .text.white > li > img {
+	width: auto;
+	height: auto;
+
+}
+
+.manage_content a {
+	color: #fff;
+}
+
+@media (max-width: 991px) {
+	.manage_content {
+		width: 100%;
+	}
+
+	.manage_content h2 {
+		text-align: center;
+	}
+}
+
+@media (max-width: 768px) {
+	.manage {
+		clip-path: polygon(0 6%, 100% 0%, 100% 94%, 0 100%);
+		padding: 120px 0;
+	}
+}

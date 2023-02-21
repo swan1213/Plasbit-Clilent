@@ -1,0 +1,59 @@
+.transfer_third {
+    background-size: cover;
+    padding: 180px 0 100px;
+    clip-path: polygon(0 15%, 100% 0, 100% 85%, 0 93%);
+}
+
+.transfer_third .third_container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.transfer_third .left {
+    max-width: 625px;
+}
+
+.transfer_third .left .title {
+    width: 525px;
+}
+
+.transfer_third .third_container img {
+    width: 52%;
+    max-width: 645px;
+    height: min-content;
+}
+
+@media (max-width: 768px) {
+    .transfer_third {
+        padding: 130px 0 50px;
+        margin-top: 50px;
+        clip-path: polygon(0 6%, 104% 0, 100% 94%, 0 99%);
+    }
+
+    .transfer_third .third_container {
+        flex-direction: column;
+        width: 90%;
+    }
+
+    .transfer_third .left {
+        text-align: center;
+        width: 100%;
+    }
+
+    .transfer_third .left .title {
+        width: 270px;
+        margin: 0 auto 10px;
+    }
+
+    .transfer_third .left .btn {
+        width: 100%;
+    }
+
+    .transfer_third img {
+        margin-top: 30px;
+        width: 100%;
+    }
+}

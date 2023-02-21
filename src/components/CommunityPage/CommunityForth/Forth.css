@@ -1,0 +1,177 @@
+.community_forth_container {
+    font-family: "Proxima Nova";
+    padding: 0 30px;
+}
+
+.community_forth_title {
+    font-size: 65px;
+    line-height: 55px;
+    color: #1890ff;
+    text-align: center;
+    font-weight: 800;
+}
+
+.community_forth_text {
+    margin: 10px 0 40px 0;
+    font-size: 20px;
+    line-height: 36px;
+    color: #283957;
+    font-weight: 700;
+    text-align: center;
+}
+
+.community_forth_content {
+    font-size: 20px;
+    line-height: 36px;
+    color: #283957;
+    font-weight: bold;
+}
+
+.community_forth_slick {
+    display: flex;
+    justify-content: center;
+}
+
+.slick-slider {
+    display: flex;
+    justify-content: center;
+}
+
+.slick-list {
+    width: 85% !important;
+}
+
+.slick-slide {
+    display: flex !important;
+    justify-content: center;
+}
+
+.slick-slide > div {
+    width: 337px !important;
+}
+
+.slick-arrow {
+    width: 150px !important;
+    height: 150px !important;
+    border-radius: 150px;
+    display: flex;
+    align-items: center;
+    color: transparent;
+}
+
+.slick-prev {
+    left: -120px !important;
+    background: linear-gradient(-90deg, #dceeff 0%, #ffffff 57%, #ffffff 100%) !important; 
+}
+
+.slick-prev svg {
+    margin-left: 20px;
+}
+
+.slick-next {
+    right: -120px !important;
+    background: linear-gradient(90deg, #dceeff 0%, #ffffff 57%, #ffffff 100%) !important;
+}
+
+.slick-next svg {
+    margin-right: 90px;
+}
+
+.slick-arrow svg {
+    color: rgba(8,40,72,0.7019607843137254);
+    font-size: 40px;
+    font-weight: 700 !important;
+}
+
+.slick-next:before {
+    color: transparent !important;
+}
+
+.community_forth_btn {
+    margin-top: 50px;
+    width: 256px;
+    height: 60px;
+    border-radius: 8px;
+    background-image: linear-gradient(90deg, #1783e7 0%, #00abff 100%);
+    padding: 10px;
+    font-size: 18px;
+    line-height: 36px;
+    color: #ffffff !important;
+    font-weight: bold;
+    text-align: center;
+    border: none;
+    cursor: pointer;
+    transition: all 0.5s ease;
+}
+
+.community_forth_btn:hover {
+    transform: translate(5px, -5px);
+    transition-duration: 0.5s;
+    box-shadow: -1px 5px 10px rgba(0, 0, 0, .26);
+}
+
+.slick-slide > div {
+    width: auto !important;
+}
+
+.slick-track {
+    display: flex !important;
+    justify-content: center !important;
+}
+
+.community_forth_slick_card {
+    width: auto !important;
+}
+
+.community_forth_slick_card img {
+    width: 17.5vw;
+    height: 17.5vw;
+}
+
+@media (max-width: 768px) {
+    .community_forth_title {
+        font-size: 38px;
+        line-height: 45x;
+        text-align: center;
+    }
+
+    .community_forth_text {
+        font-size: 15px;
+        line-height: 22px;
+        font-weight: 700;
+        text-align: center;
+    }
+
+    .community_forth_slick_card img {
+        width: 260px;
+        height: 260px;
+    }
+    .community_forth_btn {
+        height: 55px;
+        width: 100%;
+    }
+
+    .slick-prev svg {
+        position: absolute;
+        right: 10px;
+        top: 45px;
+    }
+
+    .slick-next svg {
+        position: absolute;
+        right: 89px;
+        top: 45px;
+        margin-right: 0px;
+    }
+    
+    .slick-arrow svg {
+        color: rgba(8,40,72,0.7019607843137254);
+        font-size: 30px;
+        font-weight: 700 !important;
+    }
+    
+    .slick-arrow {
+        width: 130px !important;
+        height: 120px !important;
+    }
+}

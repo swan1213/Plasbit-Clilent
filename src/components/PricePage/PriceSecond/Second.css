@@ -1,0 +1,11 @@
+.price_second {
+    width: 90%;
+    margin: 0 auto;
+}
+
+@media (max-width: 768px) {
+    .price_second .ant-table{
+        overflow-y: auto !important;
+    }
+    
+}

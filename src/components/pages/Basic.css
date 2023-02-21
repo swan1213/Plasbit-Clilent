@@ -1,0 +1,165 @@
+.basic {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.basic .mb_40 {
+    margin-bottom: 40px !important;
+}
+
+.basic .ml_10 {
+    margin-left: 10px !important;
+}
+
+.basic .font_italic {
+    font-style: italic;
+    font-size: 15px !important;
+}
+
+.basic .text_center {
+    text-align: center !important;
+}
+.basic a:hover {
+    color: var(--textBlue);
+}
+
+.basic .tab.active {
+    border-bottom: 1px solid var(--lightBlue);
+}
+
+.basic .tab_content {
+    display: none;
+    padding: 90px 20px;
+}
+
+.basic .tab_content.active {
+    display: block;
+}
+
+.basic .tab_title {
+    font-size: 55px;
+    line-height: 60px;
+}
+
+.basic .tab_text {
+    font-size: 23px;
+    padding-bottom: 30px;
+    border-bottom: 1px solid #eee;
+}
+
+.basic .index {
+    width: 300px;
+    padding: 30px 0;
+}
+
+.basic .index a {
+    display: block;
+    width: 300px;
+    line-height: 25px;
+    margin: 15px 0;
+    position: sticky;
+    top: 100px;
+}
+
+.basic .content {
+    padding: 30px;
+    margin-top: 0px;
+}
+
+.basic .content_title {
+    font-size: 40px;
+    line-height: 55px;
+    margin: 10px 0;
+}
+
+.basic .content_subtitle {
+    font-size: 25px;
+    line-height: 35px;
+    margin: 15px 0;
+}
+
+.basic .content_text {
+    margin: 15px 0;
+    font-size: 20px;
+    line-height: 28px;
+}
+
+.basic ol,
+.basic ul {
+    margin-left: 40px;
+}
+
+.basic ol li {
+    list-style: auto;
+}
+
+.basic ul li {
+    list-style: disc;
+}
+
+.basic .btn_group {
+    display: block;
+    text-align: center;
+}
+
+.basic .btn_group div {
+    display: flex;
+}
+
+.basic .btn {
+    margin: 30px auto;
+}
+
+@media (max-width: 768px) {
+    .basic .tabs {
+        flex-direction: column;
+        margin-top: 0;
+    }
+
+    .basic .tab {
+        padding: 10px;
+        margin: 5px;
+        background: var(--lightGrey);
+    }
+
+    .basic .tab.active {
+        background: var(--lightBlue);
+        color: white;
+    }
+
+    .basic .tab_content {
+        padding: 40px 5px;
+    }
+
+    .basic .tab_title {
+        font-size: 45px;
+    }
+
+    .basic .tab_text {
+        border: none;
+        padding: 0;
+    }
+
+    .basic .index {
+        padding: 20px 0;
+    }
+
+    .basic .index a {
+        border: 1px solid var(--lightGrey);
+        margin: 8px 0;
+        padding: 9px;
+    }
+
+    .basic .content {
+        padding: 0;
+    }
+
+    .basic .content_title {
+        font-size: 30px;
+        line-height: 40px;
+    }
+}
+
+.basic .index_content {
+    display: block !important;
+}

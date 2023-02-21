@@ -1,0 +1,108 @@
+.menu-container {
+    position: relative !important;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    margin-right: 40px !important;
+}
+
+.menu-trigger {
+    border-radius: 90px !important;
+    cursor: pointer !important;
+    display: flex !important;
+    justify-content: space-between !important;
+    align-items: center !important;
+    padding: 4px 6px !important;
+    border: none !important;
+    vertical-align: middle !important;
+    transition: box-shadow 0.4s ease !important;
+    margin-left: auto !important;
+    text-shadow: 0 1px 1px rgb(0 0 0 / 66%) !important;
+    display: table !important;
+    font-family: "Proxima Nova" !important;
+    font-size: 18px !important;
+    line-height: 48px !important;
+    color: #ffffff !important;
+    font-weight: bold !important;
+}
+
+.menu-trigger a {
+    display: flex;
+}
+
+.menu-trigger a span {
+    text-shadow: 0 1px 1px rgb(0 0 0 / 66%) !important;
+    display: table !important;
+    font-family: "Proxima Nova" !important;
+    font-size: 18px !important;
+    line-height: 48px !important;
+    font-weight: bold !important;
+    margin: 0 5px !important;
+}
+
+.menu-trigger button {
+    background-color: transparent;
+    border: 0;
+    cursor: pointer;
+    font-weight: 700 !important;
+}
+
+.menu-trigger button:hover {
+    color: var(--lightBlue) !important;
+}
+
+.menu-trigger img {
+    border-radius: 90px !important;
+    width: auto;
+    height: auto;
+}
+
+.menu {
+    background: #ffffff !important;
+    border-radius: 8px !important;
+    position: absolute !important;
+    top: 60px !important;
+    right: 0 !important;
+    width: 250px !important;
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.3) !important;
+    opacity: 0 !important;
+    visibility: hidden !important;
+    transform: translateY(-20px) !important;
+    transition: opacity 0.4s ease, transform 0.4s ease, visibility 0.4s !important;
+}
+
+.align-left {
+    left: 0 !important;
+}
+
+.menu.active {
+    opacity: 1 !important;
+    visibility: visible !important;
+    transform: translateY(0) !important;
+}
+
+.menu ul {
+    list-style: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.menu li a {
+    text-decoration: none !important;
+    color: var(--darkBlue) !important;
+    padding: 15px 20px !important;
+    display: flex !important;
+    font-size: 18px !important;
+    font-weight: bold !important;
+    margin-right: 0 !important;
+    line-height: 18px !important;
+}
+
+.menu li a img {
+    width: 50px !important;
+    height: min-content !important;
+}
+
+.menu li a span {
+    padding: 13px !important;
+}

@@ -1,0 +1,158 @@
+.payment_fifth {
+    padding: 200px 0;
+    transform: skewY(4deg);
+    background-image: linear-gradient(47deg, #072747 0%, #0e4277 89%, #0e4277 100%);
+
+    font-family: "Proxima Nova";
+}
+
+.payment_fifth_container {
+    transform: skewY(-4deg);
+}
+
+.payment_fifth_font81 {
+    font-size: 81px;
+    line-height: 70px;
+    color: #ffffff;
+    font-weight: 800;
+    text-align: center;
+    filter: drop-shadow(0px 23px 13.5px rgba(40,57,87,0.2));
+}
+
+
+.payment_fifth_font40 {
+    margin-top: 25px;
+    font-size: 40px;
+    color: #1890ff;
+    font-weight: bold;
+    text-align: center;
+}
+
+.payment_fifth_setup {
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+}
+
+.payment_fifth_imgpanel {
+    display: flex;
+    justify-content: center;
+}
+
+.payment_fifth_setup p {
+    margin-top: 35px;
+    font-size: 26px;
+    color: #ffffff;
+    text-align: center;
+}
+
+.payment_fifth_arrow {
+    padding: 60px 0;
+    color: #1890ff;
+    font-size: 50px;
+    font-weight: 500;
+    letter-spacing: 3px;
+    margin: 0 12px;
+    text-align: center;
+}
+
+.payment_fifth_arrow span {
+    font-size: 25px;
+    vertical-align: middle;
+}
+
+.payment_fifth_btnpanel {
+    margin-top: 110px;
+    display: flex;
+    justify-content: center;
+}
+
+.payment_fifth_btnpanel button {
+    cursor: pointer;
+    width: 255px;
+    height: 55px;
+    border: none;
+    border-radius: 8px;
+    background-image: linear-gradient(90deg, #1783e7 0%, #00abff 100%);
+
+    font-size: 18px;
+    line-height: 36px;
+    color: #ffffff;
+    font-weight: bold;
+    text-align: center;
+
+    transition: all 0.5s ease;
+}
+
+.payment_fifth_btnpanel button:hover {
+    transform: translate(5px, -5px);
+    transition-duration: 0.5s;
+    box-shadow: -1px 5px 10px rgba(0, 0, 0, .26);
+}
+
+@media (max-width: 768px) {
+    .payment_fifth {
+        padding: 60px 30px;
+    }
+
+    .payment_fifth_setup {
+        display: block;
+        justify-content: center;
+    }
+
+    .payment_fifth_setup p {
+        font-size: 24px;
+        font-weight: 700;
+    }
+
+    .payment_fifth_arrow > div {
+        transform: rotate(90deg);
+    }
+
+    .payment_fifth_font81 {
+        font-size: 56px;
+        line-height: 70px;
+    }
+
+    .payment_fifth_font40 {
+        font-size: 40px;
+    }
+
+    .payment_fifth_arrow {
+        padding: 30px 0;
+    }
+
+    .payment_fifth_btnpanel button {
+        width: 100%;
+    }
+}
+
+@media (min-width: 769px) {
+    .payment_fifth {
+        padding: 200px 0;
+    }
+
+    .payment_fifth_setup {
+        display: block;
+        justify-content: center;
+    }
+
+    .payment_fifth_arrow > div {
+        transform: rotate(90deg);
+    }
+}
+
+@media (min-width: 1600px) {
+    .payment_fifth {
+        padding: 200px 0;
+    }
+
+    .payment_fifth_setup {
+        display: flex;
+        justify-content: center;
+    }
+
+    .payment_fifth_arrow > div {
+        transform: rotate(0deg);
+    }
+}

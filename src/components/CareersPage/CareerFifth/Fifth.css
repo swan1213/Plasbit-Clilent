@@ -1,0 +1,63 @@
+.career_fifth {
+    width: 90%;
+    max-width: 1250px;
+    margin: 0 auto 100px;
+}
+
+.career_fifth .tabs {
+    border-bottom: 1px solid var(--lightGrey);
+}
+
+.career_fifth .tab_container {
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.career_fifth .tab {
+    color: var(--grey);
+    font-size: 20px;
+    line-height: 60px;
+    font-weight: bold;
+    text-align: center;
+    cursor: pointer;
+}
+
+.career_fifth .tab.active {
+    color: var(--textBlue);
+    border-bottom: 5px solid var(--lightBlue);
+}
+
+.career_fifth .row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 0;
+    padding: 25px 40px;
+    border-radius: 15px;
+    box-shadow: 4px 4px 15px rgb(0 0 0 / 8%);
+}
+
+@media (max-width: 768px) {
+    .career_fifth .tab_container {
+        flex-direction: column;
+    }
+
+    .career_fifth .tabs {
+        border: none;
+    }
+
+    .career_fifth .tab {
+        border-bottom: 1px solid var(--lightGrey);
+    }
+
+    .career_fifth .row {
+        flex-direction: column;
+        padding: 25px 0;
+    }
+
+    .career_fifth .row .btn {
+        margin-top: 20px;
+    }
+}

@@ -1,0 +1,3446 @@
+{
+  "welcome": "POPOPOPOO",
+  "loading": "loading...",
+  "button": {
+    "continue": "Continue",
+    "submit": "Submit"
+  },
+  "required": {
+    "input": "Please input this field",
+    "recaptcha": "Must verify!"
+  },
+  "fiatCoins": {
+    "USD": "United States Dollar(USD)",
+    "EUR": "Euro (EUR)"
+  },
+  "menu": {
+    "flag": [
+      "EN"
+    ],
+    "products": {
+      "title": "Products",
+      "submenu": [
+        "Wallet",
+        "Cards",
+        "Transfers"
+      ]
+    },
+    "company": {
+      "title": "Company",
+      "submenu": [
+        "About",
+        "Careers",
+        "Blog",
+        "Security",
+        "Legal",
+        "Privacy",
+        "Contact Us",
+        "Community"
+      ]
+    },
+    "Resources": {
+      "title": "Resources",
+      "submenu": [
+        "Prices",
+        "Site Widgets",
+        "FAQ"
+      ]
+    },
+    "Learn": {
+      "title": "Learn",
+      "submenu": [
+        "Cryptocurrency Basics",
+        "Advanced Cryptocurrency",
+        "Anonymous Guide"
+      ]
+    },
+    "login": "Login",
+    "getStarted": "Get Started",
+    "dashboard": "Dashboard"
+  },
+  "policy": {
+    "text": [
+      "PlasBit Sp z.o.o is currently obtaining and meeting regulatory requirements for crypto exchange authorization in Poland from the General Inspector of Financial Information (Ministerstwo Finansów).",
+      "Terms & Conditions ",
+      " Privacy Policy "
+    ],
+    "eu": "EU",
+    "noneu": "Non-EU"
+  },
+  "homePage": {
+    "main": {
+      "title": [
+        "Get more out of",
+        "your Plastic",
+        "Live on"
+      ],
+      "text": [
+        "Plastic and virtual cards in a selections of currencies.",
+        "Instantly reload your card with no conversion fee."
+      ],
+      "typewriter": [
+        "Crypto",
+        "Bitcoin",
+        "Ethereum",
+        "Litecoin",
+        "Cardano",
+        "USDC"
+      ],
+      "button": [
+        "Order card now",
+        "Learn more"
+      ]
+    },
+    "store": {
+      "title": [
+        "Spend and Store ",
+        "crypto on "
+      ],
+      "typewriter": [
+        "your Wallet",
+        "your Card",
+        "your Terms"
+      ],
+      "text": [
+        "Multi-Coin Support - Manage BTC, ETH, LTC, ADA, USDC and all your tokens in one place.",
+        "Secure storage - The vast majority of users cryptocurrencies are held offline in cold storage."
+      ],
+      "button": [
+        "Open Account",
+        "Learn more"
+      ]
+    },
+    "manage": {
+      "title": [
+        "PlasBit gives you a way to ",
+        "Hold",
+        " all your crypto",
+        " in one place"
+      ],
+      "titlemobile": [
+        "PlasBit gives you a way ",
+        "to ",
+        "Hold",
+        " all your",
+        "crypto in one place"
+      ],
+      "text": [
+        "Data Protection and Confidentiality - Your personal information is contained behind secured networks and Аll sensitive information you supply is encrypted via Secure Socket Layer (SSL) technology.",
+        "PlasBit has secured clients assets in cold storage insurance against physical damage or destruction, and third-party theft."
+      ],
+      "button": "Learn more"
+    },
+    "transfer": {
+      "title": [
+        "Welcome to the future of banking with our ",
+        "Online Wire Transfer Services."
+      ],
+      "text": [
+        "We offer domestic and international wire transfer options to meet your needs.",
+        "you can initiate, schedule, and check the status of wire transfers all from the convenience of your computer."
+      ],
+      "button": [
+        "Open Account",
+        "Learn more"
+      ]
+    },
+    "shop": {
+      "title": [
+        "Shop with PlasBit ",
+        "online & in-person ",
+        "around the world"
+      ],
+      "text": [
+        "Designed for people who want to live life on crypto. View your balance, request a new PIN and reload instantly.",
+        "Turn your crypto into fiat for spending it with our Virtual or Plastic Card."
+      ],
+      "button": "Learn more"
+    },
+    "trend": {
+      "title": [
+        "Market ",
+        "Trend"
+      ],
+      "text": "24h volume",
+      "button": "Buy"
+    },
+    "help": {
+      "title": "We Are Here to Help",
+      "text": [
+        "Support is just a few taps away. You can also get ",
+        "your question answered by using ",
+        "FAQ section"
+      ],
+      "button": "Contact us"
+    }
+  },
+  "cardPage": {
+    "first": {
+      "title": [
+        "Everything you ever wanted in your card",
+        "is just a plastic swipe away"
+      ],
+      "titleMobile": [
+        "Everything you need",
+        "is just a plastic",
+        "swipe away"
+      ],
+      "text": {
+        "first": [
+          "Visa",
+          "Virtual Card",
+          "Multiple Currencies"
+        ],
+        "second": [
+          "Visa or Mastercard",
+          "Plastic Card",
+          "Enable ATM Withdrawals"
+        ],
+        "third": [
+          "Visa or Mastercard",
+          "Metal Card",
+          "High spending limits"
+        ]
+      },
+      "button": [
+        "Learn about PlasBit Cards",
+        "Compare Card Tiers",
+        "Order Card"
+      ]
+    },
+    "second": {
+      "title": [
+        "VARIOUS CURRENCIES",
+        "ENHANCED SECURITY",
+        "TRACK YOUR EXPENSES",
+        "FLEXIBLE ACCESS",
+        "USE IT WORLDWIDE",
+        "ONE STOP SHOP"
+      ],
+      "text": [
+        "Freedom to pay in local currency all around the globe with the tap of the card and low fees.",
+        "Our Card Includes EMV chip and a  Designated pin Code for ATM's  withdrawal.",
+        "Get instant notifications, access transaction history and swap currencies anytime.",
+        "Provides you the Option to Lock and unlock your card instantly and control how you spend.",
+        "Ready to use in millions of locations around the world. Pay with contactless, PIN or simply withdraw cash from any compatible ATM.",
+        "Manage your crypto and fiat currencies in one place, and exchange them in seconds."
+      ]
+    },
+    "third": {
+      "title": [
+        "Choose the card",
+        "Aligned to your lifestyle"
+      ],
+      "button": [
+        "LIMITS",
+        "FEES",
+        "Details",
+        "Order Now"
+      ],
+      "cards": [{
+          "title": "PlasBit Virtual",
+          "limits": [{
+              "text": "Load per day from PlasBit wallet",
+              "value": "$25,000"
+            },
+            {
+              "text": "POS purchases per day Limit",
+              "value": "$5,000"
+            },
+            {
+              "text": "Load per month from PlasBit wallet",
+              "value": "$50,000"
+            },
+            {
+              "text": "Load per year",
+              "value": "$100,000"
+            },
+            {
+              "text": "Max remaining card balance",
+              "value": "$100,000"
+            },
+            {
+              "text": "Single POS purchase",
+              "value": "$20,000"
+            },
+            {
+              "text": "POS purchase count per day",
+              "value": "20"
+            }
+          ],
+          "fees": [
+            {
+              "text": "Card creation",
+              "value": "$299"
+            },
+            {
+              "text": "Card Load from PlasBit Wallet",
+              "value": "5 %"
+            },
+            {
+              "text": "Currency exchange",
+              "value": "3 %"
+            },
+            {
+              "text": "Card monthly fee",
+              "value": "$19.90 "
+            },
+            {
+              "text": "Card unload to PlasBit wallet",
+              "value": "No fee"
+            },
+            {
+              "text": "POS purchase in card currency",
+              "value": "No fee"
+            },
+            {
+              "text": "Card load time",
+              "value": "Instantly"
+            },
+            {
+              "text": "Chargeback",
+              "value": "$19.99"
+            },
+            {
+              "text": "Valid for",
+              "value": "3 Years"
+            }
+          ]
+        },
+        {
+          "title": "PlasBit Plastic",
+          "limits": [{
+              "text": "Load per day from PlasBit wallet",
+              "value": "$50,000 "
+            },
+            {
+              "text": "POS purchases per day",
+              "value": "$5,000"
+            },
+            {
+              "text": "Single ATM withdrawal",
+              "value": "$500 "
+            },
+            {
+              "text": "Load per month from PlasBit wallet",
+              "value": "$50,000"
+            },
+            {
+              "text": "Load per year from PlasBit wallet",
+              "value": "$100,000"
+            },
+            {
+              "text": "Max remaining card balance",
+              "value": "$100,000"
+            },
+            {
+              "text": "ATM withdrawals per day",
+              "value": "$2,500"
+            },
+            {
+              "text": "ATM withdrawal count per day",
+              "value": "5"
+            },
+            {
+              "text": "ATM withdrawals per year",
+              "value": "$100,000 "
+            },
+            {
+              "text": "Single POS purchase",
+              "value": "$20,000"
+            },
+            {
+              "text": "POS purchase count per day",
+              "value": "20"
+            }
+          ],
+          "fees": [{
+              "text": "Card creation ",
+              "value": "$499"
+            },
+            {
+              "text": "Card Load from PlasBit Wallet",
+              "value": "5 %"
+            },
+            {
+              "text": "Currency exchange",
+              "value": "3 %"
+            },
+            {
+              "text": "Card monthly fee",
+              "value": "$29.90 "
+            },
+            {
+              "text": "Card unload to PlasBit wallet",
+              "value": "No fee"
+            },
+            {
+              "text": "POS purchase in card currency",
+              "value": "No fee"
+            },
+            {
+              "text": "Card load time",
+              "value": "Instantly"
+            },
+            {
+              "text": "Chargeback",
+              "value": "$19.99"
+            },
+            {
+              "text": "Valid for",
+              "value": "3 Years"
+            },
+            {
+              "text": "ATM withdrawal in USD",
+              "value": "2.5"
+            },
+            {
+              "text": "PIN change in ATM",
+              "value": "$1"
+            },
+            {
+              "text": "PIN view",
+              "value": "No fee"
+            },
+            {
+              "text": "Balance check in ATM",
+              "value": "$1"
+            },
+            {
+              "text": "Card reissue",
+              "value": "$49.99"
+            }
+          ]
+        },
+        {
+          "title": "PlasBit Premium",
+          "img": "card-black.png",
+          "limits": [{
+              "text": "Load per day from PlasBit wallet",
+              "value": "$100,000"
+            },
+            {
+              "text": "POS purchases per day",
+              "value": "$30,000"
+            },
+            {
+              "text": "Single ATM withdrawal",
+              "value": "$10,000"
+            },
+            {
+              "text": "Load per month from PlasBit wallet",
+              "value": "$300,000"
+            },
+            {
+              "text": "Load per year from PlasBit wallet",
+              "value": "$1,000,000"
+            },
+            {
+              "text": "Max remaining card balance",
+              "value": "$500,000"
+            },
+            {
+              "text": "ATM withdrawals per day",
+              "value": "$30,000"
+            },
+            {
+              "text": "ATM withdrawal count per day",
+              "value": "3"
+            },
+            {
+              "text": "ATM withdrawals per year",
+              "value": "$300,000 "
+            },
+            {
+              "text": "Single POS purchase",
+              "value": "$30,000"
+            },
+            {
+              "text": "POS purchases per month",
+              "value": "$300,000"
+            },
+            {
+              "text": "POS purchase count per day",
+              "value": "10"
+            }
+          ],
+          "fees": [{
+              "text": "Card creation",
+              "value": "$999"
+            },
+            {
+              "text": "Card Load from PlasBit Wallet",
+              "value": "8 %"
+            },
+            {
+              "text": "Currency exchange",
+              "value": "No fee"
+            },
+            {
+              "text": "Card monthly fee",
+              "value": "$39.90 "
+            },
+            {
+              "text": "Card unload to PlasBit wallet",
+              "value": "Not available"
+            },
+            {
+              "text": "POS purchase in card currency",
+              "value": "No fee"
+            },
+            {
+              "text": "Card load time",
+              "value": "48 hours "
+            },
+            {
+              "text": "Chargeback",
+              "value": "$19.99"
+            },
+            {
+              "text": "Valid for",
+              "value": "4 Years"
+            },
+            {
+              "text": "ATM withdrawal in any currency",
+              "value": "1 %"
+            },
+            {
+              "text": "PIN change in ATM",
+              "value": "$1"
+            },
+            {
+              "text": "PIN view",
+              "value": "No fee"
+            },
+            {
+              "text": "Balance check in ATM",
+              "value": "No fee"
+            },
+            {
+              "text": "Card statement",
+              "value": "No fee"
+            },
+            {
+              "text": "Card reissue",
+              "value": "$149.99"
+            }
+          ]
+        }
+      ],
+      "policy": {
+        "title": [
+          "Cardholder Agreement",
+          "Privacy Policy"
+        ],
+        "text": [
+          "BY USING THIS CARD YOU AGREE WITH THE TERMS AND CONDITIONS OF PLASBIT LTD CARDHOLDER AGREEMENT AND FEE SCHEDULE, IF ANY.",
+          "Visa is a registered trademark and the Three Bands Design and It's Everywhere You Want To are registered Trademarks of Visa in the United States and other countries (trademark denotations on the Visa Site indicate federal registrations in the United States)..",
+          "Mastercard is a registered trademark and the circles design is a trademark of Mastercard International Incorporated."
+        ]
+      },
+      "step": [
+        "Create an Account",
+        "Load your Wallet",
+        "Order the Card"
+      ]
+    },
+    "fourth": {
+      "title": [
+        "FAQs",
+        "about the PlasBit Card"
+      ],
+      "faqs": [{
+          "title": "Is PlasBit Card a credit or debit card?",
+          "text": ["PlasBit Visa Card is a prepaid card. Broadly speaking, prepaid cards are the same as debit cards. The difference is that debit cards are linked to your bank account,but prepaid cards need to be topped up. In our case, you can top up using only cryptocurrency from your plasbit wallet."]
+        },
+        {
+          "title": "How do I apply for PlasBit Visa Card?",
+          "text": [
+            "To do so, first sign up for a PlasBit.com account and open your  own secured wallet. Next, go to the ‘Wallet’ tab in the dashboard and deposit crypto into your Wallet.",
+            "After, go to the ‘Cards’ tab in the dashboard, Choose the card tier you’re applying for, tap the ‘Get this Card’ button and follow the on-screen instructions.",
+            "Finally, pay for the card from your wallet balance.",
+            "Now, all you need to do is to wait for us to notify you when your card has being approved!"
+          ]
+        },
+        {
+          "title": "How do I Top-Up my card?",
+          "text": ["You can top up your card using your crypto from your PlasBit  Wallet. Go to the ‘Cards’ tab, tap ‘Funding’, and select your preferred crypto wallet to fund your card from."]
+        },
+        {
+          "title": "How long does shipping take?",
+          "text": ["It typically takes 10 to 14 business days for EU/EEA addresses and up to 4 weeks for APAC addresses."]
+        },
+        {
+          "title": "How do I pay using crypto?",
+          "text": ["Just tap, swipe, or use pin & chip with your PlasBit Visa Card.  We take care of the crypto to fiat conversion for you automatically when you pay at any merchant."]
+        },
+        {
+          "title": "Which exchange rate will you use?",
+          "text": ["We have competitive exchange rates for both fiat and cryptocurrencies.  The exact rates depend on your jurisdiction and card tier. You can read all these details in the PlasBit Visa Card Terms and Conditions when you apply for your card."]
+        },
+        {
+          "title": "Are there any fees I should be aware of?",
+          "text": ["Information about fees and limits (i.e.ATM withdrawals, interbank exchange rates, top-ups, etc.) can be found in the ‘Fees & Limits’ section under in the Card page comparison table. Fees vary by card tier, so be sure you’re checking the correct one."]
+        },
+        {
+          "title": "With which currencies I can load my card?",
+          "text": [
+            "PlasBit debit card is denominated in USD/EURO and can be loaded with the cardholders’ PlasBit wallet. To top it up, you can use Bitcoin, Ethereum, Litecoin, Cardano and USDC that you receive in PlasBit wallet, as the card can only be loaded with cryptocurrency."
+          ]
+        }
+      ]
+    },
+    "help": {
+      "title": [
+        "Order your virtual or ",
+        "plastic card right now"
+      ],
+      "button": "Order Now"
+    }
+  },
+  "affiliatePage":{
+    "first": {
+      "title": [
+        "PlasBit affiliate",
+        "Your payment solution for",
+        "buying online media",
+        "managing campaigns ",
+        "funding online advertising"
+      ],
+      "text": [
+        "We help you grow your business with our cards and payment methods so you can focus on expanding your Marketing business.",
+        "Send payouts and settle funds, regardless of the country you operate in." 
+      ],
+      "button":[
+        "Get a card",
+        "Learn more"
+      ]
+    },
+    "second": {
+      "title": [
+        "Take your media",
+        "buying to the ",
+        "next level"
+
+      ],
+      "text": [
+        "We provide a scalable, multi-BIN debit card solution for affiliates.",
+        "Our goal is to help you focus on maximizing campaign performance by providing the most reliable card service."
+      ],
+      "cardTitle":[
+        "Spent",
+        "this month"
+      ]
+    },
+    "third": {
+      "title": "Key benefits for media and online advertising",
+      "cards": {
+        "first": {
+          "title": "One stop shop",
+          "text": "Issue cards worldwide via intuitive and easy dashboard with cards in USD or EUR depending on your ads spend needs."
+        },
+        "second": {
+          "title": "Virtual cards",
+          "text":"Place thousands of ads and manage each media buying campaign with its own card."
+        },
+        "third": {
+          "title":"Audited regularly",
+          "text":"World-class audits and constant improvement,which guarantee data protection in all of our services."
+        },
+        "fourth": {
+          "title": "JIT (Just-in-Time) Funding",
+          "text": "Eliminate the need to conform to credit requirements and the risk of freezing your campaigns when limits are reached at peaks."
+        }
+      }
+    },
+    "fourth": {
+      "title": "Cards limits and fees",
+      "card": [
+        "Card creation ",
+        "Monthly loading limit ",
+        " Card Top up Fee",
+        "No fees on Wallet Top Up",
+        "Card monthly fee ",
+        "Valid for 3 Years"
+      ],
+      "button": "Order now"
+    },
+    "fifth": {
+      "title": "Affiliate FAQs",
+      "faqs": {
+        "first": {
+          "question": "Is PlasBit Card a credit or debit card?",
+          "answer": "PlasBit Visa Card is a prepaid card. Broadly speaking, prepaid cards are the same as debit cards. The difference is that debit cards are linked to your bank account,but prepaid cards need to be topped up. In our case, you can top up using only cryptocurrency from your plasbit wallet.Finally, pay for the card from your wallet balance."
+        },
+        "second": {
+          "question": "How do I apply for plasbit Visa Card?",
+          "answer": "To do so, first sign up for a plasbit.com account and open your own secured wallet.Next, go to the ‘Wallet’ tab in the dashboard and deposit crypto into your Wallet.Then, get in the ‘Cards’ tab in the dashboard, choose the card tier you’re applying for, tap the ‘Get this Card’ button and follow the on-screen instructions.Now, all you need to do is to wait for us to notify you when your card has being approved."
+        },
+        "third": {
+          "question": "How do I Top-Up my card?",
+          "answer": "You can top up your card using your crypto from your plasbit Wallet. Go to the ‘Cards’ tab, tap ‘Funding’, and select your preferred crypto wallet to fund your card from."
+        },
+        "fourth": {
+          "question": "Does it work in all the advertising platforms?",
+          "answer": "Yes,You can assign the card in Google ads, Facebook ads, Twitter, Snapchat, YouTube, Instagram, LinkedIn, TikTok, Etc."
+        },
+        "fifth": {
+          "question": "Can I pay using crypto?",
+          "answer": "Just tap, swipe, or use pin & chip with your plasbit Visa Card. We take care of the crypto to fiat conversion for you automatically when you pay at any merchant."
+        },
+        "sixth": {
+          "question": "Are there any fees I should be aware of?",
+          "answer": "Information about fees and limits (i.e.ATM withdrawals, interbank exchange rates, top-ups, etc.) can be found in the ‘Fees & Limits’ section under in the Card page comparison table. Fees vary by card tier, so be sure you’re checking the correct one."
+        },
+        "seventh": {
+          "question": "With which currencies I can load my card?",
+          "answer": "PlasBit debit card is denominated in USD/EURO and can be loaded with the cardholders’ plasbit wallet. To top it up, you can use Bitcoin, Ethereum, Litecoin, Cardano and USDC that you receive in plasbit wallet, as the card can only be loaded with cryptocurrency."
+        }
+      }
+    }
+  },
+  "walletPage": {
+    "first": {
+      "title": [
+        "The ",
+        "secure ",
+        "wallet to ",
+        "store crypto yourself"
+      ],
+      "titleMobile": [
+        "The ",
+        "secure ",
+        "wallet ",
+        "to store crypto ",
+        "yourself"
+      ],
+      "text": [
+        [
+          "The PlasBit wallet is equipped with an industry-leading ",
+          "security infrastructure designed to ensure maximum ",
+          "protection of your assets at all times."
+        ],
+        [
+          "Easily manage your coins, including ",
+          "BTC, ETH, LTC, ADA, USDC, and other ERC20 tokens."
+        ],
+        [
+          "Your private keys are encrypted with Secure Enclave, ",
+          "protected by Biometric and 2-Factor Authentication."
+        ]
+      ],
+      "button": [
+        "Open Wallet Now",
+        "Learn More"
+      ]
+    },
+    "second": {
+      "security": "Security",
+      "title": [
+        "Security is ",
+        "our top priority."
+      ],
+      "text": [
+        [
+          "Our commitment to our customers is built on trust.",
+          "We believe that security and data privacy are the ",
+          "the foundations of achieving mainstream ",
+          "cryptocurrency adoption."
+        ],
+        [
+          "PlasBit continuously assesses the risks in the crypto world ",
+          "and automatically adjusts to provide comprehensive ",
+          "real-time protection across the digital attack surface and cycle."
+        ],
+        [
+          "Leverage private key encryption, PINs, ",
+          "and biometric authentication for ",
+          "enhanced security."
+        ]
+      ],
+      "button": "Learn More"
+    },
+    "third": {
+      "title": [
+        "Payment Industry",
+        "Best Practices"
+      ],
+      "text": [
+        [
+          "We take careful measures to ensure that ",
+          "your Crypto is as safe as possible."
+        ],
+        [
+          "Offline storage provides an important security ",
+          "measure against theft or loss.",
+          "We distribute bitcoin geographically ",
+          "in safe deposit ",
+          "boxes and vaults ",
+          "around the world."
+        ],
+        [
+          "We check for strong passwords ",
+          "on account creation ",
+          "and password reset ",
+          "and credentials are kept separate ",
+          "from the database ",
+          "and code base."
+        ]
+      ]
+    },
+    "fourth": {
+      "title": [
+        "All your crypto solutions in ",
+        "One Place"
+      ],
+      "subTitle": [
+        "Take full control of your crypto by ",
+        "storing privately and ",
+        "securely on your own wallet."
+      ],
+      "line_1": {
+        "title": "Convert crypto to fiat",
+        "text": [
+          "Store your Bitcoin, Ethereum, and other digital assets.",
+          "Easily change your crypto assets to fiat via Bank transfer and ",
+          "debit card."
+        ]
+      },
+      "line_2": {
+        "title": "Internet banking",
+        "text": [
+          "Fast, smart, and latest generation internet banking dashboard panel: ",
+          "everything is always under control, at your fingertips.",
+          "Solution adaptable to your needs.",
+          "We offer you wide range of  payment transactions and ",
+          "a lot more cutting-edge payment services."
+        ]
+      },
+      "line_3": {
+        "title": "Secure Storage",
+        "text": [
+          "ISO/IEC 27001 guarantees that PlasBit’s security infrastructure ",
+          "is of the highest standard, thus ensuring the safety ",
+          "of the enterprise and minimizing risks for all clients and investors. ",
+          "Being ISO/IEC 27001 certified, PlasBit is utilizing ",
+          "the most rigorous security policies, impeccable risk assessment, ",
+          "data protection, and state-of-the-art cybersecurity. "
+        ]
+      }
+    },
+    "fifth": {
+      "title": [
+        "Get started in a ",
+        "few minutes"
+      ],
+      "step": [
+        "Create an Account ",
+        "Find your account ",
+        "with crypto",
+        "Start Living life on crypto"
+      ],
+      "button": "Open a Wallet Now"
+    },
+    "help": {
+      "title": "We’re Here to Help",
+      "text": [
+        "Support is just a few taps away. You can also get your ",
+        "question answered by using ",
+        "FAQ section"
+      ],
+      "button": "Contact us"
+    }
+  },
+  "contactPage": {
+    "email": "support@plasbit.com ",
+    "telegram": "@plasbit ",
+    "whatsapp": "+44 15 1453 5555 ",
+    "title": [
+      "Contact ",
+      "Us"
+    ],
+    "line_1": {
+      "text": [
+        "Send us an email at ",
+        "or fill out the form below and a member of our team will be in ",
+        "touch within one business day."
+      ],
+      "textMobile": [
+        "Send us an email at ",
+        "or ",
+        "fill out the form below and a member of our ",
+        "team will be in touch within one business day."
+      ]
+    },
+    "line_2": {
+      "text": "Already with PlasBit and need a faster replay?"
+    },
+    "line_3": {
+      "text": [
+        "Reach out via telegram ",
+        "or log in to your PlasBit dashboard ",
+        "and contact our support via live chat available 24/7."
+      ],
+      "textMobile": [
+        "Reach out via telegram ",
+        "or log in to your PlasBit ",
+        "dashboard and contact our support via live ",
+        "chat available 24/7."
+      ]
+    },
+    "message": {
+      "title": [
+        "Send Us a ",
+        "Message"
+      ],
+      "name": "Name",
+      "phone": "Phone",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "button": "Send Us"
+    },
+    "information": {
+      "title": [
+        "Contact ",
+        "Information"
+      ],
+      "location": [
+        "Villa Metro, Business House,",
+        "ul. Puławska 145, Warsaw, 02-715",
+        "Poland"
+      ],
+      "locationMobile": [
+        "Villa Metro, Business",
+        "House, ul. Puławska 145,",
+        "Warsaw, 02-715",
+        "Poland"
+      ]
+    }
+  },
+  "privacyPage": {
+    "notice": {
+      "title": "PRIVACY NOTICE",
+      "updated": "Updated Oct 28 2021",
+      "section_1": {
+        "title": "Scope and consent",
+        "text": [
+          "This Privacy Notice (“Notice”) describes the ways PlasBit Inc. (“PlasBit”, “we”, “us”, “our”) collects, stores, uses, and protects information. PlasBit’s services include merchant processing services, websites, mobile applications, products, and any other features, technologies, or functionalities, including customer support (“Services”) offered by us. This Notice applies to www.PlasBit.com and all other PlasBit sites on which it appears (the “Sites”).",
+          "Our privacy practices may vary among the countries or territories in which we operate to reflect local practices and legal requirements. For EU residents, please review our EU Privacy Notice.",
+          "We may process information from the following types of users:"
+        ],
+        "list": [
+          "Visitors of our Sites;",
+          "Merchants who sign up for our Services (“Merchants” means any business that uses our Services to process payments, including non-profits that use our Services to accept donations and “Aggregators” that use our Services as a payment services platform for their own Merchants);",
+          "Shoppers of Merchants (“Shoppers” means individuals who indirectly interface with PlasBit when paying a Merchant’s invoice that is forwarded by PlasBit to a Merchant during checkout, when requesting a refund from a Merchant, when creating a PlasBit account, or when making a donation to a non-profit); PlasBit card holders who have signed up for a PlasBit debit card",
+          "PlasBit wallet holders who have opened an account on PlasBit website;"
+        ]
+      },
+      "section_2": {
+        "title": "What kind of information do we collect?",
+        "subTitle": "1. Visitors of our Sites:",
+        "list": [
+          "Technical information, including IP address; the type of browser, devices, and operating systems you use; identifiers associated with the device(s) you use to access our Sites; the pages you visit and the features you use; access dates and times; and if you navigated from or navigate to another website, the address of that website; and information regarding your internet service provider",
+          "Email address (e.g., when you subscribe to our blog or opt-in to receive other marketing materials)",
+          "Phone number (e.g., when you contact our sales or media team or opt into our media list)",
+          "Full name (e.g., when you submit a support request)",
+          "Country"
+        ]
+      }
+    },
+    "eu": {
+      "title": "EU PRIVACY NOTICE",
+      "updated": "Updated Oct 28 2021",
+      "section_1": {
+        "title": "Scope",
+        "text": "This EU Privacy Notice (“Notice”) describes the ways PlasBit Inc. (“PlasBit”, “we”, “us”, “our”) collects, stores, uses, and protects personal data. PlasBit’s services include Merchant processing services, websites, mobile applications, products, and other features, technologies, or functionalities, including customer support (the “Services”) offered by us. This Notice applies to all processing of personal data on the website www.PlasBit.com and all other PlasBit sites on which it appears (the “Sites”)."
+      },
+      "section_2": {
+        "title": "Responsibility",
+        "text": [
+          "Compliant processing. PlasBit complies with applicable United States federal and state regulations and European Economic Area (European Union + Norway, Iceland, Liechtenstein) (hereinafter “EEA”) data protection laws, such as the General Data Protection Regulation and its implementation acts (hereinafter “GDPR”).",
+          "PlasBit as a controller. PlasBit is considered the controller for processing personal data as described in this Notice.",
+          "PlasBit as a processor. In principle, we control the processing of your personal data. However, in some cases, we may process your personal data on behalf of another party, who is the controller responsible for your personal data. This Notice does not relate to that part of our processing activities where we are acting on behalf of another controller. For such processing, the privacy notice of the relevant controller applies, and we encourage you to read that notice.",
+          "Third party websites. The Sites may include links to websites of third parties (for example, hyperlinks, banners or buttons). We are not responsible for the content of those websites, services provided by those third parties, or their compliance with applicable privacy legislation."
+        ]
+      }
+    },
+    "exercise": {
+      "title": "PRIVACY NOTICE",
+      "section_1": {
+        "title": [
+
+        ],
+        "text": [
+
+        ]
+      }
+    },
+    "cookie": {
+      "title": "COOKIE NOTICE",
+      "updated": "Updated Oct 28 2021",
+      "text": [
+        "This Cookie Policy describes the different types of cookies that may be applied by PlasBit Inc. on its website (“Site”). We may change this Cookie Policy at any time in order to reflect, for example, changes to the cookies we use or for other operational, legal, or regulatory reasons.",
+        "If you have questions regarding this Cookie Policy, please contact our Data Protection Officer (DPO) at dpo@PlasBit.com or write to us at PlasBit Inc."
+      ],
+      "section_1": {
+        "title": "What are cookies?",
+        "text": [
+          "Cookies are a standard feature of websites that allow us to store small amounts of data on your computer about your visit to a website. Cookies help the website owner learn which areas of the website are useful and which areas need improvement. Cookies also improve your experience by, for example, remembering your preferences, such as your language preference or login information.",
+          "Some cookies are required for technical reasons in order for a website to operate, also known as \"Strictly Necessary\" cookies. Some cookies allow a website to count visits and traffic sources so the site owner can measure and improve the performance of the site, also known as “Analytics” cookies. Some cookies enable a website owner to serve targeted advertisements, also known as “Targeting” cookies."
+        ]
+      },
+      "section_2": {
+        "title": "What cookies do we use?",
+        "text": [
+          "Our Site uses both first party cookies (which are set by us) and third party cookies (which are set by a server located outside the domain of our Site) for several reasons. The specific types of first and third party cookies served through our Site and the purposes they perform are described in the tables below.",
+          "Strictly Necessary Cookies. These are cookies that make our Site function when you take certain actions, whether you are logging in, managing email preferences, or filling out forms. Since they are essential for our Site to function, we cannot turn them off. You can set your browser to block or alert you about these cookies, but some parts of the Site will then not work. These cookies do not store any personal data."
+        ]
+      }
+    }
+  },
+  "legalPage": {
+    "term": {
+      "title": "TERMS OF USE",
+      "updated": "Updated Oct 28 2021",
+      "section_1": {
+        "title": "Merchant Terms of Use",
+        "text": [
+          "These Merchant Terms of Use (the “Terms”) govern the use of the products, services or any other features, technologies or functionalities related to merchant payment acceptance services (the \"Acceptance Services\") provided by PlasBit LTD.",
+          "(“PlasBit”, “we”, “our”, or “us”) through PlasBit’s website, API or through any other means to you (“Merchant”, “you” or “your”).",
+          "By using the Acceptance Services, you accept these Terms and agree to be bound by them, confirm that you have read, understood, and accepted all of the provisions contained herein, including, without limitation, Section 18.7, Governing Law; Arbitration; Waiver of Class Action."
+        ],
+        "subTitle_1": "1. Our Services",
+        "text_1": [
+          "PlasBit is a blockchain/cryptocurrency payment processor that enables you to accept cryptocurrencies as a payment method in exchange for goods or services you sell to your customers (“Shoppers”).",
+          "PlasBit is not a cryptocurrency exchange, nor does it provide cryptocurrency custody as part of the Acceptance Services. The Acceptance Services are only available to businesses that sell products or services and registered charitable organizations that accept donations.",
+          "By using the Acceptance Services, you authorize PlasBit to act as your agent and to take any and all actions that we think are necessary or desirable to provide the Acceptance Services and to comply with applicable laws and regulations. Payment by a Shopper to PlasBit is considered the same as payment made directly to you and limits the Shopper's outstanding obligations to the extent of the payment."
+        ],
+        "subTitle_2": "2. Our Regulatory Compliance",
+        "text_2": [
+          "PlasBit is a UK legal entity and is subject to UK laws and regulations. This includes the The Financial Conduct Authority (FCA), and other anti-money laundering (AML) and anti-terrorist financing (ATF) laws. PlasBit is also a registered Money Service Business with the Her Majesty's Revenue and Customs (HMRC) and is a licensed money transmitter in the UK where applicable law requires it to be licensed. As required by applicable laws and regulations, PlasBit maintains a comprehensive AML/ATF/Sanctions compliance program."
+        ]
+      },
+      "section_2": {
+        "title": "Wallet Terms of Use",
+        "text": [
+          "This is a binding Agreement between PlasBit Inc. (“PlasBit” or “We”) and the person, persons, or entity (“You” or “Your”) using the service, Software, or application (“Software”)."
+        ],
+        "subTitle_1": "1. Rights and Obligations",
+        "text_1": [
+          "PlasBit provides the Software solely on the terms and conditions set forth in this Agreement and on the condition that You accept and comply with them. By using the Software You (a) accept this Agreement and agree that You are legally bound by its terms; and (b) represent and warrant that: (i) You are of legal age to enter into a binding agreement; and (ii) if You are a corporation, governmental organization or other legal entity, You have the right, power and authority to enter into this Agreement on behalf of the corporation, governmental organization or other legal entity and bind them to these terms.",
+          "This Software functions as a free, open source, and multi-signature digital wallet. The Software does not constitute an account where We or other third parties serve as financial intermediaries or custodians of Your cryptocurrencies(s)."
+        ],
+        "subTitle_2": "2. Gift Cards",
+        "text_2": [
+          "Gift Cards (\"GCs\") sold by PlasBit LTD, an authorized and independent reseller of GCs, through the software are subject to the following terms. Except as required by law, GCs cannot be transferred for value or redeemed for cash. GCs may be used only for purchases of eligible goods or services at the merchant's website, physical location, or certain of its affiliated websites.",
+          "For complete terms and conditions, please read the merchant's gift card terms and conditions. GCs trademarks and copyrights belong to the merchant owners or its affiliates. ALL SALES ARE FINAL, AND NO REFUNDS WILL BE PROVIDED FOR ANY GC. Please contact the GC merchant directly."
+        ]
+      }
+    },
+    "privacy": {
+      "title": "PRIVACY"
+    },
+    "access": {
+      "title": "ACCESSIBILITY STATEMENT",
+      "updated": "Updated Oct 28 2021",
+      "text": "PlasBit is committed to making our website's content accessible and user friendly to everyone. If you have difficulty viewing or navigating the content on this website, or notice any content, feature, or functionality that you believe is not fully accessible to people with disabilities, please email our team at support@plasbit.com with \"Disabled Access\" in the subject line and provide a description of the specific feature you feel is not fully accessible or a suggestion for improvement. We take your feedback seriously and will consider it as we evaluate ways to accommodate all of our customers and our overall accessibility policies. Additionally, while we do not control such vendors, we strongly encourage vendors of third-party digital content to provide content that is accessible and user friendly."
+    }
+  },
+  "safePage": {
+    "title": [
+      "Never allow someone else access to your PlasBit account.",
+      "Letting someone access your account remotely",
+      "Sharing your details via email",
+      "“Logging in” to any site other than PlasBit.com",
+      "Situations where you might be asked to log in via another platform"
+    ],
+    "text": [
+      [
+        "Sometimes, allowing someone access to your account might feel like the quickest way to make a payment. It’s also one of the simplest ways for scammers to get their hands on your money, and go undetected. It’s a breach of your contract with PlasBit, and for good reason.",
+        "With your login details, or remote access to your account, scammers can take your balance in seconds, and the money is not easy to retrieve. At PlasBit, security is incredibly important to us, and we have robust procedures going above and beyond what’s asked of us. But despite our house of bricks, the big bad wolf can still walk in and make a mess if the front door is open.",
+        "So what situations do you need to look out for, where you might give access to to a scammer, without even realising..."
+      ],
+      [
+        "At PlasBit, we will never ask you to download software to access your device, or offer to make a payment for you. Our customer service agents will give clear instructions over the phone, or on email, but will never ask to take control of your device.",
+        "There has been a rise in fake customer service scams. This means scammers set-up fake websites and false phone numbers for PlasBit customer support, and use these to dupe customers into thinking they’re speaking to our real support teams. A polite voice on the end of the phone can suggest that the simplest thing is to let them take the reins and download an application or program that lets them move your money via their phone or laptop. Don’t let them convince you.",
+        "A real PlasBit customer service agent would never use this method to help you with a payment, and anyone who does ask for access to your device is not legitimate. The real customer support contact details are available on the Help page, when you’re logged into your account."
+      ],
+      [
+        "Giving access to your account to friends and family might feel harmless, but by sharing your details virtually, you are breaching the terms and conditions of your agreement with PlasBit.",
+        "If you need help using PlasBit, contact our customer service team who can help guide you through each step of the transaction. We will never ask you to share login details, share your screen."
+      ],
+      [
+        "At PlasBit, we work directly with you to ensure payments arrive where you want, when you want. We don’t use any ‘brokers’ or assistants to help set up or manage your account, as this can all be done easily through our site.",
+        "Unfortunately, where financial services use that model, scammers can see it as an opportunity to offer their ‘middle man services’. These services might be disguised as ‘ensuring you have the right currency’, or ‘creating an account on your behalf’ - but the reality is that they’re unnecessary, and could be a front for a scam. You should be especially cautious if any third party asks you to email personal details and information to them, in order to set up an account ‘for you’.",
+        "When logging into your PlasBit account, check the URL is “PlasBit.com/login/”, similarly, if you’re asked to log in via a link in an email, make sure this has a @PlasBit.com domain, anything else could be a malicious attempt to access your money."
+      ],
+      [
+        "There’s a small number of cases where you might not log in directly with us. We work with some other major banks and service providers (like Xero, and Monzo) to help you make transfers directly from their apps, or you may use an Open Banking provider (like Emma and Plum) to help manage your money. If you are using a partner service, and it asks you to log in to your Wise account, they’ll always redirect you to ",
+        "https://www.plasbit.com ",
+        "to log in to.",
+        "You’ll be explicitly asked for permission to give the partner access to this account, and you should only allow access from companies you know and trust.",
+        "If you’re struggling with a payment for any reason, visit our ",
+        "help center ",
+        "to see how we can assist.",
+        "This publication is provided for general information purposes only and is not intended to cover every aspect of the topics with which it deals. It is not intended to amount to advice on which you should rely. You must obtain professional or specialist advice before taking, or refraining from, any action on the basis of the content in this publication. The information in this publication does not constitute legal, tax or other professional advice from TransferWise Limited or its affiliates. Prior results do not guarantee a similar outcome. We make no representations, warranties or guarantees, whether express or implied, that the content in the publication is accurate, complete or up to date."
+      ]
+    ]
+  },
+  "widgetPage": {
+    "title": [
+      "Widget",
+      "for your website"
+    ],
+    "text": [
+      "Use PlasBit's Bitcoin calculator to find out exactly how much your Bitcoin is worth in any of the ",
+      "supported global currencies, using accurate, up-to-date exchange rates. Get real-time and ",
+      "historical trends in the BTC value for your selected currency."
+    ],
+    "codeviewer": [
+      "Website widget",
+      "Copy and paste this into where you want the widget to be. You can load as many widgets of this type as you like, but only load the script once."
+    ]
+  },
+  "calcPage": {
+    "first": {
+      "title": [
+        "Crypto",
+        "Calculator"
+      ],
+      "text": [
+        "Use PlasBit's Bitcoin calculator to find out exactly how much your Bitcoin is worth in any of the ",
+        "supported global currencies, using accurate, up-to-date exchange rates. Get real-time and ",
+        "historical trends in the BTC value for your selected currency."
+      ],
+      "label": [
+        "Amount in bitcoin",
+        "Amount in selected currency"
+      ]
+    },
+    "second": {
+      "title": "Bitcoin Price History",
+      "text": [
+        "Current ",
+        "Bitcoin Price ",
+        "in USD ",
+        "(US Dollar)"
+      ]
+    }
+  },
+  "securityPage":{
+    "first": {
+      "title": [
+        "Spend ",
+        "with confidence"
+      ],
+      "text": ["We believe that security and data privacy are the most important aspect for the crypto community.",
+         "Our commitment to our customers is to protect your personal data and never store any information to provide complete anonymity."]
+    },
+    "second": {
+      "title": ["Our security protect both the",
+      "server and the client-side of the attack surface"],
+      "subtitle": ["Engage two-factor authentication",
+        "24/7 Support",
+        "Withdrawal Confirmations",
+        "Automated Penetration tests"
+      ],
+      "text":[
+        "SMS Verifications, Email Verifications, Authenticator App Support.",
+        "Excellent rated Customer Support available through chat or email. ",
+        "Log-in Alerts Keep full control over your account",
+        "Performed on a regular basis to ensure hackers are blocked and our system has no vulnerability."]
+    },
+    "third":{
+      "title":["All user crypto-currencies are stored offline in cold storage.",
+        "Data security to ensure confidentiality.",
+        "Platfrom Security.",
+        "Internal Controls."],
+        "text":["The hardware security modules (HSMs) we rely upon have achieved a FIPS 140-2 Level 3 rating or higher. All HSMs are geographically distributed at secure data centers and require coordinated action of multiple employees to operate.",
+          "All sensitive account information is encrypted at the system and data level. All sensitive/debit information is encrypted with Secure Socket Layer (SSL) technology. ",
+          "Our servers are housed in secure cages, and physical access and code deployment are strictly controlled. Our systems are tested by an expert team using every conceivable attack vector. 24/7 surveillance and armed guards ensure that our servers are secure. ",
+          "For maximum security we don't hold users passwords or account access and even we are unable to transfer cryptocurrency out of customers Online “Hot” Storage."]
+    },
+    "forth":{
+      "title": "PlasBit is dedicated to strengthening the crypto-environment.",
+      "text":["We don't recommend keeping all of your money on any exchange, including ours. Beyond providing services and products, we strive to increase the usage of cryptocurrency across the world. PlasBit's purpose is to provide a safe user experience and To guarantee the longevity of the Crypto adoption as a whole.",
+      "PlasBit is utilising a solution that combines the Cryptocurrency Security Standard Level 3. CCSS Level 3 requires multiple parties for all-critical actions, as it uses sophisticated authentication methods to guarantee the accuracy of data. Our software is analysed using both static and dynamic source code checking tools, ensuring security is built into our development process."
+      ]
+    }
+  },
+"communityPage": {
+  "first":{
+    "title":[
+      "Join the ",
+      "PlasBit Community"
+    ],
+    "text": [
+      "PlasBit is more than just another a crypto platform.",
+      "We are a global community fighting for the rights of people",
+      " to control their own labor and property."
+    ],
+    "buttons":[
+      "About us",
+      "Contact us"
+    ]
+  },
+  "second": {
+    "title": [
+      "Join ",
+      "the ",
+      "conversation"
+    ],
+    "text": [
+      "Join Our Telegram Group community or follow us on Twitter to be part of the PlasBit community, ",
+      "where you can win exclusive PlasBit-branded merchandise such as hardware wallets, crypto tech gadgets and t-shirts."
+    ],
+    "buttons":[
+      "Telegram",
+      "Twitter"
+    ]
+  },
+  "third":{
+    "title" : "Our Community",
+    "tweets": {
+      "first":[
+        "PayPal has shut down the account of the Free Speech Union for daring to stand up for ",
+        "#freespeech ",
+        "Financial services being withdrawn from people is the new battlefront.",
+        "#Bitcoin ",
+        "has NO founders/Stakeholder reliance, freedoms thru PoW timechain."
+      ],
+      "second": [
+        "US annual inflation",
+        "September 2020: 1.4%",
+        "September 2021: 5.4%",
+        "September 2022: 8.2%",
+        "October 2022: Former Fed Chair Ben Bernanke wins the 2022 Nobel Prize for Economics for his work on the financial crises.",
+        "Bernanke introduced QE and bailed out banks in 2008.",
+        "#NobelPrize"
+      ],
+      "third":[
+        "Lots of websites claim to protect your data.",
+        "With PlasBit cards you can spend your crypto and stay anonymous.",
+        "Think twice before you share your personal details "
+      ]
+    }
+  },
+  "fourth": {
+    "title" : [
+      "Become an active part ",
+      "#PlasBit"
+    ],
+    "text" : "Share your PlasBit experience on Twitter to empower our community.",
+    "button": "Explore the world"
+  },
+  "fifth": {
+    "title": "PlasBit merchandise",
+    "text": [
+      "Shop with crypto and Live the ",
+      " #CryptoLifestyle"
+    ],
+    "cards": [
+      "Women Fashion",
+      "Leather Bag",
+      "Men Fashion",
+      "Watches"
+    ],
+    "button": "Shop now"
+  }
+},
+"communityWallPage": {
+  "first": {
+    "title": [
+      "PlasBit trading",
+      "Become an active part ",
+      "#PlasBit"
+    ],
+    "text":[
+      "Share your PlasBit experience on",
+      "Share PlasBit on"
+    ]
+  }
+    
+},
+  "aboutPage": {
+    "first": {
+      "title": [
+        "When ",
+        "excellence ",
+        "meets convenience "
+      ],
+      "text": [
+        "Since 2020 PlasBit has strived to bring professional financial services to the world of crypto currencies. ",
+        "PlasBit empowers the power of blockchain technology to showcase the value behind crypto assets, ",
+        "shaping a new, better financial system not beholden to country borders or specific government"
+      ],
+      "button": "Join Us"
+    },
+    "second": {
+      "title": "About us",
+      "text": [
+        "We are happy to go against the grain. We’re not a company that works with only the bottom line in mind. We see the world of cryptocurrency differently And we feel fine with all that.",
+        "We’re a team of free-thinking techies, who look at cryptocurrency a little differently. Where other cryptocurrency companies may value profits, we value, well…financial freedom, and the right to liberty. We are not in the pocket of any of the large players. We answer to no one except our IT and developers in the trenches.",
+        "Our mantra is: 'Financial freedom is available to those who learn about it and work for it.' We work like that, because we think it’s the only way to go. We believe that with blockchain  breakthrough technology the cryptocurrency community can reach open financial system that enables the rights of people to control their own labor and property . We believe that as part  of the community we need to hang together, because if we don’t we will hang alone.",
+        "At PlasBit, we support and stand behind the Universal Declaration of Human Rights which states that equal and inalienable rights of all members of the human family is the foundation of freedom, justice and peace in the world. All human beings should be treated with decency, kindness and respect.",
+        "We’re not just a different kind of cryptocurrency company, we are a cryptocurrency company that together with you, makes a difference increasing economic freedom in the world."
+      ]
+    },
+    "third": {
+      "title": [
+        "Vision",
+        "Mission",
+        "Target"
+      ],
+      "text": [
+        "We are building a blockchain based payment solutions infrastructure to transform how businesses and individuals send, receive, and store crypto. ",
+        "To create a future for the financial world where all assets are tokenized on-chain and people have efficient ways to transfer or manage their funds. ",
+        "At PlasBit, we always look ahead which is why we’ve designed our products to be seamless, secure and instant -- the financial services of  tomorrow. "
+      ]
+    },
+    "fourth": {
+      "title": [
+        "3",
+        "Over 100K+",
+        "80+",
+        "24/7"
+      ],
+      "text": [
+        "Years operating",
+        "Users",
+        "Team members",
+        "Support"
+      ]
+    },
+    "fifth": {
+      "title": "Our Values",
+      "values": [{
+          "title": "Humanity first",
+          "text": [
+            "Integrity is one of the most important characteristics of a good team member because honesty creates an environment of open communication.",
+            "When employers and employees feel free to share their concerns, questions and feedback, everyone in the organization can benefit."
+          ]
+        },
+        {
+          "title": "Be imaginative",
+          "text": [
+            "We arm our customers with an industry-leading platform that is built to create useful and unique solutions in challenging situations. ",
+            "PlasBit starts at the heart – with blockchain technology – so our customers can Manage and control their  own crypto is one of the core tenets of true financial freedom. "
+          ]
+        },
+        {
+          "title": "Control your destiny ",
+          "text": [
+            "Everyone deserves access to fundamental financial services that can help empower them to create a better life for themselves and their families.",
+            "We seek to improve all aspects of our company even in ways that are not explicitly part of our job."
+          ]
+        },
+        {
+          "title": "Keep innovating",
+          "text": [
+            "Continuous Innovation is the only way to stay ahead in the crypto world.",
+            "We innovate by starting with the customer and working backwords from there.",
+            "That remains our company heart and soul and distinguishes us as a market leader. "
+          ]
+        },
+        {
+          "title": "Free from restrictions",
+          "text": [
+            "Our core thesis is that greater adoption and usage of cryptocurrency will increase economic freedom in the world, because crypto solves many of the shortcomings of the current financial system that hinder economic freedom. ",
+            "We support the rights of people to control their own labor and property in each country and globally. ",
+            "Economic freedom varies dramatically across the world. "
+          ]
+        },
+        {
+          "title": "Keep our eye on the target",
+          "text": [
+            "crypto positioned to increase economic freedom because it is an open, global network that enforces property rights without being biased. Our strategy and roadmap is geared towards building easy-to-use products that abstract away the complexity of blockchains, and we’re building the primitives of a functioning financial system.",
+            "We still have a long way to go, but the future is bright."
+          ]
+        }
+      ]
+    }
+  },
+  "careerPage": {
+    "first": {
+      "main":[
+        "PlasBit careers"
+      ],
+      "title": [
+        "We never ",
+        "dream about success.",
+        "We work for it."
+      ],
+      "text": [
+        "Help us increase economic ",
+        "freedom in the world"
+      ],
+      "button": "View Open Positions"
+    },
+    "second": {
+      "title": [
+        "About Us",
+        "Our Mission"
+      ],
+      "text": [
+        "PlasBit was founded in 2020, We believe blockchain technology has the potential to revolutionize the financial industry and cryptocurrency technology allows us to build a more free and open financial system that enables the rights of people to control their own labor and property. We are bitcoin payment processor, serving businesses on 6 continents. We have created a seamless, secure payment experience used daily by hundreds of thousands of users. Imagine yourself contributing to the development of one of the most dynamic Blockchain FinTech companies in the world, re-defining how financial services are conducted. This is what it means to be a part of team plasbit.",
+        "The team behind PlasBit has been in the online payments solutions industry for over 13 years.We value teamwork and an open and dynamic culture.",
+        "Our team is encouraged to work closely with one another and alongside the executive team to realise our vision to transform how businesses and people send, receive, and store money to  increase economic freedom in the world."
+      ]
+    },
+    "third": [{
+        "title": "TOTAL RAISED",
+        "text": [
+          "$0",
+          "Million"
+        ]
+      },
+      {
+        "title": "TOTAL EMPLOYEES",
+        "text": [
+          "85",
+          "People"
+        ]
+      },
+      {
+        "title": "COMPANY AGE",
+        "text": [
+          "3",
+          "Years"
+        ]
+      }
+    ],
+    "fourth": {
+      "title": [
+        "We support the cryptocurrency revolution",
+        "Steer a new world and help create a better, safer tomorrow."
+      ],
+      "text": [
+        "The cryptocurrency world is hybrid and Blockchain technology is rightly considered to be revolutionary. It makes the value chain more reliable and efficient than any conventional approach, especially in the financial world. Executive boards have gotten the message and drive action. New regulations provide more pressure. There’s never been a better time to be a part of the evolution blockchain technology. ",
+        "Users of various platforms trade their freedom and privacy for convenience and Transactions are no longer an exchange of bearer instruments but modified entries in a tech company’s ledger.",
+        "Personal information is demanded and shared rather than protected. For those without identification documents, these systems are inaccessible. ",
+        "According to the Human Rights Foundation (2020), approximately 4.2 billion people across 93 countries live today under authoritarian regimes. These individuals have little to no ability to push peacefully for reform concerning economic problems such as state corruption, currency debasement, and financial surveillance. Cash is a vital tool of savings and privacy for them. Once it is gone, the nature of whatever replaces it will, in no small way, dictate their freedom. ",
+        "Bitcoin’s unique combination of open source programmability, permissionlessness, scarcity, censorship resistance, seizure resistance, and decentralization makes it a promising foundation for digital cash, especially for the billions of people unable to lobby their governments to uphold digital freedom and privacy, who may have no other option.",
+        "At its core, cryptocurrency is a breakthrough technology  that allows us to build a more free and open financial system that enables the rights of people to control their own labor and property. "
+      ]
+    },
+    "fifth": {
+      "tab": [
+        "ALL",
+        "MARKETING",
+        "CUSTOMER SUCCESS",
+        "SALES",
+        "PRODUCTS"
+      ],
+      "titles": [
+        "ALL",
+        "PEOPLE OPERATIONS",
+        "COMPLIANCE",
+        "FINANCE",
+        "SOFTWARE DEVELOPMENT",
+        "Creative",
+        "PHP Developer",
+        "Digital Marketing",
+        "PRODUCT",
+        "GENERAL"
+      ],
+      "title": [
+        "Senior Manager, Customer Experience Operations",
+        "Digital Asset Researcher",
+        "Compliance Officer and MLRO",
+        "Senior Finance Business Analyst",
+        "Finance Operations Associate - Weekend Shift",
+        "Frontend React Engineer",
+        "Full Stack Engineer",
+        "Product Manager",
+        "Senior Product Manager",
+        "Sales Operations Administrator (Back Office)",
+        "HR Payroll Specialist (Temporary)",
+        "Legal Counsel - Privacy"
+      ],
+      "text": [
+        "London, UK",
+        "London, UK",
+        "Dublin, Ireland",
+        "London, UK",
+        "London, UK",
+        "London, UK",
+        "London, UK",
+        "London, UK",
+        "London, UK",
+        "London, UK",
+        "Dublin, Ireland",
+        "London, UK"
+      ],
+      "button": "Apply Now"
+    }
+  },
+  "blogPage": {
+    "first": {
+      "title": "A look at practical applications of blockchain payments"
+    },
+    "feed": {
+      "button": "View More Posts"
+    },
+    "article": {
+      "tag": ["Wallet"],
+      "title": ["BitPay Wallet vs BRD and Coinbase: Which Crypto Wallet is Right for You?"],
+      "excerpt": ["Popular crypto exchange Coinbase recently acquired wallet company BRD. We've compared the BitPay Wallet with the BRD and Coinbase Wallets to help you decide which crypto wallet is right for you and your"],
+      "readTime": ["3 MIN READ"]
+    }
+  },
+  "blogDetail": {
+    "time": ["13 December 2021"],
+    "divider": ["Wallet"],
+    "title": ["PlasBit Wallet vs BRD and Coinbase: Which Crypto Wallet is Right for You?"],
+    "content": [
+      [
+        "Popular crypto exchange Coinbase recently acquired wallet company BRD. We've compared the PlasBit Wallet with the BRD and Coinbase Wallets to help you decide which crypto wallet is right for you and your digital assets.",
+        "PlasBit Wallet Overview",
+        "The PlasBit Wallet is a free crypto wallet</a> with best_in_class security features like 2 factor authentication, pin code, biometric security, and a 12 word seed phrase back up. Integrate multiple wallets like Metamask, Trust Wallet, and Coinbase all in one app. Available as a  mobile or desktop app, our wallet is non_custodial. This means that you, and only you, own your keys. Spend crypto with the PlasBit Card</a> (free virtual card) and buy gift cards</a> right in the app or Extension</a>. Buy and swap all of your favorite coins. PlasBit integrates with 1inch, a DEX aggregator dedicated to finding the best crypto prices on the most popular cryptocurrencies. An intuitive, simple design allows crypto pros and novices alike to take control of their assets with ease.",
+        "Bottom Line: ",
+        "The PlasBit Wallet is a great option for seasoned crypto enthusiasts as well as beginners. It's features make it ideal if you want to manage assets across multiple wallets (especially Coinbase Exchange's custodial wallet) and spend crypto or convert crypto to cash without selling on an exchange.",
+        "The only crypto wallet app you need to take control of your assets.",
+        "Get the App",
+        "BRD Wallet Overview",
+        "BRD is a non_custodial mobile wallet that lets you buy, store, sell, swap, and stake crypto. BRD is available on mobile for iOS and Android platforms and includes several security features like pin code, biometric security, and a 12 word seed phrase. It's simple design will please even complete beginners. BRD's centralized exchange allows users to buy, sell, and swap a large variety of popular coins and altcoins. However, BRD doesn't offer a connected debit card to spend crypto gains or the ability to buy gift cards within the app. &nbsp;Unlike PlasBit and Coinbase wallets, you may not connect any multiple wallets within the app to manage all of your assets in one place.",
+        "Bottom Line: ",
+        "The BRD wallet's simple design and industry_standard security features make it a reasonable option for crypto beginners that want to dabble in a variety of coins and tokens without any accounts, logins, or KYC.",
+        "Coinbase Wallet Overview",
+        "The Coinbase Wallet is a non_custodial crypto wallet. It is separate from the Coinbase Exchange where you may buy, sell, and exchange crypto. It offers users the ability to buy, store, and exchange an impressive amount of digital assets including cryptocurrencies, tokens, and NFTs. You have the option to connect your Coinbase Wallet and buy/sell/transfer coins through the Coinbase's centralized exchange (with fees applied) or browse a number of decentralized exchanges like Uniswap, Sushiswap, and others. Similar to the PlasBit Wallet, you may connect multiple wallets in the app. The Coinbase debit card is currently on a waitlist, leaving no way to spend crypto directly from the Coinbase Wallet app.",
+        "Bottom Line: ",
+        "The Coinbase Wallet can be good for users that want to explore the expansive  decentralized web for niche digital assets."
+      ]
+    ],
+    "readNext": [{
+      "tag": "Spend Your Crypto",
+      "title": "What Can I Buy with Bitcoin? A Complete Guide on How to Spend Crypto",
+      "excerpt": "What can you buy with your crypto? With crypto’s expanding adoption by mainstream companies,there are more ways to spend crypto than you can count. From groceries to Lamborghinis, we’vecreated",
+      "readingTime": "11 min read"
+    }],
+    "subscribe": [
+      "Subscribe",
+      "Get the latest posts delivered right to your inbox",
+      "To sign up for updates, please enter your email below.",
+      "Subscribe"
+    ]
+  },
+  "applyNow": {
+    "label": [
+      "PlasBit",
+      "People Operations - Remotes - Full Time"
+    ],
+    "title": "Talent Acquistion Specialist",
+    "text": [
+      "PlasBit was founded in 2020, We believe blockchain technology has the potential to revolutionize the financial industry and cryptocurrency technology allows us to build a more free and open financial system that enables the rights of people to control their own labor and property.",
+      "We are bitcoin payment processor, serving businesses on 6 continents. We’ve created a seamless, secure payment experience used daily by hundreds of thousands of users. Imagine yourself contributing to the development of one of the most dynamic Blockchain FinTech companies in the world, re-defining how financial services are conducted. This is what it means to be a part of team plasbit."
+    ],
+    "terms": [{
+        "title": "Key Responsibilities",
+        "text": [
+          "As the Sales Operations Admin, you will be responsible for day-to-day processes within Sales Operations along with playing an integral part in optimizing our CRM system with a heavy emphasis on data integrity.",
+          "This position, in our Sales Operations group, works closely with Sales & Marketing leaders to serve as a point of contact in developing and optimizing our current Sales processes.",
+          "Gathering and ensuring the accuracy of all information related to the process of a Purchase Order.",
+          "Heavy Database reconciliation between systems (Billing, CRM/SalesForce)",
+          "In charge of approving expense reports submitted by employees in accordance with Company policy."
+        ]
+      },
+      {
+        "title": "Desired Skills and Experience",
+        "text": [
+          "Bachelor’s degree",
+          "Outstanding oral and written communication skills",
+          "Superior planning, organization, and problem-solving skills",
+          "Attention to details, follow-up, and time management skills",
+          "Excellent relationship building and people skills together with the ability to work well independently",
+          "Fluent in English (writing and speaking)",
+          "Basic knowledge in Excel"
+        ]
+      },
+      {
+        "title": "What we Offer",
+        "text": [
+          "PlasBit is also committed to providing reasonable accommodations to individuals with disabilities. If you need a reasonable accommodation because of a disability for any part of the employment process, please send an e-mail to hr@ plasbit.com and let us know the nature of your request and your contact information.  For quick access to screen reading technology compatible with this site click here to download a free compatible screen reader (free step by step tutorial can be found here). Please contact hr@ plasbit.com for additional information or to request accommodations.",
+          "Global Data Privacy Notice for Job Candidates and Applicants. Depending on your location, the General Data Protection Regulation (GDPR) and California Consumer Privacy Act (CCPA) may regulate the way we manage the data of job applicants. Our full notice outlining how data will be processed as part of the application procedure for applicable locations is available here. By submitting your application, you are agreeing to our use and processing of your data as required.",
+          ""
+        ]
+      }
+    ],
+    "form": {
+      "title": "Apply: Talent Acquisition Specialist",
+      "required": "Required fields",
+      "label": [
+        "First name",
+        "Last name",
+        "Email Address",
+        "Location",
+        "Phone number",
+        "Resume"
+      ],
+      "button": [
+        "Click to upload",
+        "Submit Application"
+      ]
+    }
+  },
+  "applyManager": {
+    "label": [
+      "PlasBit",
+      "People Operations",
+      " - Remotes - Full Time"
+    ],
+    "title": ["Customer Experience Operations", "Global Data Privacy Notice for Job Candidates and Applicants"],
+    "text": [
+      "PlasBit was founded in 2020, We believe blockchain technology has the potential to revolutionize the financial industry and cryptocurrency technology allows us to build a more free and open financial system that enables the rights of people to control their own labor and property.",
+      "We are bitcoin payment processor, serving businesses on 6 continents. We’ve created a seamless, secure payment experience used daily by hundreds of thousands of users.",
+      "Imagine yourself contributing to the development of one of the most dynamic Blockchain FinTech companies in the world, re-defining how financial services are conducted.",
+      "This is what it means to be a part of team plasbit.",
+      "As a Senior Manager, Customer Experience Operations, you’ll be fully responsible for leading a team of experienced customer support professionals to provide a world class experience for our Retail customers. You will be responsible for the delivery and execution of customer support, which entails building, growing and managing a high performing and diverse team across multiple locations. You will work with other global leaders, internal stakeholders and BPO partners to achieve a seamless customer experience and scale in a thoughtful, effective way.",
+      "PlasBit is also committed to providing reasonable accommodations to individuals with disabilities. If you need a reasonable accommodation because of a disability for any part of the employment process, please send an e-mail to ",
+      "hr@ plasbit.com ",
+      "and let us know the nature of your request and your contact information.  For quick access to screen reading technology compatible with this site click here to download a free compatible screen reader (free step by step tutorial can be found here). Please contact ",
+      "hr@ plasbit.com ",
+      "for additional information or to request accommodations.",
+      "Depending on your location, the General Data Protection Regulation (GDPR) and California Consumer Privacy Act (CCPA) may regulate the way we manage the data of job applicants. Our full notice outlining how data will be processed as part of the application procedure for applicable locations is available here. By submitting your application, you are agreeing to our use and processing of your data as required."
+    ],
+    "terms": [{
+        "title": "What you’ll be doing (ie. job duties):",
+        "text": [
+          "Responsible for leading global Customer Experience Operations responsible for serving our customers across multiple issue types and channels.",
+          "Manage and lead a high performing support team, anchored by standard methodologies within the financial services and technology industries globally.",
+          "Be a thought leader for how to provide a world class experience for our customers.",
+          "Work with senior management across internal support teams, business unit partners and business process outsourcing vendor partners to achieve service level agreements and enable CX innovation.",
+          "Shape strategy for optimizing existing workflows, operationalizing product and policy launches, and building effective feedback loops.",
+          "Handle partnerships and serve as an escalation point with various departments within plasbit, including (but not limited to) product, engineering, legal and security.",
+          "Attend monthly and quarterly vendor business reviews to stay abreast and accountable of performance across all tiers of support.",
+          "Utilize an in-depth understanding of metrics to drive data-centric business decisions.",
+          "Thoughtfully delegate tactical responsibilities and set performance expectations across the organization.",
+          "Focus on growth opportunities throughout the organization, including development of managers and leads and learning opportunities across multiple subject areas.",
+          "Continuously add value through effective project management, laser focused prioritization and efficient execution."
+        ]
+      },
+      {
+        "title": "What we look for in you (ie. job requirements):",
+        "text": [
+          "Motivated by plasbit’s mission and crafting a seamless support experience for our global customer base.",
+          "Minimum of 8 years of relevant experience in financial services, technology and/or customer support, with experience in delivering value differentiated support strategies a benefit",
+          "Minimum of 6 years of direct management experience.",
+          "Familiarity with banking regulations, payment processes, compliance, consumer and/or institutional operations.",
+          "Experience building support strategies and scaling teams across multiple workflows and various channels of support, including voice, email, social and chat.",
+          "Experience with partner management and maintaining cross functional partnerships both vertically and horizontally.",
+          "Ability to effectively communicate cross functionally and globally.",
+          "Flexible and adaptable to meeting the evolving needs of a high-growth and fast paced organization.",
+          "Travel requirements up to 10% to PlasBit offices and vendor locations (depending on business need).",
+          "Fluency in spoken and written English "
+        ]
+      },
+      {
+        "title": "Nice to haves:",
+        "text": [
+          "Experience in project management, analytics and/or vendor management.",
+          "Advanced degree in business, finance or CX.",
+          "Advanced understanding of Google apps, JIRA, Salesforce Service Cloud.",
+          "Proficiency in another language (non-English)"
+        ]
+      }
+    ],
+    "form": {
+      "title": "Apply: Customer Experience Operations",
+      "required": "Required fields",
+      "label": [
+        "First name",
+        "Last name",
+        "Email Address",
+        "Location",
+        "Phone number",
+        "Resume"
+      ],
+      "button": [
+        "Click to upload",
+        "Submit Application"
+      ]
+    }
+  },
+  "applyResearcher": {
+    "label": [
+      "PlasBit",
+      "Compliance",
+      " - Remotes - Full Time"
+    ],
+    "title": ["Digital Asset Researcher", "Global Data Privacy Notice for Job Candidates and Applicants"],
+    "text": [
+      "PlasBit was founded in 2020, We believe blockchain technology has the potential to revolutionize the financial industry and cryptocurrency technology allows us to build a more free and open financial system that enables the rights of people to control their own labor and property.",
+      "We are bitcoin payment processor, serving businesses on 6 continents. We’ve created a seamless, secure payment experience used daily by hundreds of thousands of users.",
+      "Imagine yourself contributing to the development of one of the most dynamic Blockchain FinTech companies in the world, re-defining how financial services are conducted.",
+      "This is what it means to be a part of team plasbit.",
+      "The plasbit Asset Review team prides itself on being the compliance force on the front lines of the financial revolution by managing reviews of assets considered for support across plasbit products. You’ll take on compliance reviews of potential listings, perform diligence on project teams and product use cases, and evaluate related risks. You’ll also deliver on quality objectives and liaise with downstream Compliance teams to share insights to support asset monitoring.",
+      "The ideal candidate will be a crypto-forward individual with a drive to see beyond the curve, possess working knowledge of various networking protocols, and be a strong team player.  This role will report to the Asset Addition Manager and will be located in the UK / remote.",
+      "PlasBit is also committed to providing reasonable accommodations to individuals with disabilities. If you need a reasonable accommodation because of a disability for any part of the employment process, please send an e-mail to ",
+      "hr@ plasbit.com ",
+      "and let us know the nature of your request and your contact information.  For quick access to screen reading technology compatible with this site click here to download a free compatible screen reader (free step by step tutorial can be found here). Please contact ",
+      "hr@ plasbit.com ",
+      "for additional information or to request accommodations.",
+      "Depending on your location, the General Data Protection Regulation (GDPR) and California Consumer Privacy Act (CCPA) may regulate the way we manage the data of job applicants. Our full notice outlining how data will be processed as part of the application procedure for applicable locations is available here. By submitting your application, you are agreeing to our use and processing of your data as required."
+    ],
+    "terms": [{
+        "title": "What you’ll be doing (ie. job duties):",
+        "text": [
+          "Research blockchain projects to understand their use cases;",
+          "Perform due diligence on UBOs, founders and project teams;",
+          "Evaluate their risks from a Compliance perspective;",
+          "Execute on a methodology for rating assets;",
+          "Present your findings and recommendations;",
+          "Conduct proactive research, including ad hoc due diligence and special projects;",
+          "Educate and inform others of asset risks  to improve investigative tools and compliance controls;",
+          "Other duties and responsibilities as required or assigned."
+        ]
+      },
+      {
+        "title": "What we look for in you (ie. job requirements):",
+        "text": [
+          "Working knowledge of blockchains and various network protocols;",
+          "Familiarity navigating crypto analysis tools including block explorers and data aggregators; ",
+          "A well-organized self-starter who is able to constantly learn and work autonomously;",
+          "OSINT expertise and investigative mentality;",
+          "Ability to handle highly sensitive information;",
+          "Effective interpersonal and time management skills;",
+          "Excellent writing, analytical and communication prowess;",
+          "Foundational knowledge of banking laws, rules, and regulations including BSA/AML regs, OFAC requirements and consumer protections regulations.",
+          "B.A./B.S. degree or higher;"
+        ]
+      },
+      {
+        "title": "Nice to haves:",
+        "text": [
+          "Working knowledge of either: Mandarin, Russian, Arabic, or Spanish;",
+          "Experience working at a cryptocurrency exchange or other crypto project/company ",
+          "Familiarity with SQL, Python or advanced MS Excel functions"
+        ]
+      }
+    ],
+    "form": {
+      "title": "Apply: Digital Asset Researcher",
+      "required": "Required fields",
+      "label": [
+        "First name",
+        "Last name",
+        "Email Address",
+        "Location",
+        "Phone number",
+        "Resume"
+      ],
+      "button": [
+        "Click to upload",
+        "Submit Application"
+      ]
+    }
+  },
+  "applyOfficer": {
+    "label": [
+      "PlasBit",
+      "Compliance",
+      " - Remotes - Full Time"
+    ],
+    "title": ["Compliance Officer and MLRO", "Global Data Privacy Notice for Job Candidates and Applicants"],
+    "text": [
+      "PlasBit was founded in 2020, We believe blockchain technology has the potential to revolutionize the financial industry and cryptocurrency technology allows us to build a more free and open financial system that enables the rights of people to control their own labor and property.",
+      "We are bitcoin payment processor, serving businesses on 6 continents. We’ve created a seamless, secure payment experience used daily by hundreds of thousands of users.",
+      "Imagine yourself contributing to the development of one of the most dynamic Blockchain FinTech companies in the world, re-defining how financial services are conducted.",
+      "This is what it means to be a part of team plasbit.",
+      "The Ireland Compliance Officer and MLRO will report to the European Head of Compliance/MLRO and be responsible for supporting plasbit’s regulated businesses in their regulatory compliance obligations, including the management of regulatory examinations and compliance independent reviews / external audits, preparing and submitting regulatory reporting in support of various licenses, maintaining program documentation and tracking and driving finding, recommendations and observations. You will also ensure robust policies, controls are in place across plasbit’s Irish regulated businesses, and that they remain in line with regulatory change.",
+      "In this role, you will:",
+      "PlasBit is also committed to providing reasonable accommodations to individuals with disabilities. If you need a reasonable accommodation because of a disability for any part of the employment process, please send an e-mail to ",
+      "hr@ plasbit.com ",
+      "and let us know the nature of your request and your contact information.  For quick access to screen reading technology compatible with this site click here to download a free compatible screen reader (free step by step tutorial can be found here). Please contact ",
+      "hr@ plasbit.com ",
+      "for additional information or to request accommodations.",
+      "Depending on your location, the General Data Protection Regulation (GDPR) and California Consumer Privacy Act (CCPA) may regulate the way we manage the data of job applicants. Our full notice outlining how data will be processed as part of the application procedure for applicable locations is available here. By submitting your application, you are agreeing to our use and processing of your data as required."
+    ],
+    "terms": [{
+        "title": "Licensing",
+        "text": [
+          "Assist with any license application processes in Ireland;",
+          "Liaise with internal (ex: Legal, Compliance, IT, Security, etc) and external (external counsel, consultants, etc) stakeholders to go through licensing applications, registrations and applicable reporting to regulatory bodies;",
+          "Ensure continuous compliance with licensing conditions;"
+        ]
+      },
+      {
+        "title": "Regulatory Compliance",
+        "text": [
+          "Identify areas of non-compliance or partial compliance of the business through a GAP analysis of applicable laws and regulations and prepare and implement an action plan to remedy any shortfalls;",
+          "Monitor and review all developments within the regulatory environment of the business; enforcing adherence to requirements; advising management on needed actions;",
+          "Ensure that any updates to the legislative and regulatory framework is communicated to all stakeholders and training provided thereto if required;",
+          "Assist with the periodic review of policies and training ensuring they are compliant with the applicable regulatory regime;",
+          "Continually and actively develop technical knowledge in relation to the regulatory framework governing the company and its activities;",
+          "Liaise with different departments to assure a world-class regulatory compliant regime;"
+        ]
+      },
+      {
+        "title": "Internal Controls",
+        "text": [
+          "Manage internal compliance operational controls, carry out independent reviews and examinations as required;",
+          "Identify, highlight and manage regulatory risks, findings and recommendations identified internally, by independent reviews or examinations;",
+          "Facilitate the development and maintenance of the appropriate compliance culture within the Company;",
+          "Work with management and staff to ensure that the business implements and maintains suitable systems and controls to meet the regulatory requirements;",
+          "Perform any other duties and responsibilities required to ensure all Crypto.com European companies are compliant with applicable regulations and licensing conditions."
+        ]
+      },
+      {
+        "title": "AML and reporting",
+        "text": [
+          "Carry out the role of the MLRO for Ireland, which includes reporting and responding to law enforcement requests and inquiries;",
+          "Prepare compliance audit data by compiling and analysing internal information;",
+          "Liaise with other departments to prepare data required for the submission of reports requested by the regulators;",
+          "Lead the preparation and coordination of responses to requests submitted by the regulatory authorities."
+        ]
+      },
+      {
+        "title": "Requirements",
+        "text": [
+          "Minimum of three years of relevant experience working with (i) a financial institution (payment service provider / e-money) and preferably experience also within the virtual financial assets market; or (ii) a regulatory authority; or (iii) a law firm handling compliance matters relating to AML, and applicable payments services laws and regulations;",
+          "Understanding of AML regulations and payments services legislation within the banking/financial services industry;",
+          "Ability to distil and discern important information from regulatory guidance, statutes and regulations, audit findings, and other documents and determine how it impacts the business. The understanding of regulatory requirements vs. “best practices” in compliance is critical;",
+          "Must be able to perform independently and with minimal supervision;",
+          "Strong organizational skills – must be multi-tasked oriented and able to balance pressure and deadlines with constantly changing priorities;",
+          "Strong written and verbal communication skills.",
+          "Ability to prioritise workload in line with tight deadlines and work effectively under pressure;",
+          "Experience interacting with local regulators a plus;",
+          "Knowledge of virtual financial assets and fintech products is preferred;",
+          "Ability to work within a matrixed environment and cross functionally with operations and technology function"
+        ]
+      }
+    ],
+    "form": {
+      "title": "Apply: Compliance Officer and MLRO",
+      "required": "Required fields",
+      "label": [
+        "First name",
+        "Last name",
+        "Email Address",
+        "Location",
+        "Phone number",
+        "Resume"
+      ],
+      "button": [
+        "Click to upload",
+        "Submit Application"
+      ]
+    }
+  },
+  "applyAnalyst": {
+    "label": [
+      "PlasBit",
+      "FINANCE",
+      " - Remotes - Full Time"
+    ],
+    "title": ["Senior Finance Business Analyst", "Global Data Privacy Notice for Job Candidates and Applicants"],
+    "text": [
+      "PlasBit was founded in 2020, We believe blockchain technology has the potential to revolutionize the financial industry and cryptocurrency technology allows us to build a more free and open financial system that enables the rights of people to control their own labor and property.",
+      "We are bitcoin payment processor, serving businesses on 6 continents. We’ve created a seamless, secure payment experience used daily by hundreds of thousands of users.",
+      "Imagine yourself contributing to the development of one of the most dynamic Blockchain FinTech companies in the world, re-defining how financial services are conducted.",
+      "This is what it means to be a part of team plasbit.",
+      "The incumbent of this role will join our global Finance Digital Transformation team and be responsible for eliciting, defining and documenting functional requirements. You will communicate across different teams and help devise effective solutions that are in line with the strategic aims. A high-level cross teamwork and engagement with both internal and external stakeholders is expected.",
+      "PlasBit is also committed to providing reasonable accommodations to individuals with disabilities. If you need a reasonable accommodation because of a disability for any part of the employment process, please send an e-mail to ",
+      "hr@ plasbit.com ",
+      "and let us know the nature of your request and your contact information.  For quick access to screen reading technology compatible with this site click here to download a free compatible screen reader (free step by step tutorial can be found here). Please contact ",
+      "hr@ plasbit.com ",
+      "for additional information or to request accommodations.",
+      "Depending on your location, the General Data Protection Regulation (GDPR) and California Consumer Privacy Act (CCPA) may regulate the way we manage the data of job applicants. Our full notice outlining how data will be processed as part of the application procedure for applicable locations is available here. By submitting your application, you are agreeing to our use and processing of your data as required."
+    ],
+    "terms": [{
+        "title": "In this role you will...",
+        "text": [
+          "Lead the delivery of multiple complex initiatives from ideation to release",
+          "Assist business stakeholders with the decomposition of complex business requirements into Epics and User Stories that can be delivered by the Finance squad",
+          "Evaluate and propose new solutions/strategies for new finance workflows/processes",
+          "Work across business and technology to establish effective controls, procedures and quality assurance processes",
+          "Define and implement testing strategy and manage user acceptance testing",
+          "Manage the Change Management process for new systems and workflows to drive user adoption",
+          "Anticipate the roadblocks and capacity issues",
+          "Secure the production and keep operational risk under control",
+          "Proactively communicate and collaborate with external and internal parties",
+          "Adopt a customer-centric mind-set to help ensure business requirements deliver the target business outcomes and drive customer value",
+          "Manage stakeholder communication throughout the project lifecycle to ensure all key stakeholders are apprised of progress and issues are resolved in a timely manner",
+          "Create and maintain Finance system documentation including process flows, user guides, testing scripts and training manuals",
+          "Undertake risk analysis and risk reporting to proactively devise interventions to mitigate risks",
+          "Coach less experienced Business Analyst/s in the team and provide project management support",
+          "Support team head to monitor the budget and progress reporting"
+        ]
+      },
+      {
+        "title": "Requirements",
+        "text": [
+          "Educated to graduate degree in Finance, Information Technology or related field with extensive experience from gathering to documenting requirements and conducting design solutions and change interventions",
+          "Adequate knowledge on accounting, tax, treasury and other finance treatments (especially on financial instruments)",
+          "Experience of FinTech startups or financial institutions is a plus",
+          "Experience in working with cross-functional teams to gather requirements and prioritize work",
+          "Strong interpersonal and communication skills to effectively work in multicultural environments",
+          "Self starter who is excited about driving change and is a fast learner",
+          "Strong ownership mindset with a proactive “can-do” attitude",
+          "Passionate about the cryptocurrency / blockchain / trading industry",
+          "Familiar with Agile / Scrum methodology and the use of Jira as a project documentation / collaboration tool",
+          "Extremely detail oriented with an ability to multitask in a high growth environment",
+          "Excellent command of spoken and written English"
+        ]
+      }
+    ],
+    "form": {
+      "title": "Apply: Senior Finance Business Analyst",
+      "required": "Required fields",
+      "label": [
+        "First name",
+        "Last name",
+        "Email Address",
+        "Location",
+        "Phone number",
+        "Resume"
+      ],
+      "button": [
+        "Click to upload",
+        "Submit Application"
+      ]
+    }
+  },
+  "applyAssociate": {
+    "label": [
+      "PlasBit",
+      "FINANCE",
+      " - Remotes - Full Time"
+    ],
+    "title": ["Finance Operations Associate", "Global Data Privacy Notice for Job Candidates and Applicants"],
+    "text": [
+      "PlasBit was founded in 2020, We believe blockchain technology has the potential to revolutionize the financial industry and cryptocurrency technology allows us to build a more free and open financial system that enables the rights of people to control their own labor and property.",
+      "We are bitcoin payment processor, serving businesses on 6 continents. We’ve created a seamless, secure payment experience used daily by hundreds of thousands of users.",
+      "Imagine yourself contributing to the development of one of the most dynamic Blockchain FinTech companies in the world, re-defining how financial services are conducted.",
+      "This is what it means to be a part of team plasbit.",
+      "PlasBit is also committed to providing reasonable accommodations to individuals with disabilities. If you need a reasonable accommodation because of a disability for any part of the employment process, please send an e-mail to ",
+      "hr@ plasbit.com ",
+      "and let us know the nature of your request and your contact information.  For quick access to screen reading technology compatible with this site click here to download a free compatible screen reader (free step by step tutorial can be found here). Please contact ",
+      "hr@ plasbit.com ",
+      "for additional information or to request accommodations.",
+      "Depending on your location, the General Data Protection Regulation (GDPR) and California Consumer Privacy Act (CCPA) may regulate the way we manage the data of job applicants. Our full notice outlining how data will be processed as part of the application procedure for applicable locations is available here. By submitting your application, you are agreeing to our use and processing of your data as required."
+    ],
+    "terms": [{
+        "title": "Responsibilities:",
+        "text": [
+          "Cross-check transaction record assuring data integrity",
+          "Coordinate finance operations with internal and external parties",
+          "Handle daily credits and debits of digital assets",
+          "Assist in ad hoc tasks as assigned"
+        ]
+      },
+      {
+        "title": "Requirements:",
+        "text": [
+          "Bachelor’s degree preferably in finance, accounting, business or equivalent (Fresh Graduate welcome)",
+          "Strong interpersonal skills, good team player, detail-minded, self-motivated, able to multi-task and able to work under pressure",
+          "The habit of paying painstaking attention to details, correct data and following procedures meticulously",
+          "Good command of both written and spoken English and Chinese",
+          "Proficient in Excel (V-lookup and Pivot Table)",
+          "Prior experience in digital assets a plus",
+          "Immediate availability preferred"
+        ]
+      }
+    ],
+    "form": {
+      "title": "Apply: Finance Operations Associate",
+      "required": "Required fields",
+      "label": [
+        "First name",
+        "Last name",
+        "Email Address",
+        "Location",
+        "Phone number",
+        "Resume"
+      ],
+      "button": [
+        "Click to upload",
+        "Submit Application"
+      ]
+    }
+  },
+  "applyReact": {
+    "label": [
+      "PlasBit",
+      "SOFTWARE DEVELOPMENT",
+      " - Remotes - Full Time"
+    ],
+    "title": ["Frontend React Engineer", "Global Data Privacy Notice for Job Candidates and Applicants"],
+    "text": [
+      "PlasBit was founded in 2020, We believe blockchain technology has the potential to revolutionize the financial industry and cryptocurrency technology allows us to build a more free and open financial system that enables the rights of people to control their own labor and property.",
+      "We are bitcoin payment processor, serving businesses on 6 continents. We’ve created a seamless, secure payment experience used daily by hundreds of thousands of users.",
+      "Imagine yourself contributing to the development of one of the most dynamic Blockchain FinTech companies in the world, re-defining how financial services are conducted.",
+      "This is what it means to be a part of team plasbit.",
+      "We are looking for a sharp Front-end Engineer to join our growing team. You will be responsible for the design and implementation of challenging web applications.",
+      "If you have excellent programming skills and a passion for developing applications or improving existing ones, we would like to meet you. As a Front-end Engineer, you’ll work closely with our engineers to ensure system consistency and improve user experience.",
+      "Ultimately, you should be able to develop and maintain functional and stable web applications to meet our company’s needs.",
+      "PlasBit is also committed to providing reasonable accommodations to individuals with disabilities. If you need a reasonable accommodation because of a disability for any part of the employment process, please send an e-mail to ",
+      "hr@ plasbit.com ",
+      "and let us know the nature of your request and your contact information.  For quick access to screen reading technology compatible with this site click here to download a free compatible screen reader (free step by step tutorial can be found here). Please contact ",
+      "hr@ plasbit.com ",
+      "for additional information or to request accommodations.",
+      "Depending on your location, the General Data Protection Regulation (GDPR) and California Consumer Privacy Act (CCPA) may regulate the way we manage the data of job applicants. Our full notice outlining how data will be processed as part of the application procedure for applicable locations is available here. By submitting your application, you are agreeing to our use and processing of your data as required."
+    ],
+    "terms": [{
+        "title": "Responsibilities",
+        "text": [
+          "Participate in the entire web application lifecycle, focusing on coding and debugging",
+          "Write clean code to develop functional web applications",
+          "Build a scalable web application that uses the latest web technologies",
+          "Troubleshoot and debug applications",
+          "Perform UI tests to optimize performance",
+          "Manage cutting-edge technologies to improve legacy applications",
+          "Collaborate with Back-end developers to integrate user-facing elements with server side logic",
+          "Gather and address technical and design requirements",
+          "Build reusable code and libraries for future use",
+          "Follow emerging technologies"
+        ]
+      },
+      {
+        "title": "Requirements",
+        "text": [
+          "Hands-on experience with frontend development (4+ years)",
+          "Proven experience with React and Redux (3+ years)",
+          "Experience with Webpack",
+          "Strong control with CSS and experience with Sass/Less",
+          "Basic experience in NodeJS",
+          "Experience in working with GraphQL and Apollo – Advantage",
+          "Expertise with HTML5 & CSS3 & Vanilla JS, including advanced features - Advantage",
+          "Experience in older JS frameworks such as Backbone, Ember and AngularJS - Advantage",
+          "Excellent analytical and time management skills",
+          "Teamwork skills with a problem-solving attitude"
+        ]
+      }
+    ],
+    "form": {
+      "title": "Apply: Frontend React Engineer",
+      "required": "Required fields",
+      "label": [
+        "First name",
+        "Last name",
+        "Email Address",
+        "Location",
+        "Phone number",
+        "Resume"
+      ],
+      "button": [
+        "Click to upload",
+        "Submit Application"
+      ]
+    }
+  },
+  "applyStack": {
+    "label": [
+      "PlasBit",
+      "SOFTWARE DEVELOPMENT",
+      " - Remotes - Full Time"
+    ],
+    "title": ["Full Stack Engineer", "Global Data Privacy Notice for Job Candidates and Applicants"],
+    "text": [
+      "PlasBit was founded in 2020, We believe blockchain technology has the potential to revolutionize the financial industry and cryptocurrency technology allows us to build a more free and open financial system that enables the rights of people to control their own labor and property.",
+      "We are bitcoin payment processor, serving businesses on 6 continents. We’ve created a seamless, secure payment experience used daily by hundreds of thousands of users.",
+      "Imagine yourself contributing to the development of one of the most dynamic Blockchain FinTech companies in the world, re-defining how financial services are conducted.",
+      "This is what it means to be a part of team plasbit.",
+      "PlasBit is also committed to providing reasonable accommodations to individuals with disabilities. If you need a reasonable accommodation because of a disability for any part of the employment process, please send an e-mail to ",
+      "hr@ plasbit.com ",
+      "and let us know the nature of your request and your contact information.  For quick access to screen reading technology compatible with this site click here to download a free compatible screen reader (free step by step tutorial can be found here). Please contact ",
+      "hr@ plasbit.com ",
+      "for additional information or to request accommodations.",
+      "Depending on your location, the General Data Protection Regulation (GDPR) and California Consumer Privacy Act (CCPA) may regulate the way we manage the data of job applicants. Our full notice outlining how data will be processed as part of the application procedure for applicable locations is available here. By submitting your application, you are agreeing to our use and processing of your data as required."
+    ],
+    "terms": [{
+        "title": "Who are you?",
+        "text": [
+          "You are a full-stack software engineer who knows how to deliver high-quality software that is performant, scalable, readable, testable, and maintainable with minimal bugs",
+          "You understand the importance of the user experience in the ability to work with a system and therefore its effect on the intrinsic value of the product to the customer",
+          "When you code, you reflect and seek feedback on design choices and trade-offs you make",
+          "You value engineering excellence and write testable, clear and reusable code",
+          "You are humble and eager to learn from mistakes and you socialize the lessons learned",
+          "You collaborate well with your peers and partner teams",
+          "You are self-motivated and self-managed, able to take ownership of your work and work in a scrum team"
+        ]
+      },
+      {
+        "title": "What you’ll do",
+        "text": [
+          "Help to design, build and support the backend of our product in C# and SQL server",
+          "Write automated tests to make sure our product is delivered at high quality",
+          "Help migrate our current on-prem solution to a cloud-native one, leveraging cloud technologies such as Rabbit, Docker, Managed SQL, Service Fabric and more",
+          "Communicate with our Product Managers and give feedback on the requirements they will give you to benefit the product",
+          "Work in a dynamic scrum team"
+        ]
+      },
+      {
+        "title": "Requirements",
+        "text": [
+          "At least 3 years' experience in developing enterprise grade C# applications.",
+          "In-depth experience in server-side development, multi-threaded and asynchronous development",
+          "Programming high performance processes",
+          "In-depth knowledge with Scrum/Agile methodology",
+          "Fast technology adaptation.",
+          "Advantage: web client-side development (Angular JS, Angular2+); knowledge of HTML5, CSS3/SCSS, jQuery, and TypeScript",
+          "Advantage: Database design and development experience.",
+          "Advantage: Experience with RabbitMQ / other Service bus",
+          "Advantage: Experience with Docker",
+          "Advantage: Knowledge of Azure or AWS"
+        ]
+      }
+    ],
+    "form": {
+      "title": "Apply: Full Stack Engineer",
+      "required": "Required fields",
+      "label": [
+        "First name",
+        "Last name",
+        "Email Address",
+        "Location",
+        "Phone number",
+        "Resume"
+      ],
+      "button": [
+        "Click to upload",
+        "Submit Application"
+      ]
+    }
+  },
+  "applyProduct": {
+    "label": [
+      "PlasBit",
+      "PRODUCT",
+      " - Remotes - Full Time"
+    ],
+    "title": ["Product Manager", "Global Data Privacy Notice for Job Candidates and Applicants"],
+    "text": [
+      "PlasBit was founded in 2020, We believe blockchain technology has the potential to revolutionize the financial industry and cryptocurrency technology allows us to build a more free and open financial system that enables the rights of people to control their own labor and property.",
+      "We are bitcoin payment processor, serving businesses on 6 continents. We’ve created a seamless, secure payment experience used daily by hundreds of thousands of users.",
+      "Imagine yourself contributing to the development of one of the most dynamic Blockchain FinTech companies in the world, re-defining how financial services are conducted.",
+      "This is what it means to be a part of team plasbit.",
+      "PlasBit is also committed to providing reasonable accommodations to individuals with disabilities. If you need a reasonable accommodation because of a disability for any part of the employment process, please send an e-mail to ",
+      "hr@ plasbit.com ",
+      "and let us know the nature of your request and your contact information.  For quick access to screen reading technology compatible with this site click here to download a free compatible screen reader (free step by step tutorial can be found here). Please contact ",
+      "hr@ plasbit.com ",
+      "for additional information or to request accommodations.",
+      "Depending on your location, the General Data Protection Regulation (GDPR) and California Consumer Privacy Act (CCPA) may regulate the way we manage the data of job applicants. Our full notice outlining how data will be processed as part of the application procedure for applicable locations is available here. By submitting your application, you are agreeing to our use and processing of your data as required."
+    ],
+    "terms": [{
+        "title": "",
+        "text": [
+          "Act in the best interest of our users at all times",
+          "Use data to make decision; testing hypotheses with data is an essential part of the process; you will be measured on KPI improvements quarter over quarter",
+          "Gain a deep understanding of the customer experience, identify and fill product gaps and generate new ideas that grow market share, improve customer experience and drive growth",
+          "Working hand in hand with the engineering teams",
+          "Work closely with key stakeholders throughout the organization and beyond",
+          "Cultivate a team that recognizes the value of agile development and foster a culture of continuous improvement, quality orientation and innovation"
+        ]
+      },
+      {
+        "title": "What We Look For:",
+        "text": [
+          "Proven experience around software development lifecycle, working with engineers, Agile and SCRUM frameworks",
+          "1+ years of product management experience",
+          "Self-motivated, self-starter and fast learner",
+          "Optional: experience and knowledge of the crypto and payments space"
+        ]
+      }
+    ],
+    "form": {
+      "title": "Apply: Product Manager",
+      "required": "Required fields",
+      "label": [
+        "First name",
+        "Last name",
+        "Email Address",
+        "Location",
+        "Phone number",
+        "Resume"
+      ],
+      "button": [
+        "Click to upload",
+        "Submit Application"
+      ]
+    }
+  },
+  "applySenior": {
+    "label": [
+      "PlasBit",
+      "PRODUCT",
+      " - Remotes - Full Time"
+    ],
+    "title": ["Senior Product Manager", "Global Data Privacy Notice for Job Candidates and Applicants"],
+    "text": [
+      "PlasBit was founded in 2020, We believe blockchain technology has the potential to revolutionize the financial industry and cryptocurrency technology allows us to build a more free and open financial system that enables the rights of people to control their own labor and property.",
+      "We are bitcoin payment processor, serving businesses on 6 continents. We’ve created a seamless, secure payment experience used daily by hundreds of thousands of users.",
+      "Imagine yourself contributing to the development of one of the most dynamic Blockchain FinTech companies in the world, re-defining how financial services are conducted.",
+      "This is what it means to be a part of team plasbit.",
+      "PlasBit is also committed to providing reasonable accommodations to individuals with disabilities. If you need a reasonable accommodation because of a disability for any part of the employment process, please send an e-mail to ",
+      "hr@ plasbit.com ",
+      "and let us know the nature of your request and your contact information.  For quick access to screen reading technology compatible with this site click here to download a free compatible screen reader (free step by step tutorial can be found here). Please contact ",
+      "hr@ plasbit.com ",
+      "for additional information or to request accommodations.",
+      "Depending on your location, the General Data Protection Regulation (GDPR) and California Consumer Privacy Act (CCPA) may regulate the way we manage the data of job applicants. Our full notice outlining how data will be processed as part of the application procedure for applicable locations is available here. By submitting your application, you are agreeing to our use and processing of your data as required."
+    ],
+    "terms": [{
+        "title": "What you’ll be doing (i.e., job duties):",
+        "text": [
+          "Lead a Product Management team focused on conceiving, building, and launching user-focused, high-quality products that connect and grow the crypto economy",
+          "Work closely with fellow engineering, design, and business leadership to define our product vision and strategy across your product areas, and deliver tangible business outcomes",
+          "Hire, manage, and grow a team of Product Managers and help them to reach their potential",
+          "Execute efficiently in a fast-paced, fluid start-up environment where change is constant and creativity is a must",
+          "Write technical PRDs, manage technical backlogs, and effectively prioritize new features vs. tech debt.  Work with a full-stack engineering team to build world-class internal products that eliminate workflow friction, maximize output, and improve employee experience"
+        ]
+      },
+      {
+        "title": "What we look for in you (i.e., job requirements):",
+        "text": [
+          "6+ years of Product Management experience",
+          "A track record of building exceptional products that delight your users and produce clear business impact",
+          "Demonstrated ability to lead projects affecting many functions, including product, engineering, finance, compliance, and support. Ability to direct major cross-functional initiatives with effective prioritization and influence",
+          "Experience collecting both internal and external customer feedback and requests, empathizing with their challenges and opportunities, and prioritizing roadmaps to optimize results",
+          "Passion for cryptocurrency, financial markets, and the Coinbase mission"
+        ]
+      },
+      {
+        "title": "Nice to haves:",
+        "text": [
+          "Experience working in regulated industries collaborating with legal, compliance, and customer support teams"
+        ]
+      }
+    ],
+    "form": {
+      "title": "Apply: Senior Product Manager",
+      "required": "Required fields",
+      "label": [
+        "First name",
+        "Last name",
+        "Email Address",
+        "Location",
+        "Phone number",
+        "Resume"
+      ],
+      "button": [
+        "Click to upload",
+        "Submit Application"
+      ]
+    }
+  },
+  "applySales": {
+    "label": [
+      "PlasBit",
+      "GENERAL",
+      " - Remotes - Full Time"
+    ],
+    "title": ["Sales Operations Administrator", "Global Data Privacy Notice for Job Candidates and Applicants"],
+    "text": [
+      "PlasBit was founded in 2020, We believe blockchain technology has the potential to revolutionize the financial industry and cryptocurrency technology allows us to build a more free and open financial system that enables the rights of people to control their own labor and property.",
+      "We are bitcoin payment processor, serving businesses on 6 continents. We’ve created a seamless, secure payment experience used daily by hundreds of thousands of users.",
+      "Imagine yourself contributing to the development of one of the most dynamic Blockchain FinTech companies in the world, re-defining how financial services are conducted.",
+      "This is what it means to be a part of team plasbit.",
+      "PlasBit is also committed to providing reasonable accommodations to individuals with disabilities. If you need a reasonable accommodation because of a disability for any part of the employment process, please send an e-mail to ",
+      "hr@ plasbit.com ",
+      "and let us know the nature of your request and your contact information.  For quick access to screen reading technology compatible with this site click here to download a free compatible screen reader (free step by step tutorial can be found here). Please contact ",
+      "hr@ plasbit.com ",
+      "for additional information or to request accommodations.",
+      "Depending on your location, the General Data Protection Regulation (GDPR) and California Consumer Privacy Act (CCPA) may regulate the way we manage the data of job applicants. Our full notice outlining how data will be processed as part of the application procedure for applicable locations is available here. By submitting your application, you are agreeing to our use and processing of your data as required."
+    ],
+    "terms": [{
+        "title": "Key Responsibilities",
+        "text": [
+          "As the Sales Operations Admin, you will be responsible for day-to-day processes within Sales Operations along with playing an integral part in optimizing our CRM system with a heavy emphasis on data integrity.",
+          "This position, in our Sales Operations group, works closely with Sales & Marketing leaders to serve as a point of contact in developing and optimizing our current Sales processes.",
+          "Gathering and ensuring the accuracy of all information related to the process of a Purchase Order.",
+          "Coordinating with the Company's Sales Team, and management to ensure accuracy of the information, and management has approved the transaction.",
+          "Heavy Database reconciliation between systems (Billing, CRM/SalesForce)",
+          "In charge of approving expense reports submitted by employees in accordance with Company policy."
+        ]
+      },
+      {
+        "title": "Desired Skills and Experience",
+        "text": [
+          "Bachelor’s degree",
+          "Outstanding oral and written communication skills",
+          "Superior planning, organization, and problem-solving skills",
+          "Attention to details, follow-up, and time management skills",
+          "Excellent relationship building and people skills together with the ability to work well independently",
+          "Fluent in English (writing and speaking)",
+          "Basic knowledge in Excel"
+        ]
+      }
+    ],
+    "form": {
+      "title": "Apply: Sales Operations Administrator",
+      "required": "Required fields",
+      "label": [
+        "First name",
+        "Last name",
+        "Email Address",
+        "Location",
+        "Phone number",
+        "Resume"
+      ],
+      "button": [
+        "Click to upload",
+        "Submit Application"
+      ]
+    }
+  },
+  "applySpecial": {
+    "label": [
+      "PlasBit",
+      "GENERAL",
+      " - Remotes - Full Time"
+    ],
+    "title": ["HR Payroll Specialist", "Global Data Privacy Notice for Job Candidates and Applicants"],
+    "text": [
+      "PlasBit was founded in 2020, We believe blockchain technology has the potential to revolutionize the financial industry and cryptocurrency technology allows us to build a more free and open financial system that enables the rights of people to control their own labor and property.",
+      "We are bitcoin payment processor, serving businesses on 6 continents. We’ve created a seamless, secure payment experience used daily by hundreds of thousands of users.",
+      "Imagine yourself contributing to the development of one of the most dynamic Blockchain FinTech companies in the world, re-defining how financial services are conducted.",
+      "This is what it means to be a part of team plasbit.",
+      "PlasBit is also committed to providing reasonable accommodations to individuals with disabilities. If you need a reasonable accommodation because of a disability for any part of the employment process, please send an e-mail to ",
+      "hr@ plasbit.com ",
+      "and let us know the nature of your request and your contact information.  For quick access to screen reading technology compatible with this site click here to download a free compatible screen reader (free step by step tutorial can be found here). Please contact ",
+      "hr@ plasbit.com ",
+      "for additional information or to request accommodations.",
+      "Depending on your location, the General Data Protection Regulation (GDPR) and California Consumer Privacy Act (CCPA) may regulate the way we manage the data of job applicants. Our full notice outlining how data will be processed as part of the application procedure for applicable locations is available here. By submitting your application, you are agreeing to our use and processing of your data as required."
+    ],
+    "terms": [{
+        "title": "Payroll",
+        "text": [
+          "Processing of bi-monthly payroll for UK and Ireland working with Insperity and our UK accounting company",
+          "Kick off the payroll by sending variables and changes to the vendors on time to complete payroll on the 15th and last day of each month",
+          "Properly reviewing and report any inaccuracies to third party vendors to rectify any issues",
+          "Sending approval to Payroll Manager and properly documenting for Payroll Managers final approval of payroll",
+          "Accurate documentation of all communication with vendors and management for SOX compliance"
+        ]
+      },
+      {
+        "title": "TimeStar management",
+        "text": [
+          "Properly maintain the timekeeping system for UK and Ireland employees",
+          "System integrates with Insperity for each payroll and has an integration process for commission to be reported for payroll",
+          "Working with the finance team to complete the PTO accrual monthly",
+          "Answer questions and concerns from employees and their timekeeping needs and requests."
+        ]
+      },
+      {
+        "title": "Reports",
+        "text": [
+          "Create monthly reports for finance at the close of payroll",
+          "ESPP tracking of contributions from payroll",
+          "Ad-hoc payroll reports that are needed"
+        ]
+      },
+      {
+        "title": "On-going payroll items",
+        "text": [
+          "Complete off-cycle payrolls related to terminations or other requests",
+          "Final calculations and proper documentation of final pay is critical for our compliance requirements",
+          "Any inquiries from employees will need to answer in a timely matter"
+        ]
+      },
+      {
+        "title": "Requirements: ",
+        "text": [
+          "Education and Training: 4 years experience in payroll administration, Bachelor’s degree preferred",
+          "Attention to Details: Monitor work operations to ensure compliance with federal and local laws",
+          "Interpersonal Skill: Able to work with a team to ensure accurate processing and meet the HR/payroll needs of a company",
+          "Communication Skill: Proficient in interacting with supervisors and staff especially when answering payroll and timekeeping related questions and concerns"
+        ]
+      }
+    ],
+    "form": {
+      "title": "Apply: HR Payroll Specialist",
+      "required": "Required fields",
+      "label": [
+        "First name",
+        "Last name",
+        "Email Address",
+        "Location",
+        "Phone number",
+        "Resume"
+      ],
+      "button": [
+        "Click to upload",
+        "Submit Application"
+      ]
+    }
+  },
+  "applyPrivacy": {
+    "label": [
+      "PlasBit",
+      "GENERAL",
+      " - Remotes - Full Time"
+    ],
+    "title": ["Legal Counsel - Privacy", "Global Data Privacy Notice for Job Candidates and Applicants"],
+    "text": [
+      "PlasBit was founded in 2020, We believe blockchain technology has the potential to revolutionize the financial industry and cryptocurrency technology allows us to build a more free and open financial system that enables the rights of people to control their own labor and property.",
+      "We are bitcoin payment processor, serving businesses on 6 continents. We’ve created a seamless, secure payment experience used daily by hundreds of thousands of users.",
+      "Imagine yourself contributing to the development of one of the most dynamic Blockchain FinTech companies in the world, re-defining how financial services are conducted.",
+      "This is what it means to be a part of team plasbit.",
+      "PlasBit is also committed to providing reasonable accommodations to individuals with disabilities. If you need a reasonable accommodation because of a disability for any part of the employment process, please send an e-mail to ",
+      "hr@ plasbit.com ",
+      "and let us know the nature of your request and your contact information.  For quick access to screen reading technology compatible with this site click here to download a free compatible screen reader (free step by step tutorial can be found here). Please contact ",
+      "hr@ plasbit.com ",
+      "for additional information or to request accommodations.",
+      "Depending on your location, the General Data Protection Regulation (GDPR) and California Consumer Privacy Act (CCPA) may regulate the way we manage the data of job applicants. Our full notice outlining how data will be processed as part of the application procedure for applicable locations is available here. By submitting your application, you are agreeing to our use and processing of your data as required."
+    ],
+    "terms": [{
+        "title": "Key Requirements:",
+        "text": [
+          "At least seven years of experience in privacy law (experience in a top-tier law firm and in-house legal department preferred) and in good standing with a state Bar",
+          "CIPP/E and CIPP/US – Advantage",
+          "Must have expertise in data protection laws and practices including an in-depth understanding of the GDPR and CCPA/CPRA, and their technological applications in the Hi-Tech and cyber security industries",
+          "Must have strong project management skills and be able to handle multiple projects at a time",
+          "Must have excellent written and verbal communication skills with strong attention to detail and be able to research legal issues effectively",
+          "Ability to appreciate the business side of an operation, as well as the legal and balance appropriately.",
+          "Must have strong interpersonal skills and ability to work well both independently and as part of a team",
+          "Fluent in English"
+        ]
+      },
+      {
+        "title": "Responsibilities:",
+        "text": [
+          "Handle regulatory compliance with regard to data privacy matters",
+          "Provide specialized advice on legal and regulatory privacy and data compliance requirements",
+          "Review technological and commercial materials and create practices in the company to ensure that they are in compliance with data privacy legal requirements",
+          "Draft new and amend existing internal data protection policies, guidelines, and procedures, in consultation with key stakeholders",
+          "Drafting, negotiating, reviewing and executing DPAs and data privacy provisions on behalf of Varonis",
+          "Proactively conduct audits to ensure compliance and address potential issues",
+          "Devise training plans and provide data protection advice and support to employees at the company",
+          "Assisting the Legal Department on special projects, as needed"
+        ]
+      }
+    ],
+    "form": {
+      "title": "Apply: Legal Counsel - Privacy",
+      "required": "Required fields",
+      "label": [
+        "First name",
+        "Last name",
+        "Email Address",
+        "Location",
+        "Phone number",
+        "Resume"
+      ],
+      "button": [
+        "Click to upload",
+        "Submit Application"
+      ]
+    }
+  },
+  "transfersPage": {
+    "first": {
+      "title": [
+        "Transfer worldwide.",
+        "Trusted. ",
+        "Everyday. Everywhere."
+      ],
+      "text": [
+        "Open an account for free to send money online in minutes to more than 130 countries.",
+        "A fast and secure way to send money on the go in the UK and worldwide.",
+        "Track your payments and view your transfer history from anywhere."
+      ],
+      "button": [
+        "Open an account",
+        "Learn more"
+      ]
+    },
+    "second": {
+      "cards": {
+        "title": [
+          "Custodial bank account",
+          "Regulation in United Kingdom",
+          "Account Protection",
+          "Secure electronic transaction protocols ",
+          "User data protection",
+          "Dedicated Anti-fraud staff"
+        ],
+        "text": [
+          "Fiat balances, held as cash in dedicated custodial accounts separate from PlasBit funds and will never be used for corporate purposes.",
+          "Cryptocurrencies markets are unregulated services which are not governed by any specific European regulatory framework (including MiFID).",
+          "Client accounts at PlasBit are protected by the Securities Investor Protection Corporation ('SIPC') for a maximum coverage cash sublimit of $250,000",
+          "We use 2-factor authentication to protect all accounts and transactions. That means you — and only you — can get to your money.",
+          "Our Customer data privacy suit to comply with all laws powered by blockchain technology for maximum security.",
+          "The overall objective of PlasBit's anti-fraud strategy is to improve prevention, detection and the conditions of a fraud"
+        ]
+      },
+      "title": "Protecting you and your crypto",
+      "text": [
+        "PlasBit is a fast and secure service that lets you transfer money online. We uphold the highest data and privacy standards for our customers and adhere to strict banking regulations and industry standards.",
+        "Scams target people of all backgrounds, ages and income levels across the UK. Find out how to avoid becoming a victim with this thorough guide."
+      ],
+      "button": "Learn how to stay safe"
+    },
+    "third": {
+      "title": [
+        "Track your ",
+        "transfer status ",
+        "every step of the way."
+      ],
+      "text": "Send money anytime, anywhere. Instantly transfer money to an external bank account of your choice, or set a transfer day schedule.",
+      "button": "Get Started"
+    },
+    "fourth": {
+      "faqs": {
+        "title": [
+          "1. Register or log in ",
+          "2. Fund your account with cryptocurrency",
+          "3. Set up your transfer",
+          "4. If necessary, Send us supporting documents",
+          "5. You must check if the details entered are correct",
+          "6. Confirm your transfer and That's it"
+        ],
+        "text": [
+          "Sign up online or log in to your exiting account. All you need is an email address.",
+          "Send cryptocurrency from another exchange or hardware wallet to your PlasBit wallet.",
+          "Go to tab Wallet → Deposit → send your selected coins and send to your wallet address.",
+          "Enter the recipient’s details in the form in the transfers tab : ",
+          "Recipient Account Name ",
+          "Account number ",
+          "Destination country ",
+          "Amount ",
+          "Etc. ",
+          "The system will calculate and display the amount adjusted including the fee and the currency exchange rate",
+          "We may need to ask you about your relationship with the sender, or the purpose of the payment. This is a regulatory requirement for us, and it helps us to make sure that our services are safe for everyone.",
+          "If there is a mistake, you can amend the information before the transfer has been received.",
+          "Track your transfer progress and Notify your recipient that the money is on the way."
+        ]
+      },
+      "title": [
+        "How it works",
+        "Simple guide to send large amounts"
+      ],
+      "button": "Download the full guide"
+    },
+    "fifth": {
+      "title": [
+        "If your money comes from "
+      ],
+      "options": [{
+          "text": "A property sale"
+        },
+        {
+          "text": "Inheritance"
+        },
+        {
+          "text": "Salary"
+        },
+        {
+          "text": "Investments"
+        },
+        {
+          "text": "A loan"
+        },
+        {
+          "text": "Different source"
+        }
+      ],
+      "titles": [
+        "Documents you may need",
+        "Information we need to see"
+      ],
+      "texts": [{
+          "type": "property",
+          "title": "Sales agreement or solicitor's letter",
+          "items": [
+            "Signatures of both partiesr",
+            "Property address and description",
+            "Dates of ownership"
+          ]
+        },
+        {
+          "type": "inheritance",
+          "title": "Grant of probate or will",
+          "items": [
+            "Name and signature of the person who made the will",
+            "Your relationship to that person"
+          ]
+        },
+        {
+          "type": "salary",
+          "title": "3 months of payslips or employment contract",
+          "items": [
+            "Your role and annual salary",
+            "Employer's name and address",
+            "Dates of employment",
+            "Dates you were paid"
+          ]
+        },
+        {
+          "type": "investments",
+          "title": "Investment certificate or investment statement",
+          "items": [
+            "Investment amount",
+            "Dates of investment",
+            "Type of investment"
+          ]
+        },
+        {
+          "type": "loan",
+          "title": "Loan statement",
+          "items": [
+            "Loan purpose",
+            "Amount borrowed",
+            "Lender's name and address",
+            "Date you received the money"
+          ]
+        },
+        {
+          "type": "something",
+          "title": "Another document",
+          "items": [
+            "Date you received the money",
+            "Amount you received",
+            "Reason you received it"
+          ]
+        }
+      ],
+      "text": "",
+      "table": [{
+          "title": "Documents you may need",
+          "text": "Infomation we need to see"
+        },
+        {
+          "title": "Bank statements",
+          "text": [
+            "Name and account number",
+            "The money going in and out of your account"
+          ]
+        }
+      ],
+      "button": "Learn more about documents"
+    },
+    "sixth": {
+      "title": "",
+      "steps": [{
+          "title": "Create an Account",
+          "text": "Sign up online, All you need is an email address."
+        },
+        {
+          "title": "Add recipient details",
+          "text": "Fill in the banks details and amount"
+        },
+        {
+          "title": "Confirm and Send",
+          "text": "confirm and get your transfer out to your recipient without delay."
+        }
+      ],
+      "button": "Get Started"
+    },
+    "seventh": {
+      "title": "FAQs",
+      "faqs": [{
+        "title": "How much will it cost to transfer money with PlasBit?",
+        "text": "The total fee will be deducted in addition to the transfer amount. Once you click to check the transfer details a 15 minutes time frame will start and the rate and fee will be held for You to see before your final confirmation to check that you are comfortable with it."
+      }, {
+        "title": "How long will an international payment take?",
+        "text": "The majority of our money transfers are completed on the same day or the following day.Occasionally certain factors can affect the transfer completion date.You can keep track of the transfer progress and we'll keep you updated by email throughout the process."
+      }, {
+        "title": "Is there any limit on how much money I can send with PlasBit?",
+        "text": ["The amount you can transfer with PlasBit is unlimited. You can transfer up to $50,000 USD online per transaction (or currency equivalent) and a maximum of $300,000.00 USD for the last 30 days.", "For larger amounts, you can contact our support and they can guide you through the transfer process to increase your limit."]
+      }, {
+        "title": "Is my money safe and secure at PlasBit?",
+        "text": "Cryptocurrencies markets are unregulated services which are not governed by any specific European regulatory framework (including MiFID). Nevertheless, Customer funds are ring-fenced and held in Tier 1 international banks, so your money is always safe and secure."
+      }, {
+        "title": "Which countries can I send money to?",
+        "text": "There are more than 130 countries and territories you can send to using PlasBit. To see which countries you can send to, simply start sending money or estimating fees."
+      }, {
+        "title": "What payment methods can I use to fund my wallet?",
+        "text": "Currently you can fund your wallet with five major cryptocurrencies - Bitcoin, Ethereum, USDC, Cardano and Litecoin."
+      }, {
+        "title": "How do I send money as a business?",
+        "text": "Simpley select in the transfer form 'business account' and write an appendix in notes section."
+      }]
+    }
+  },
+  "paymentPage":{
+    "first":{
+      "title":[
+        "Enable user to ",
+        "buy or sell crypto ",
+        "from your app."
+      ],
+      "subtitle":"Available across 100+ cryptocurrencies on 75+ blockchains via cards, bank transfers and other payment methods in 125+ countries.",
+      "buttons":[
+        "Integrate now",
+        "Talk to us"
+      ]
+    },
+    "second":{
+      "title":"Payment Infrastructure as a service",
+      "text":[
+      "PlasBit widget integration lets users pay in crypto on your website.",
+      "Easy integration and setup.",
+      "Read documentation"
+    ],
+      "buttons":[
+        "Integrate now",
+        "Talk to us"
+      ]
+    },
+    "third":{
+      "title":"How it Works",
+      "subtitle":"PlasBit allows customers to use cryptocurrencies for everyday purchases online, free of exchange and processing commissions. The customer pays in crypto - the retailer receives payment in local currency minus the PlasBit 1% fee.",
+      "part_1":[
+        "Customers",
+        "Customers Pays in crypto",
+        "0%",
+        "Commission"
+      ],
+      "part_2":"Any crypto wallet",
+      "part_3":[
+        "Pay online with QR code",
+        "PlasBit Widget"
+      ],
+      "part_4":"Transaction processing",
+      "part_5":["Retailers","1%","Commission","Retailer receives <br/> a bank transfer"]
+    },
+    "forth":{
+      "title":[
+        "With ",
+        "PlasBit",
+        " You Get"
+      ],
+      "card_title":[
+        "10+ Cryptocurrencies",
+        "1% Retailer transaction fee",
+        "50+ Local currencies",
+        "0% Zero risk"
+      ],
+      "text":[
+        "Including BTC, ETH, USDT, USDC, ADA, LTC, etc accepted as a means of payment from customers",
+        "* May vary by region and type of presence.",
+        "Automatic payment settlements to the retailer account.",
+        "Zero crypto volatility risk for retailers and customers."
+        ]
+    },
+    "fifth":{
+      "title":"Easy integration and setup",
+      "subtitle":"Your crypto payment gateway is just a click away",
+      "text":[
+        "Set Up an Account",
+        "Choose Your<br /> Integration",
+        "Place Pay Button<br /> on Your Website",
+        "Get Paid"        
+      ],
+      "button":"Start Accepting Crypto"
+    },
+    "sixth":{
+      "main_text":[
+        "PlasBit",
+        "Widget"
+      ],
+      "text":[
+        "Lowest <br />Fees",
+        "Personal<br />Account<br />Manager",
+        "No<br />Chargebacks",
+        "Instant<br />Payments"
+      ]
+    }
+  },
+  "allCards": {
+    "title": "PlasBit Cards",
+    "subtitle": "Fast, Easy, Minimal fees",
+    "carucel": {
+      "title": "Icy White",
+      "advantages": [
+        "Composite metal",
+        "Composite metal",
+        "Composite metal"
+      ],
+      "buttons": [
+        "Learn about PlasBIT Cards",
+        "Compare Card Tiers"
+      ]
+    },
+    "cards": {
+      "title": "Choose the card aligned to your lifestyle",
+      "names": [
+        "PlasBit Anonymous",
+        "PlasBit Plastic",
+        "PlasBit Black"
+      ],
+      "radio": [
+        "Limits",
+        "Fees"
+      ]
+    },
+    "care": {
+      "title": "We’ve taken care of everything",
+      "subtitle": "Our card was designed by crypto users, for crypto users. Cutting out third parties means we set the level of the quality we believe it should be – that’s what sets us apart.",
+      "icons": {
+        "title": [
+          "Various  currencies",
+          "Flexible Access",
+          "Enhanced security",
+          "Use it worldwide",
+          "Track your expenses",
+          "One stop Shop"
+        ],
+        "description": [
+          "Freedom to pay in local currency all around the globe with the tap of a card and low fees",
+          "Provides you the Option to Lock and unlock your card instantly and control how you spend.",
+          "Our Card Includes EMV chip and a  Designated pin Code for ATM's withdrawal ",
+          "Ready to use in millions of locations around the world. Pay with contactless, PIN or simply withdraw cash from any compatible ATM.",
+          "Get instant notifications, access transaction history and swap currencies anytime. ",
+          "Manage your crypto and fiat currencies in one place, and exchange between accounts in seconds."
+        ]
+      }
+    },
+    "about": {
+      "title": [
+        "FAQs about the PlasBit",
+        "Card"
+      ],
+      "questions": [
+        "How much does the PlasBit Card cost?",
+        "How do I order a PlasBit Card?",
+        "How long does shipping take?",
+        "How do I pay using crypto?"
+      ],
+      "answers": [
+        "There is a one-time fee that costs EUR 10  for Virtual Card and EUR 49 physical card  for users in the EU/EEA and USD 10 for Virtual Card and USD 49 for physical card for users in APAC.",
+        "Sign Up and  place your order through Dashboard, It literallytakes less than 5 minutes.",
+        "It typically takes 7 to 9 days for EU/EEA addresses and up to 5weeks for APAC addresses. ",
+        "Just tap, swipe, or use pin & chip with your TenX Visa Card.We take care of the crypto to fiat conversion for you automatically when you pay at any merchant. "
+      ]
+    },
+    "order": {
+      "title": "Order your virtual or plastic card right now",
+      "button": "TRY VIRTUAL NOW"
+    }
+  },
+  "dashboard": {
+    "menu": {
+      "userProfile": "User Profile",
+      "changePassword": "Change Password",
+      "support": "Help &amp; Support",
+      "version": "Version",
+      "logout": "Logout",
+      "search": "Search cryptocurrency, news, etc...",
+      "dashboard": "Dashboard",
+      "wallet": "Wallet",
+      "cards": "Cards",
+      "wires": "Wires",
+      "deposit": "Deposit",
+      "transactions": "Transactions",
+      "security": "Security",
+      "verifications": "Verification",
+      "others": "OTHERS",
+      "news": "News",
+      "community": "Community",
+      "help": "Help",
+      "settings": "Settings",
+      "supports": "Support"
+    },
+    "title": "Dashboard",
+    "text": "An overview of your portfolio and the crypto markets.",
+    "first": [{
+        "text": [
+          "Get more control over",
+          "your Crypto Wallet &",
+          "exchange cryptocurrencies"
+        ],
+        "button": "Explore More"
+      },
+      {
+        "text": [
+          "Easily deposit crypto",
+          "from your wallet and receive",
+          "fiat to your bank account"
+        ],
+        "button": "Explore More"
+      },
+      {
+        "text": [
+          "Reserve and manage",
+          "your visa card",
+          "in the cards dashboard"
+        ],
+        "button": "Order card"
+      }
+    ],
+    "card": {
+      "text": "24Hours"
+    },
+    "second": {
+      "title": "My Wallet",
+      "titleChart": "Asset Allocation"
+    },
+    "third": {
+      "title": "My Card",
+      "details": {
+        "title": "Card Details",
+        "balance": "$10,000",
+        "text": "Current Card Balance",
+        "button": "View Card Details"
+      },
+      "description": [{
+          "title": "Card Currency",
+          "text": "USD"
+        },
+        {
+          "title": "Card Load Limit",
+          "text": "$50,000"
+        },
+        {
+          "title": "Monthly Maintenance",
+          "text": "$10"
+        },
+        {
+          "title": "Card Type",
+          "text": "Virtual"
+        },
+        {
+          "title": "Valid Till",
+          "text": "01/11"
+        }
+      ]
+    },
+    "fourth": {
+      "wallet": {
+        "title": "Recent Wallet Activity",
+        "sent": "Sent",
+        "more": "View More Activities"
+      },
+      "transaction": {
+        "title": "Recent Card Transactions",
+        "more": "View More Transactions"
+      },
+      "verification": {
+        "title": "Account Verification",
+        "description": [{
+            "title": "Confirm your email address",
+            "text": "Add basic account security"
+          },
+          {
+            "title": "Add your phone number",
+            "text": "Get a PlasBit card to easily spend your crypto online"
+          },
+          {
+            "title": "Verify your identity",
+            "text": "It will enable to active higher withdrawal limits and card balances"
+          }
+        ],
+        "verify": "Verify your account"
+      }
+    },
+    "headers": {
+      "verification": "Complete You Account Verification",
+      "activity": "Recent Activity",
+      "cardTransaction": "Recent Card Transactions",
+      "portfolio": "Your Portfolio",
+      "cardDetails": "Card Details"
+    },
+    "verification": {
+      "emailHeader": "Confirm your email address",
+      "emailDescription": "Adds basic account security",
+      "phoneHeader": "Add your phone number",
+      "phoneDescription": "Enables 2 factor authentication",
+      "identityHeader": "Verify your identity",
+      "identityDescription": "It will enable to activate higher withdrawal limits and card balances"
+    },
+    "noData": "There is no data.",
+    "users": "users",
+    "data": "data",
+    "test": "test",
+    "cards": "Cards",
+    "footer": "Copyright © Designed & Developed by PlasBit "
+  },
+  "wires": {
+    "title": "Bank wire transfer",
+    "text": [
+      "Transfer Completion: 0-3 business days",
+      "Transfer Fee: 5% of the amount transferred",
+      "Min amount USD 1,000.00 per transaction.",
+      "Max amount USD 50,000.00 per transaction.",
+      "Max amount USD 50,000.00 per day.",
+      "Max amount USD 300,000.00 for the last 30 days.",
+      "ATTENTION:",
+      "please make sure all your bank details are correct.",
+      "A fee of 50 USD is charged for a transfer confirmation."
+    ],
+    "details": {
+      "title": "Receiving bank account details:",
+      "label": [
+        "Recipient Account type:",
+        "Recipient Account Name:",
+        "Bank name:",
+        "Account number or IBAN:",
+        "Receiver Bank Address:",
+        "Receiver Bank BIC/SWIFT Code:",
+        "Notes"
+      ]
+    },
+    "form": {
+      "label": [
+        "Choose wallet",
+        "Choose currency",
+        "AMOUNT OF TRANSFER",
+        "Fee",
+        "Amount debited",
+        "Amount in Crypto"
+      ],
+      "button": "Submit"
+    }
+  },
+  "transactions": {
+    "label": [
+      "Transactions history",
+      "Search by Transaction Type",
+      "Card Transactions",
+      "Wires Transactions",
+      "Search by card type",
+      "Virtual card",
+      "Pro card",
+      "Premium card",
+      "Search by Date Range",
+      "Search by keyword"
+    ],
+    "button": [
+      "Delete"
+    ],
+    "card": [
+      "Date",
+      "Credit",
+      "Debit",
+      "Transaction currency",
+      "Transaction",
+      "Source",
+      "Type",
+      "Description",
+      "Details"
+    ],
+    "transfer": [
+      "Request Date",
+      "Account Type",
+      "Account Name",
+      "Account Number",
+      "Bank Name",
+      "Bank Code",
+      "Notes",
+      "Sent in fiat",
+      "Currency",
+      "Amount in Crypto",
+      "Coin",
+      "Status",
+      "Action",
+      "Confirmation Doc",
+      "Details"
+    ]
+  },
+  "supports": {
+    "title": "Support Service",
+    "description": ["For your convenience we have provided several contact methods.", " Our support team is here to help!", "If you still need to reach out we will respond to a ticket typically within 12 hours.", " When emailing us or opening a ticket please be as specific as possible.", "For urgent matters please reach out to us via ", "Telegram", ", ", "WhatsApp", " or ", "phone", "."],
+    "services": [{
+        "title": "Frequently Asked Questions - FAQ",
+        "text": ["Pick a topic and find the information you need, or just browse the FAQ to get a better understanding of our Dashboard and Website."]
+      },
+      {
+        "title": "Tickets",
+        "text": ["Please create a ticket with your questions or a detailed description of your problem. ", "We will review it and get back to you with a response or solution as soon as possible."]
+      },
+      {
+        "title": "Online chat",
+        "text": [ "Use the chat icon in the bottom right hand corner to quickly get in touch with our support team representative. ", "You can also contact us via telegram ", "@plasbit", " or WhatsApp ", "+44 15 1453 5555" ]
+      },
+      {
+        "title": "Phone Support",
+        "text": [ "Our call center support representatives will be happy to help every day 7 AM to 6 PM GMT. ", "Please note that we may kindly ask you to create a support ticket with the details of your request to follow up your issue.", "+44 15 1453 5555" ]
+      }
+    ],
+    "notice": [
+      "Security Notice: ",
+      "PlasBit Support will NEVER ask you to share your account password or 2-step verification codes, ",
+      "or request that you install remote sign-in software on your computer.",
+      "If anyone claiming to be associated with PlasBit Support requests this information, immediately contact us.",
+      "PlasBit will also NEVER make outbound phone calls. Please do not comply with anyone who called you claiming to be PlasBit Support."
+    ]
+  },
+  "verification": {
+    "pageTitle": "Verification",
+    "subTitle": "Phone Verification",
+    "secure": [
+      "We will ",
+      "Not Share ",
+      "your Personal Data or Usage Data with any third party under any circumstances."
+    ],
+    "modal": [
+      "Instructions",
+      "In case you do not receive SMS with a verification code, please try to do the following:",
+      "1.",
+      "Make sure that your phone is on and connected to the mobile network.",
+      "2.",
+      "Check if you selected the correct country code and inserted the phone number correctly.Type only your area code and phone number, without spaces, parentheses, hyphens or extra zeros.The country code is included automatically once you select it in the dropdown menu.",
+      "3.",
+      "Request a voice call verification, if the option is available in your country.",
+      "4.",
+      "Wait for 24 hours and try one more time",
+      "It is not possible to sign up using a phone number that has already been registered in another PlasBit account.",
+      "If you still cannot verify your phone number, please ",
+      "contact support ",
+      "by attaching a screenshot of the page with the phone number inserted and any possible error message.",
+      "The expected support response time is 24 hours."
+    ],
+    "sms": [
+      "Confirm deactivating your account's phone number",
+      "To confirm the SMS deactivation enter the code sent by SMS to your phone number in the field below.",
+      "If you did not receive the SMS, you may instead wait twenty four hours (24h) to start the deactivation process again or",
+      " Contact Support ",
+      "Confirmation Code*:",
+      "********",
+      "The code was sent by SMS"
+    ],
+    "deactive": [
+      "Deactivate your account's phone number",
+      "You can deactivate your account phone number here. If you proceed, we will send a confirmation SMS to the phone number. You can finish the deactivation process instantly with the confirmation code.",
+      "If the phone number is inaccessible, please ",
+      " contact support ",
+      "The disconnection process may be canceled at any time before the final disconnection happens.",
+      "Yes, deactivate SMS*"
+    ]
+  },
+  "registration": {
+    "passwordStrength": "Password should contain at least 6 characters,having 1 uppercase, 1 lowercase and 1 digit",
+    "resetSuccess": "Password reset successful.",
+    "emailExists": "Email is already taken!",
+    "title": "Register to PlasBit",
+    "terms": [
+      "I agree to the ",
+      "Terms of Use",
+      " and ",
+      "Privacy Policy"
+    ]
+  },
+  "login": {
+    "incorrect": "Incorrect email or password",
+    "title": "Login to PlasBit",
+    "button": "Log in",
+    "password": "Forgot your password?",
+    "signup": "Sign up"
+  },
+  "cards": {
+    "title": "PlasBit cards",
+    "text": [
+      "Get a PlasBit card to easily spend your crypto online, in-person in shops or withdraw fiat at ATMs worldwide.",
+      "Our cards come with different fees and limits so read carefully and choose the card that best suits your needs.",
+      "*Cards and wallets are separate so remember to load your card before use. *"
+    ],
+    "withdrawl": [
+      "For your Safety, We Require you to Enable an extra layer ",
+      "of protection that requires a second confirmation via a ",
+      "code before being granted access to withdrawal funds. ",
+      "To verify your phone, please Click Here",
+      "Verify Phone now"
+    ]
+  },
+  "wallet": {
+    "title": "Wallet",
+    "deposit": {
+      "coin": "Coin",
+      "balance": "Available Balance:",
+      "help": {
+        "title": "Need Help?",
+        "text": {
+          "BTC": [
+            "If you have deposited, please pay attention to the text messages, site letters, and emails we send to you.",
+            "Coins will be deposited after 1 network confirmations.",
+            "Until 3 confirmations are made, an equivalent amount of your assets will be temporarily unavailable for withdrawals.",
+            "You cannot make transactions between PlasBit Wallets."
+          ],
+          "USDC": [
+            "If you have deposited, please pay attention to the text messages, site letters, and emails we send to you.",
+            "Coins will be deposited after 1 network confirmations.",
+            "Until 35 confirmations are made, an equivalent amount of your assets will be temporarily unavailable for withdrawals.",
+            "You cannot make transactions between PlasBit Wallets."
+          ],
+          "ETH": [
+            "If you have deposited, please pay attention to the text messages, site letters, and emails we send to you.",
+            "Coins will be deposited after 1 network confirmations.",
+            "Until 35 confirmations are made, an equivalent amount of your assets will be temporarily unavailable for withdrawals.",
+            "You cannot make transactions between PlasBit Wallets."
+          ],
+          "LTC": [
+            "If you have deposited, please pay attention to the text messages, site letters, and emails we send to you.",
+            "Coins will be deposited after 1 network confirmations.",
+            "Until 12 confirmations are made, an equivalent amount of your assets will be temporarily unavailable for withdrawals.",
+            "You cannot make transactions between PlasBit Wallets."
+          ],
+          "ADA": [
+            "If you have deposited, please pay attention to the text messages, site letters, and emails we send to you.",
+            "Coins will be deposited after 1 network confirmations.",
+            "Until 10 confirmations are made, an equivalent amount of your assets will be temporarily unavailable for withdrawals.",
+            "You cannot make transactions between PlasBit Wallets."
+          ]
+        }
+      },
+      "network": "Deposit network ",
+      "average": {
+        "BTC": "Average arrival time: 20 minutes",
+        "USDC": "Average arrival time: 5 minutes",
+        "ETH": "Average arrival time: 5 minutes",
+        "LTC": "Average arrival time: 20 minutes",
+        "ADA": "Average arrival time: 5 minutes"
+      },
+      "address": " address",
+      "send": {
+        "title": "Send only {$coin} to this deposit address.",
+        "text": "Sending coins or tokens other then {$coin} to this address may result in the loss of your deposit."
+      },
+      "history": "Wallet Transaction History"
+    },
+    "withdraw": {
+      "transferNetwork": [
+        "Transfer network",
+        "Please make sure that the currency is charged and ",
+        "withdrawn on the same network, otherwise ",
+        "the currency withdrawal cannot be successful. ",
+        "The different effects of the network are the rate, the ",
+        "minimum amount of money withdrawn and transfer time."
+      ]
+    }
+  },
+  "deposits": {
+    "tables": {
+      "headers": [
+        "Fee%",
+        "Fee",
+        "Completion",
+        "You spend"
+      ],
+      "values": [
+        "VISA",
+        "MasterCard",
+        "SEPA",
+        "Local Bank",
+        "Bitcoin",
+        "Etherium",
+        "Bitcoin Cash",
+        "Ripple",
+        "Tether"
+      ],
+      "completion": [
+        "Instant",
+        "3 business bay",
+        "6 Bitcoin network confirmations",
+        "18 Etherium network confirmations 1 TRON network"
+      ],
+      "button": "DEPOSIT"
+    },
+    "title": [
+      "Bank Card",
+      "Wire transfer",
+      "E - currencies"
+    ],
+    "pageTitle": "Depositing funds to account",
+    "inputTitle": "AMOUNT AND CURRENCY OF DEPOSIT",
+    "modalTitle": "Payment conformation",
+    "amount": "AMOUNT OF TRANSFER",
+    "tableTitleBank": "Bank Card",
+    "tableTitleWire": "Wire transfer",
+    "tableTitleE": "E - currencies",
+    "cash": "Cash Transfer",
+    "cashTable": [
+      "Currency",
+      "USD to PlasBit",
+      "Fee%",
+      " (min 500 USD)",
+      "Processing time",
+      "15 min - 24 hours",
+      "Exchange type",
+      "MANUAL"
+    ],
+    "completion": {
+      "title": [
+        "Completion: ",
+        "Instant",
+        " Fee: "
+      ],
+      "agent": [
+        "Completion: Instant Fee: 10.00%",
+        "Agent detils",
+        "First Name:",
+        "Last Name:",
+        "Country:",
+        "CIty:",
+        "Zip Code:"
+      ],
+      "notes": [
+        "Please note that you fill in receiving Agent nameexacly as it appears on top.",
+        "To avoid any delays in the processing of you transfer, please note Thatits the same name as it appers on the agent government-issued ID."
+      ]
+    },
+    "details": {
+      "tab": [
+        "Inside EU and EEPA",
+        "Outside EU and EEPA"
+      ],
+      "content": [{
+          "label": "Account holder",
+          "text": "Boris"
+        },
+        {
+          "label": "BIC",
+          "text": "TRWIBEB1XXX"
+        },
+        {
+          "label": "IBAN",
+          "text": "BE65 9672 4347 3396"
+        },
+        {
+          "label": "Wise's address",
+          "text": [
+            "Avenue Louise 54, Room S52",
+            "Brussels",
+            "1050",
+            "Belgium"
+          ]
+        }
+      ],
+      "text": [
+        "Use these details to add or receive EUR from bank accounts inside EU and SEPA.",
+        "Incoming payments take 1-2 working days to be added to your account",
+        "SEPA includes countries in the EU and EEA"
+      ],
+      "link": [
+        "See how to use EUR account details",
+        "See what you can do with account details"
+      ]
+    },
+    "btc": {
+      "title": "Deposit Bitcoin",
+      "text": [
+        "please transfer the exact amount of ",
+        "xxxxxx ",
+        " BTC to the BTC address shown on this page in one transaction.",
+        "Send exactly the amount shown if you wish to credit your wallet in the sum amount of ",
+        "xxxxxx ",
+        " USD.",
+        "The funds will be credited to your wallet as soon as we get 3 confirmations from the bitcoin network.",
+        "Please note that the Bitcoin address our system provided you for this funding is identical to your BTC wallet address.",
+        "The exchange rate is fixed to the amount you requested in USD. ",
+        "In any case, you will be credited to your wallet the exact amount that been transferred in BTC, There are no fees commissions. "
+      ]
+    }
+  },
+  "ticket": {
+    "faq": [{
+        "title": "Morbi eget nisl pulvinar, pharetra massa eu, laoreet dui.",
+        "text": "Morbi eget nisl pulvinar, pharetra massa eu, laoreet dui. Sed e, Morbi eget nisl pulvinar, pharetra massa eu, laoreet dui."
+      },
+      {
+        "title": "Sed eget tellus eu justo efficitur pharetra.",
+        "text": "Sed eget tellus eu justo efficitur pharetra."
+      },
+      {
+        "title": "In sodales lorem ac congue interdum.",
+        "text": "In sodales lorem ac congue interdum. In sodales lorem ac congue interdum."
+      },
+      {
+        "title": "Fusce viverra ante id facilisis lobortis.",
+        "text": "Fusce viverra ante id facilisis lobortis. Fusce viverra ante id facilisis lobortis."
+      },
+      {
+        "title": "Proin mattis nisi eu congue ultricies.",
+        "text": "Proin mattis nisi eu congue ultricies. Proin mattis nisi eu congue ultricies."
+      }
+    ],
+    "title": ["Ticket", "You can contact our support service at any time to ask a question or get help in solving a problem."],
+    "button:": {
+      "create": "CREATE TICKET",
+      "delete": "DELETE",
+      "back": "Go Back",
+      "send": "SEND"
+    }
+  },
+  "depositConfirmation": {
+    "creditCard": {
+      "title": "Payment confirmation",
+      "toWallet": "TO WALLET",
+      "amount": "AMOUNT OF TRANSFER",
+      "fee": "FEE",
+      "credit": "AMOUNT TO BE CREDITED",
+      "rules": {
+        "title": "Funding your account with a bank card is fast and easy. Just follow a few simple rules.",
+        "rules": [
+          "-Your daily funding cannot exceed $8,000 in any currency or currencies.",
+          "-Plastic card only.We do not accept virtual cards.",
+          "-Only cards in your name.We do not accept anonimus cards.",
+          "-We do not accept corporate/business cards.",
+          "-Only cards issued in the country of your profile address.",
+          "-You can use different cards, but not more than 2 cards every 60 days.",
+          "-We do not accept physically damaged cards."
+        ]
+      },
+      "verification": {
+        "title": "Verification",
+        "text": [
+          "We need to verify all the cards that you will be using. This verification is a simple check we are required to do under commonly accepted card payment security practices.",
+          "Please complete the verification within 72 hours. After that , your incomplete deposit transaction will be dropped."
+        ]
+      },
+      "howWork": {
+        "title": "How does verification work?",
+        "text": [
+          "-When you first use a card, we email you asking to kindly do a few simple things.",
+          "-After avery thing is done, deposit with this card will no longer require this check.",
+          "-If you use a new card, we will need to verify it to."
+        ]
+      },
+      "whatNeed": {
+        "title": "What will need?",
+        "text": [
+          "-The card you are using for the deposit.",
+          "-A photo ID.",
+          "-A modern digital camera or a smartphone."
+        ]
+      },
+      "steps": {
+        "title": "What are the steps?",
+        "text": [
+          "-We send you the instruction email.",
+          "-You take a few photos and upload them using the link in the email.",
+          "-We check your photos.",
+          "-If things are OK,your deposit completes automatically."
+        ]
+      },
+      "ifDont": {
+        "title": "What if I don't complete this verification?",
+        "text": [
+          "-Your card deposit will be canceled.",
+          "-Your bank will unblock the pre-authorised amount on your card within 3-14 business days. In some banks it may take longer. Please contact your bank for further details. "
+        ]
+      },
+      "alert": [
+        "Transactions are monitored by compliance department. ",
+        "Please note that we may request additional documents from you to confirm your deposit."
+      ],
+      "buttons": [
+        "Change details",
+        "CONFIRM"
+      ]
+    }
+  },
+  "error": {
+    "LOGGED_OUT": "You must be logged in",
+    "UNAUTHORIZED": "You are not authorized",
+    "INSUFFICIENT_FUNDS": "Insufficient funds",
+    "INVALID_INPUT": "Entered input is invalid",
+    "TOKEN_EXPIRED": "Token has expired",
+    "TOKEN_WRONG": "Incorrect token",
+    "MISSING_DATA": "Missing data",
+    "UNVERIFIED": "Email verification required",
+    "ACTION_REPEATED": "Action has already been completed before",
+    "MOCK_BTC_DATA_IS_OFF": "MOCK_BTC_DATA_IS_OFF",
+    "INTERNAL_SERVER_ERROR": "Internal server error",
+    "NOT_FOUND": "404 not found"
+  },
+  "cookies": {
+    "cookiePopOut": {
+      "cookieLine": {
+        "text_1": " We respect your privacy so we never collect or store sensitive or identifying unnecessary information about our users. ",
+        "text_2": "All the data we collect is for the sole purpose of improving our website.",
+        "text_3": "We are not concerned with maximizing profits at the expense of our community so feel free to use our services without sharing your information."
+      }
+    }
+  }
+}

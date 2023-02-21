@@ -1,0 +1,14 @@
+.price_second {
+    width: 100%;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+
+.coin-icon {
+    width: 34px !important;
+    height: 34px !important;
+    min-width: 34px !important;
+    z-index: 1 !important;
+    left: 0 !important;
+    margin-top: 0 !important;
+}

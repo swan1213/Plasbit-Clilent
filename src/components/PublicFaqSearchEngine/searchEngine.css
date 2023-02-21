@@ -1,0 +1,38 @@
+.PublicFaq_search_container {
+        margin: 53px 0 31px 0;
+    }
+    
+.PublicFaq_search_container_inner {
+    max-width: 1112px;
+    margin: 0 auto;
+    height: 148px;
+    background-color: #E5E5E5;
+    border-radius: 13px;
+}
+
+.PublicFaq_search_bar_container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.PublicFaq_search_bar_container_inner {
+    padding: 46px 0px 45px 0;
+    position: relative;
+}
+
+.search_error_container{
+    position: absolute;
+    bottom: 18px;
+    left: 10px;
+}
+
+p.error_message {
+    color: red;
+}
+
+@media screen and (max-width: 1320px) {
+    .PublicFaq_search_container_inner{
+        max-width: 334px;
+        height: 226px;
+    }
+}

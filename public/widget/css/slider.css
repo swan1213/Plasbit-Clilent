@@ -1,0 +1,132 @@
+#crypto_chart {
+    width: 100%;
+    height: 115px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-bottom: 30px;
+}
+
+.coin-slider-panel,
+.coin-slider-group,
+.coin-slider-cache-group {
+    background: transparent;
+}
+
+.coin-slider-panel {
+    margin: 15px 15px 10px 15px;
+    height: 54px;
+    border-radius: 4px;
+    overflow: hidden;
+    display: flex;
+}
+
+.coin-slider-group {
+    display: flex;
+    align-items: center;
+    padding: 8px 0;
+
+    animation: move;
+    animation-duration: 15s;
+    animation-delay: 3s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    animation-fill-mode: forwards;
+}
+
+.coin-slider-cache-group {
+    display: flex;
+    align-items: center;
+    padding: 8px 0;
+
+    animation: move;
+    animation-duration: 15s;
+    animation-delay: 3s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    animation-fill-mode: forwards;
+}
+
+.chart-coin-item {
+    min-width: 220px;
+    height: auto;
+    cursor: pointer;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.coin-slider-panel:hover .coin-slider-group,
+.coin-slider-panel:hover .coin-slider-cache-group {
+    animation-play-state: paused;
+}
+
+.chart-coin-group {
+    display: flex;
+    align-items: center;
+}
+
+.chart-coin-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 8px 0 15px;
+}
+
+.chart-coin-image img {
+    margin-top: 0px !important;
+    left: 0px !important;
+    min-width: 24px !important;
+    height: 24px;
+    background-repeat: no-repeat;
+}
+
+.chart-coin-name {
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.chart-coin-symbol {
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.chart-coin-latest {
+    font-size: 14px;
+    text-align: right;
+    font-weight: 500;
+}
+
+.chart-coin-percent {
+    font-size: 12px;
+    text-align: right;
+    font-weight: bold;
+}
+
+.crypto-join-plasbit {
+    font-size: 12px;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+}
+
+.crypto-join-plasbit div {
+    width: 25px;
+    height: 25px;
+    margin: 0 5px;
+    background: url('https://img.plasbit.com/calc/widget_logo.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.coin-empty-text {
+    font-size: large;
+    text-align: center;
+    margin: 40px 0 15px;
+}
+
+@keyframes move {
+    from { transform: translateX(0); }
+    to { transform: translateX(-100%); }
+}

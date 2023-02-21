@@ -1,0 +1,380 @@
+.navbar {
+    position: fixed !important;
+    background: #FFFFFF;
+    top: 0;
+    width: 100%;
+    padding-right: 7.5%;
+    padding-left: 7.5%;
+    padding-top: 3em;
+    padding-bottom: 0.5em;
+    z-index: 1;
+    transition: all .25s linear;
+}
+
+.navbar.scrolled {
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    background: #FFFFFF;
+}
+
+.rc-anchor-normal {
+    height: 74px;
+    width: 294px !important;
+}
+
+.content {
+    margin-top: 180px;
+}
+
+.preff {
+    background-color: lightgrey;
+}
+
+.preff-prefix {
+    background-color: lightgrey;
+}
+
+.exampleText {
+    font-size: 24px;
+    text-align: center;
+}
+
+.navbarContent {
+    width: 100%;
+    height: 100%;
+    border-bottom: 1.75px solid #f2f2f2;
+}
+
+.navbarOption {
+    background: transparent;
+    border: none;
+    font-size: 20px;
+    padding: 5px 5px;
+}
+
+.navbarOption.getStartedBtn:hover {
+    color: white;
+    background: #24c;
+}
+
+.getStartedBtn {
+    padding: 15px 20px;
+    background: #4f6ef7;
+    border-radius: 5px;
+    color: white;
+}
+
+.navbarOption.selected {
+    border-bottom: 3px solid blue;
+}
+
+.navbarOption:focus {
+    outline: none;
+}
+
+.navbarOption:hover {
+    color: #214497;
+}
+
+.dashboardHeader {
+    background: rgb(60, 82, 220) !important;
+}
+
+.profile-panel {
+    text-align: center;
+}
+
+.navbarIcon {
+    margin-right: 15px;
+    width: 6rem;
+}
+
+.dropdownArrow {
+    height: 0;
+    width: 0;
+    border-top: 5px solid #98aafa;
+    border-right: 5px solid transparent;
+    border-left: 5px solid transparent;
+    float: right;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+.navbarVerticalLine {
+    border-left: 1px solid #dfdfdf;
+    height: 28px;
+    margin: auto;
+    padding: 0 10px;
+}
+
+.navbarDropdown {
+    padding-top: 10px;
+    position: relative;
+    display: inline-block;
+}
+
+.dropdownContent {
+    position: absolute;
+    background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, .15);
+    border-radius: .25rem;
+    z-index: 2;
+    display: inline;
+    list-style-type: none;
+    padding: 10px;
+    bottom: 0;
+    transform: translate(-125px, calc(100% + 10px));
+    display: block;
+    width: 350px;
+    opacity: 1;
+    transition: opacity .5s;
+}
+
+.dropdownContent.hide {
+    transition: opacity 0s;
+    opacity: 0;
+}
+
+.dropdownContent.show {
+    display: block;
+}
+
+.dropdownContent:after {
+    top: -8px;
+    left: 50%;
+    border-right: 8px solid transparent;
+    border-bottom: 8px solid #fff;
+    border-left: 8px solid transparent;
+}
+
+.dropdownContent:after,
+.dropdownContent:before {
+    position: absolute;
+    content: "";
+    display: inline-block;
+}
+
+.dropdownContent:before {
+    top: -9px;
+    left: 50%;
+    border-right: 9px solid transparent;
+    border-bottom: 9px solid #d9d9d9;
+    border-left: 9px solid transparent;
+}
+
+.navbarButtonGroup {
+    margin: auto 0;
+}
+
+.rightNavbarGroup {
+    display: none;
+}
+
+/* .navbar-toggler-icon {
+    height: 1.5em;
+    vertical-align: middle;
+    content: "";
+    position: relative;
+    top: .4rem;
+    left: .8rem;
+    background: url(./../img/navbarMenu.svg) no-repeat !important;
+    width: 1.563em !important;
+} */
+
+.dropdownButton:hover {
+    background: lightblue;
+}
+
+.passwordInput+div {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+.cardRow {
+    padding: 10px;
+    margin: 10px 0;
+    border: #eeeeee 2px solid;
+}
+
+.phraseInput {
+    background-color: lightblue;
+    border: none;
+}
+
+.phraseInput:focus {
+    border: none;
+}
+
+.whiteBackground {
+    background: white !important;
+}
+
+.grayBorder {
+    border: 1px solid rgb(240, 240, 240);
+    border-radius: 5px;
+    padding: 2px;
+}
+
+.walletActionContainer {
+    border: 1px solid rgb(240, 240, 240);
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.verticalDivider {
+    height: 60%;
+    width: 1px;
+    background: white;
+    position: absolute;
+    top: 10%;
+}
+
+.accountButtonContainer {
+    text-align: center;
+}
+
+.accountButtonContainer #login-buttons {
+    position: relative !important;
+    top: inherit !important;
+    right: inherit !important;
+    display: block !important;
+    margin-top: 20px !important;
+}
+
+.accountButtonContainer .login-link-text {
+    position: relative;
+    color: white;
+    text-align: center;
+}
+
+.profile-trigger {
+    cursor: pointer;
+    color: white;
+}
+
+.totalBalanceTitle {
+    color: gray !important;
+    width: 200px !important;
+    border-bottom: 1px solid lightgray !important;
+    font-size: 18px;
+    padding: 0 5px;
+}
+
+.noPadding {
+    padding: 0 !important;
+}
+
+.currentPriceContainer {
+    text-align: center;
+}
+
+.hiddenOverflowY {
+    overflow-y: hidden;
+}
+
+.chartButton {
+    padding: 0 5px !important;
+    border-radius: 10px !important;
+    margin: 0px 2px;
+    font-size: 13px !important;
+}
+
+.cardInProgressText {
+    width: 70%;
+    display: block;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.contentContainer {
+    border-style: solid;
+    border-width: 3px 6px;
+    border-color: #eee;
+    padding: 20px 30px;
+}
+
+.transferNetworkRadioText {
+    font-size: 10px;
+    float: right;
+}
+
+.help-span {
+    font-size: 80%;
+    position: relative;
+    bottom: 5em;
+    left: 105%;
+    color: dodgerblue;
+}
+
+@media (min-width: 800px) {
+    .hideOnDesktop {
+        display: none;
+    }
+
+    .profile-panel {
+        padding: 0 2em 0 2em;
+        border-right: 2px solid white;
+        border-left: 2px solid white;
+    }
+}
+
+@media (max-width: 799px) {
+    .hideOnMobile {
+        display: none;
+    }
+}
+
+@media (min-width: 1200px) {
+    .navbarContent {
+        flex-basis: 0;
+        flex-grow: 1;
+        border-bottom: none;
+    }
+
+    .navbarOption {
+        margin: 0 8px;
+    }
+
+    .rightNavbarGroup {
+        display: inherit;
+    }
+
+    .navbar-toggler-icon {
+        display: none !important;
+    }
+}
+
+.cookie-container {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: #0e204e;
+    color: #eeeeee;
+    padding: 20px 32px;
+    box-shadow: 0 -2px 16px rgba(47, 54, 64, 0.39);
+    z-index: 7;
+    font-size: 100%;
+    transition: 400ms;
+}
+
+.cookie-btn {
+    background: #0e204e;
+    color: #eeeeee;
+    border-color: #eeeeee;
+    padding: 12px 48px;
+    font-size: 100%;
+    margin-bottom: 16px;
+    cursor: pointer;
+    border-radius: 14px;
+}
+
+.cookie-manage-button {
+    background: #0e204e;
+    color: #eeeeee;
+    border: 0;
+    font-size: 100%;
+    cursor: pointer;
+    padding: 12px 24px;
+}

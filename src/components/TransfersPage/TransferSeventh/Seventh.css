@@ -1,0 +1,19 @@
+.transfer_seventh .faqs {
+    width: 70%;
+    margin: 50px auto 100px;
+}
+
+.transfer_seventh .transfer_accordion {
+    margin: 10px 0;
+}
+
+@media (max-width: 768px) {
+    .transfer_seventh .title {
+        margin: 30px auto 0;
+    }
+
+    .transfer_seventh .faqs {
+        width: 90%;
+        margin: 0 auto 100px;
+    }
+}

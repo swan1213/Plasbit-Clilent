@@ -1,0 +1,23 @@
+.PublicFaq_card_container{
+    margin:65px 0;
+}
+.PublicFaq_card_container_inner {
+    max-width: 1112px;
+    margin: 0 auto;
+}
+
+.publicFaq_cards_row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+
+@media screen and (max-width:1100px) {
+
+    .PublicFaq_card_container_inner{
+        max-width: 332px;
+        margin: 0 auto;
+    }
+    
+}

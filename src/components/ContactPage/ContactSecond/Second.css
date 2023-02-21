@@ -1,0 +1,145 @@
+.contact_second {
+    min-height: 1000px;
+}
+
+.contact_second .vector {
+    position: absolute;
+    left: 50%;
+    margin-left: 200px;
+    margin-top: -301px;
+}
+
+.contact_second .contact_container {
+    display: flex;
+    width: 80%;
+    margin: -300px auto 100px;
+    justify-content: center;
+}
+
+.contact_second .left_side {
+    background-color: white;
+    padding: 50px 70px;
+    border-radius: 20px 0 0 20px;
+    box-shadow: 0 0 5px lightgrey;
+}
+
+.contact_second .left_side .recaptcha_field, 
+.contact_second .left_side .submit_btn_input {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.contact_second input,
+.contact_second textarea {
+    width: 100% !important;
+    font-size: 20px !important;
+    line-height: 36px !important;
+    color: var(--textBlue) !important;
+    font-weight: bold !important;
+    padding-left: 20px !important;
+    border: none !important;
+    background-color: var(--lightGrey);
+}
+
+.contact_second input {
+    height: 60px !important;
+}
+
+.contact_second .ant-form-item-control {
+    margin-bottom: 15px !important;
+}
+
+.contact_second button {
+    outline: none;
+    cursor: pointer;
+    display: table;
+    padding: 14px 30px;
+    height: auto;
+    font-size: 19px;
+    font-weight: bold;
+    border-radius: 8px;
+    border: 1px solid #1783e7;
+    text-align: center;
+    min-width: 250px;
+    text-transform: capitalize;
+    background-color: transparent;
+    position: relative;
+    transition: all .3s ease;
+    background-image: linear-gradient(90deg, #1783e7 0%, var(--lightBlue) 100%);
+    color: #ffffff;
+}
+
+.contact_second textarea {
+    padding: 20px;
+    height: 200px;
+    max-height: 200px;
+}
+
+.contact_second input:focus,
+.contact_second textarea:focus {
+    outline-color: var(--lightBlue) !important;
+}
+
+.contact_second .right_side {
+    padding: 50px;
+    border-radius: 0 20px 20px 0;
+    background-size: cover;
+    box-shadow: 0 0 5px lightgrey;
+}
+.contact_second .right_side img {
+    width: min-content;
+    height: min-content;
+}
+
+.contact_second .contact_detail {
+    height: 90px;
+    display: flex;
+    align-items: center
+}
+
+.contact_second .contact_detail a:first-child {
+    width: 61px;
+}
+
+.contact_second .contact_detail a:hover {
+    color: white;
+}
+
+.contact_second .contact_detail .text {
+    margin-left: 20px;
+    line-height: 25px;
+}
+
+@media (max-width: 768px) {
+    .contact_second .vector {
+        left: 0;
+        position: relative;
+        width: 70%;
+        margin-top: -55px;
+        margin-left: 80px;
+    }
+
+    .contact_second .contact_container {
+        width: 90%;
+        display: block;
+    }
+
+    .contact_second .left_side {
+        padding: 30px 20px;
+        border-radius: 20px 20px 0 0;
+    }
+
+    .contact_second .title {
+        margin-bottom: 0;
+    }
+
+    .contact_second .btn.active {
+        width: 100%;
+    }
+
+    .contact_second .right_side {
+        padding: 30px 20px;
+        border-radius: 0 0 20px 20px;
+    }
+}

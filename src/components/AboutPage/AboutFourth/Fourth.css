@@ -1,0 +1,58 @@
+.about_fourth .card {
+    display: flex;
+    justify-content: space-between;
+    width: 1200px;
+    margin: 150px auto;
+    padding: 70px 50px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 18px rgba(0, 0, 0, .26);
+}
+
+.about_fourth .box {
+    text-align: center;
+    width: 230px;
+}
+
+.about_fourth .title {
+    margin: 10px 0;
+    font-size: 40px;
+}
+
+.about_fourth .img {
+    height: 73px;
+}
+
+.about_fourth .img img {
+    width: min-content;
+    height: min-content;
+}
+
+.about_fourth .divider {
+    height: 200px;
+    border-right: 1px solid var(--lightGrey);
+}
+
+@media (max-width: 768px) {
+    .about_fourth .card {
+        width: 80%;
+        height: 1000px;
+        flex-direction: column;
+        display: flex;
+        padding: 50px;
+        margin: 50px auto;
+    }
+
+    .about_fourth .box {
+        width: auto;
+    }
+
+    .about_fourth .divider {
+        height: 1px;
+        width: 100%;
+        border-bottom: 1px solid var(--lightGrey);
+    }
+
+    .about_fourth .title {
+        min-height: auto;
+    }
+}

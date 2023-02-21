@@ -1,0 +1,80 @@
+.payment_card {
+    border-radius: 10px;
+    background-color: #ffffff;
+
+    font-family: "Proxima Nova";
+    text-align: center;
+
+    width: 335px;
+    height: 360px;
+    padding: 0 40px;
+    margin: 15px 0;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+
+    position: relative;
+    display: flex;
+    justify-content: start;
+    flex-direction: column;
+    transition: all 0.2s ease;
+    
+}
+
+.payment_card:hover {
+    transform: translate(0, -5px);
+    transition-duration: 0.2s;
+    box-shadow: -1px 5px 10px rgba(0, 0, 0, .26);
+}
+
+.icon {
+    margin-top: 30px;
+    height: 120px;
+}
+
+.body{
+    margin-top: 20px;
+}
+
+.payment_card_font26 {
+    font-size: 26px;
+    color: #1890ff;
+    font-weight: bold;
+    height: 50px;
+}
+
+.payment_card_font20 {
+    margin-top: 20px;
+    font-size: 20px;
+    color: #283957;
+    font-weight: bold;
+}
+
+@media (max-width: 768px) {
+    .payment_card {
+        border-radius: 10px;
+        background-color: #ffffff;
+    
+        font-family: "Proxima Nova";
+        text-align: center;
+    
+        width: 335px;
+        height: 380px;
+        padding: 0 40px;
+        margin: 15px 0;
+        box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+    
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .body{
+        margin-top: 10px;
+    }
+    
+    .payment_card_font26 {
+        font-size: 26px;
+        color: #1890ff;
+        font-weight: bold;
+        height: auto;
+    }
+}
